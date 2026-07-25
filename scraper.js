@@ -80,8 +80,10 @@ async function establishWorker(spec, cfg, log) {
       });
       const page = await context.newPage();
 
-      await page.goto(spec.theatreUrl, { waitUntil: 'domcontentloaded', timeout: 60_000 });
-      await page.waitForSelector('select[name="date"]', { timeout: 25_000 }); // real page => cleared
+      // Fast-fail: a dead/slow residential IP shouldn't stall us — bail quickly
+      // and roll to a fresh IP instead of waiting out long timeouts.
+      await page.goto(spec.theatreUrl, { waitUntil: 'domcontentloaded', timeout: cfg.establishTimeoutMs });
+      await page.waitForSelector('select[name="date"]', { timeout: cfg.selectorTimeoutMs }); // real page => cleared
 
       log(`[${spec.label}] session established${proxyUrl ? ` (fresh IP, try ${t})` : ''}`);
       return { browser, context, page, label: spec.label, proxyUrl };
@@ -120,7 +122,7 @@ async function readDatesAndLabel(worker) {
  */
 async function fetchBatch(worker, items, cfg) {
   return worker.page.evaluate(
-    async ({ items, concurrency, jitter, maxRetries, backoffBase, patterns }) => {
+    async ({ items, concurrency, jitter, maxRetries, backoffBase, patterns, fetchTimeout }) => {
       const nap = (ms) => new Promise((r) => setTimeout(r, ms));
 
       const deslug = (s) =>
@@ -161,7 +163,11 @@ async function fetchBatch(worker, items, cfg) {
           for (;;) {
             try {
               if (jitter) await nap(Math.random() * jitter);
-              const res = await fetch(it.url, { credentials: 'include', headers: { Accept: 'text/html' } });
+              const res = await fetch(it.url, {
+                credentials: 'include',
+                headers: { Accept: 'text/html' },
+                signal: AbortSignal.timeout(fetchTimeout), // don't hang on a dead IP
+              });
               const text = await res.text();
               if (blocked(res.status, text)) {
                 if (++attempt > maxRetries) {
@@ -196,6 +202,7 @@ async function fetchBatch(worker, items, cfg) {
       maxRetries: cfg.maxRetries,
       backoffBase: cfg.backoffBaseMs,
       patterns: PATTERNS,
+      fetchTimeout: cfg.fetchTimeoutMs,
     }
   );
 }
