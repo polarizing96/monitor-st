@@ -72,6 +72,12 @@ async function establishWorker(spec, cfg, log) {
     try {
       browser = await chromium.launch(launchOpts);
       const context = await browser.newContext(CONTEXT_OPTS);
+      // Save residential-proxy bandwidth (billed per-GB): drop images/fonts/media.
+      // Do NOT block scripts/styles — Cloudflare's challenge needs JS to run.
+      await context.route('**/*', (route) => {
+        const t = route.request().resourceType();
+        return t === 'image' || t === 'media' || t === 'font' ? route.abort() : route.continue();
+      });
       const page = await context.newPage();
 
       await page.goto(spec.theatreUrl, { waitUntil: 'domcontentloaded', timeout: 60_000 });
