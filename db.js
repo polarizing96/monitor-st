@@ -28,6 +28,19 @@ async function writeJson(path, data) {
 
 const nowIso = () => new Date().toISOString();
 
+// Human-readable Eastern timestamp for the history log header.
+function readableStamp() {
+  try {
+    return new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/New_York',
+      weekday: 'short', month: 'short', day: 'numeric',
+      hour: 'numeric', minute: '2-digit',
+    }).format(new Date()) + ' ET';
+  } catch {
+    return nowIso();
+  }
+}
+
 export async function openDb({ stateFile = 'seen.json', dropsFile = 'drops.json', historyFile = 'HISTORY.md' } = {}) {
   // seen: { [showtimeId]: {date, dt, status, movie, first_seen} }
   const seen = await readJson(stateFile, {});
@@ -51,7 +64,7 @@ export async function openDb({ stateFile = 'seen.json', dropsFile = 'drops.json'
       return fresh;
     },
 
-    async recordDrop(rows, summary) {
+    async recordDrop(rows, summary, markdown) {
       const entry = {
         detected_at: nowIso(),
         count: rows.length,
@@ -60,18 +73,19 @@ export async function openDb({ stateFile = 'seen.json', dropsFile = 'drops.json'
       };
       drops.push(entry);
       await writeJson(dropsFile, drops);
-      // Prepend to a human-readable log (newest first).
-      const block = `## ${entry.detected_at} — ${entry.count} new\n\n${summary}\n\n`;
+
+      // Prepend a clean markdown block (newest first) to the human-readable log.
+      const stamp = readableStamp();
+      const block = `## ${stamp} · ${entry.count} new\n\n${markdown || summary}\n`;
+      const header = '# AMC showtimes — drop history\n\n';
       let existing = '';
       try {
         existing = await readFile(historyFile, 'utf8');
       } catch (e) {
         if (e.code !== 'ENOENT') throw e;
-        existing = '# AMC showtimes — drop history\n\n';
       }
-      const header = '# AMC showtimes — drop history\n\n';
-      const body = existing.startsWith(header) ? existing.slice(header.length) : existing;
-      await writeFile(historyFile, header + block + body);
+      const prior = existing.startsWith(header) ? existing.slice(header.length) : existing;
+      await writeFile(historyFile, `${header}${block}\n${prior}`.trimEnd() + '\n');
     },
 
     async recentDrops(limit = 20) {

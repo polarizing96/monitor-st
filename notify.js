@@ -16,12 +16,14 @@ export function makeNotifier(cfg) {
     return {
       ready: true,
       channel: 'ntfy',
-      async send(text, title = 'AMC showtimes') {
-        const res = await fetch(url, {
-          method: 'POST',
-          body: text,
-          headers: { Title: title, Priority: 'high', Tags: 'clapper,ticket' },
-        });
+      async send(text, { title = 'AMC showtimes', click } = {}) {
+        const headers = { Title: title, Priority: 'high', Tags: 'clapper,ticket' };
+        // Tapping the notification opens this URL (AMC app on iOS, else web).
+        if (click) {
+          headers.Click = click;
+          headers.Actions = `view, Open in AMC, ${click}`;
+        }
+        const res = await fetch(url, { method: 'POST', body: text, headers });
         if (!res.ok) throw new Error(`ntfy ${res.status}: ${await res.text().catch(() => '')}`);
       },
     };
@@ -64,33 +66,63 @@ export function makeNotifier(cfg) {
 //     Tue 7/28: 6:00pm, 9:30pm
 const MAX_MOVIES = 20;
 
-export function formatAlert(newRows, theatreLabel) {
-  const n = newRows.length;
-
+// Group rows by movie (sorted by earliest showtime), and for each movie group
+// its times by local date. Shared by the push body and the markdown history.
+function groupByMovie(newRows) {
   const byMovie = new Map();
   for (const r of newRows) {
     const key = r.movie || 'Other';
     if (!byMovie.has(key)) byMovie.set(key, []);
     byMovie.get(key).push(r);
   }
-
   const earliest = (rows) => rows.reduce((min, r) => (r.dt && r.dt < min ? r.dt : min), '9999');
-  const movies = [...byMovie.entries()].sort((a, b) => earliest(a[1]).localeCompare(earliest(b[1])));
+  return [...byMovie.entries()].sort((a, b) => earliest(a[1]).localeCompare(earliest(b[1])));
+}
 
+// Each showtime deep-links to AMC. On iOS with the AMC app installed this
+// universal-links straight into the app; otherwise it opens the website.
+const AMC = 'https://www.amctheatres.com';
+export const showtimeUrl = (id) => `${AMC}/showtimes/${id}`;
+
+function datesForMovie(rows) {
+  const byDate = new Map();
+  for (const r of [...rows].sort((x, y) => (x.dt || '').localeCompare(y.dt || ''))) {
+    const d = r.dt ? localDate(r.dt) : r.date;
+    if (!byDate.has(d)) byDate.set(d, []);
+    byDate.get(d).push({ t: r.dt ? localTime(r.dt) : '?', id: r.id });
+  }
+  return byDate;
+}
+
+// Compact plain-text body for the ntfy push (single newlines are fine there).
+export function formatAlert(newRows, theatreLabel) {
+  const n = newRows.length;
+  const movies = groupByMovie(newRows);
   const blocks = movies.slice(0, MAX_MOVIES).map(([movie, rows]) => {
-    const byDate = new Map();
-    for (const r of [...rows].sort((x, y) => (x.dt || '').localeCompare(y.dt || ''))) {
-      const d = r.dt ? localDate(r.dt) : r.date;
-      if (!byDate.has(d)) byDate.set(d, []);
-      byDate.get(d).push(r.dt ? localTime(r.dt) : '?');
-    }
-    const dateLines = [...byDate.entries()].map(([d, times]) => `  ${d}: ${times.join(', ')}`);
+    const dateLines = [...datesForMovie(rows)].map(([d, times]) => `  ${d}: ${times.map((x) => x.t).join(', ')}`);
     return `🎬 ${movie} (${rows.length})\n${dateLines.join('\n')}`;
   });
   if (movies.length > MAX_MOVIES) blocks.push(`…+${movies.length - MAX_MOVIES} more movies`);
-
-  const header = `${theatreLabel} — ${n} new showtime${n === 1 ? '' : 's'} · ${byMovie.size} movie${byMovie.size === 1 ? '' : 's'}`;
+  const header = `${theatreLabel} — ${n} new showtime${n === 1 ? '' : 's'} · ${movies.length} movie${movies.length === 1 ? '' : 's'}`;
   return `${header}\n\n${blocks.join('\n')}`;
+}
+
+// Proper markdown for HISTORY.md: blank lines between blocks, bold movie names,
+// list items, and every time links to its showtime — GitHub renders it cleanly
+// and each link opens the AMC app/site.
+export function formatHistoryMarkdown(newRows, theatreLabel) {
+  const n = newRows.length;
+  const movies = groupByMovie(newRows);
+  const out = [`**${theatreLabel}** — ${n} new showtime${n === 1 ? '' : 's'} across ${movies.length} movie${movies.length === 1 ? '' : 's'}`, ''];
+  for (const [movie, rows] of movies) {
+    out.push(`**${movie}** — ${rows.length} new`);
+    for (const [d, times] of datesForMovie(rows)) {
+      const links = times.map((x) => `[${x.t}](${showtimeUrl(x.id)})`).join(', ');
+      out.push(`- ${d}: ${links}`);
+    }
+    out.push('');
+  }
+  return out.join('\n').trim();
 }
 
 const fmt = (iso, opts) => {

@@ -5,7 +5,7 @@
 import { config } from './config.js';
 import { openDb } from './db.js';
 import { scrape } from './scraper.js';
-import { makeNotifier, formatAlert } from './notify.js';
+import { makeNotifier, formatAlert, formatHistoryMarkdown } from './notify.js';
 
 const once = process.argv.includes('--once') || !config.loop;
 const log = (...a) => console.log(new Date().toISOString(), ...a);
@@ -28,9 +28,15 @@ async function runCycle(db, notifier) {
 
   fresh.sort((a, b) => (a.dt || '').localeCompare(b.dt || ''));
   log(`${fresh.length} NEW showtimes`);
+
   const body = formatAlert(fresh, theatreLabel);
-  await notifier.send(body);
-  await db.recordDrop(fresh, body); // durable history in case the SMS is missed
+  // Tapping the push lands on the theatre's showtimes for the earliest new date.
+  const earliestDate = fresh.map((r) => r.date).sort()[0];
+  const click = `${config.theatreUrl}?date=${earliestDate}`;
+  await notifier.send(body, { title: `${theatreLabel}: ${fresh.length} new`, click });
+
+  const markdown = formatHistoryMarkdown(fresh, theatreLabel);
+  await db.recordDrop(fresh, body, markdown); // durable, readable history
 }
 
 async function main() {
