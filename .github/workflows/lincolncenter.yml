@@ -1,0 +1,47 @@
+name: Lincoln Center monitor
+
+on:
+  repository_dispatch:
+    types: [run-lincolncenter]
+  workflow_dispatch: {}
+
+concurrency:
+  group: lincolncenter-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      # Browser-free — the calendar is a plain JSON/HTML endpoint. Just Node.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run Lincoln Center monitor
+        run: node lincolncenter-index.js
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          LC_MONTHS: ${{ vars.LC_MONTHS }}
+
+      - name: Commit updated state
+        if: always()
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          F="seen-lincolncenter.json drops-lincolncenter.json HISTORY-LINCOLNCENTER.md"
+          if [ -n "$(git status --porcelain $F)" ]; then
+            git add $F
+            git commit -m "state: update Lincoln Center events [skip ci]"
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "no state changes"
+          fi
