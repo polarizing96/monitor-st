@@ -1,0 +1,283 @@
+# Lincoln Center — drop history
+
+## Sat, Jul 25, 6:11 PM ET · 804 new
+
+**Lincoln Center** — 804 new showtimes across 277 events
+
+- [Chinatown Records & Dance with Red Silk Dancers](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Jul 25
+- [The Piano](https://www.filmlinc.org/films/the-piano) — Film at Lincoln Center: Jul 25, Jul 26, Jul 27, Jul 28, Jul 29, Jul 30
+- [Romería](https://www.filmlinc.org/films/romería) — Film at Lincoln Center: Jul 25, Jul 26, Jul 27, Jul 28, Jul 29, Jul 30
+- [Rose of Nevada](https://www.filmlinc.org/films/rose-of-nevada) — Film at Lincoln Center: Jul 25, Jul 26, Jul 27, Jul 28, Jul 29, Jul 30
+- [Ragtime](https://lct.org/shows/ragtime/) — Lincoln Center Theater: Jul 25, Jul 26, Jul 28, Jul 29, Jul 30, Jul 31, Aug 1, Aug 2, Aug 4, Aug 5, Aug 6, Aug 7, Aug 8, Aug 9, Aug 11, Aug 12, Aug 13, Aug 14, Aug 15, Aug 16
+- [The Whoopi Monologues](https://lct.org/shows/the-whoopi-monologues/) — Lincoln Center Theater: Jul 25, Jul 26, Jul 28, Jul 29, Jul 30, Jul 31, Aug 1, Aug 2, Aug 4, Aug 5, Aug 6, Aug 7, Aug 8, Aug 9, Aug 11, Aug 12, Aug 13, Aug 14, Aug 15, Aug 16, Aug 18, Aug 19, Aug 20, Aug 21, Aug 22, Aug 23, Aug 25, Aug 26, Aug 27, Aug 28, Aug 29, Aug 30
+- [Juilliard Summer Music Orchestra Concert](https://www.juilliard.edu/event/186566/juilliard-summer-music-orchestra-concert) — The Juilliard School: Jul 25
+- [Summer Evenings VI](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/summer-evenings-vi/) — Lincoln Center Visionary Artist: Wynton Marsalis: Jul 25
+- [Shen Wei Dance Arts | Guangdong Modern Dance Company](https://www.lincolncenter.org/series/summer-for-the-city/s/Chinese%20Arts%20Week) — Summer for the City: Jul 25
+- [The Hole](https://www.filmlinc.org/films/the-hole) — Film at Lincoln Center: Jul 25, Jul 26
+- [Jon Faddis Quartet: 73rd Birthday Celebration](https://ticketing.jazz.org/21152/21157) — Jazz at Lincoln Center: Jul 25, Jul 26
+- [Elegant Impressions](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center) — Summer for the City: Jul 25
+- [TAIGA](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco) — Summer for the City: Jul 25
+- [Qi Yu - Guzheng Meets Jazz](https://www.lincolncenter.org/series/summer-for-the-city/s/Chinese%20Arts%20Week) — Summer for the City: Jul 26
+- [Lincoln Center Tours](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900) — Lincoln Center: Jul 27, Jul 28, Jul 29, Jul 30, Jul 31, Aug 3, Aug 4, Aug 5, Aug 6, Aug 7, Aug 10, Aug 11, Aug 12, Aug 13, Aug 14, Aug 17, Aug 18, Aug 19, Aug 20, Aug 21, Aug 24, Aug 25, Aug 26, Aug 27, Aug 28, Aug 31, Sep 1, Sep 2, Sep 3, Sep 4, Sep 8, Sep 9, Sep 10, Sep 11, Sep 14, Sep 15, Sep 16, Sep 17, Sep 18, Sep 22, Sep 23, Sep 24, Sep 25
+- [The Library for the Performing Arts Play Club [VIRTUAL]](https://www.nypl.org/https://www.nypl.org/events/programs/2026/07/27/library-performing-arts-play-club-virtual) — The New York Public Library for the Performing Arts: Jul 27, Aug 24
+- [Nduduzo Makhathini Trio](https://ticketing.jazz.org/21161/21162) — Jazz at Lincoln Center: Jul 27, Jul 28
+- [Panel Discussion: BAAND Together Dance Festival](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival) — Summer for the City: Jul 28
+- [Dance Workshop With New York City Ballet](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Jul 28
+- [Celebrating Marilyn Monroe at 100:](https://www.filmlinc.org/films/celebrating-marilyn-monroe-at-100:-<i>gentlemen-prefer-blondes</i>-on-35mm) — Film at Lincoln Center: Jul 28
+- [Dance Storytime With Lisa Johnson-Willingham](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Jul 29
+- [Lunch Hour Performance | Sweeter than Roses: Italian and English Song](https://www.juilliard.edu/event/186826/lunch-hour-performance-sweeter-roses-italian-and-english-song) — The Juilliard School: Jul 29
+- [Benjamin Akio Kimitch](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters) — Summer for the City: Jul 29, Jul 30, Jul 31
+- [Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves](https://ticketing.jazz.org/21166/21167) — Jazz at Lincoln Center: Jul 29, Jul 31, Aug 1, Aug 2
+- [SqueakyFest &lsquo;26](https://www.lincolncenter.org/series/summer-for-the-city/squeakyfest-andlsquo26-360) — Summer for the City: Jul 29
+- [The Play of Fate](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center) — Summer for the City: Jul 29
+- [BAAND Together Dance Festival](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival) — Summer for the City: Jul 29, Jul 30, Jul 31, Aug 1
+- [The Illustrious Blacks](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco) — Summer for the City: Jul 29
+- [Lunch Hour Performance | Magpie Duo](https://www.juilliard.edu/event/186831/lunch-hour-performance-magpie-duo) — The Juilliard School: Jul 30
+- [Dance Workshop With American Ballet Theatre](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Jul 30
+- [The Samurai and the Prisoner](https://www.filmlinc.org/films/the-samurai-and-the-prisoner) — Film at Lincoln Center: Jul 30, Jul 31, Aug 1, Aug 2, Aug 3, Aug 4, Aug 5, Aug 6
+- [King Seiko Presents “Seiko Summer Jazz Camp All Stars”](https://ticketing.jazz.org/21176/21177) — Jazz at Lincoln Center: Jul 30
+- [Gathering: An R&B Soulfest With Jared Wayne Gladly](https://www.lincolncenter.org/series/summer-for-the-city/gathering-an-randampb-soulfest-with-jared-wayne-gladly-593) — Summer for the City: Jul 30
+- [Mexican Institute of Sound & Meridian Brothers](https://www.lincolncenter.org/series/summer-for-the-city/mexican-institute-of-sound-andamp-meridian-brothers-819) — Summer for the City: Jul 30
+- [Gathering: An R&B Soulfest With DJ FLWRSHRK](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco) — Summer for the City: Jul 30
+- [Relaxed Open Rehearsal: A Mother&rsquo;s Love](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center) — Summer for the City: Jul 31
+- [Dance Workshop With Alvin Ailey American Dance Theater](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Jul 31
+- [Chelsea Reed and the Fair Weather Band](https://www.lincolncenter.org/series/summer-for-the-city/s/Social%20Dance) — Summer for the City: Jul 31
+- [Seen, Sound, Scribe](https://www.lincolncenter.org/series/summer-for-the-city/seen-sound-scribe-123) — Summer for the City: Jul 31
+- [Reading Rhythms](https://www.lincolncenter.org/series/summer-for-the-city/reading-rhythms-108) — Summer for the City: Aug 1
+- [Dance Workshop With Dance Theatre of Harlem](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Aug 1
+- [globalFEST](https://www.lincolncenter.org/series/summer-for-the-city/globalfest-789) — Summer for the City: Aug 1
+- [In the Depths of Blue](https://www.lincolncenter.org/series/summer-for-the-city/in-the-depths-of-blue) — Summer for the City: Aug 1
+- [A Mothers Love](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center) — Summer for the City: Aug 1
+- [globalFEST Silent Disco](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco) — Summer for the City: Aug 1
+- [Street Dance Takeover: Beats, Battles and Breaking](https://www.lincolncenter.org/series/summer-for-the-city/street-dance-takeover-beats-battles-and-breaking) — Summer for the City: Aug 2
+- [Zahili Zamora](https://www.lincolncenter.org/series/summer-for-the-city/zahili-zamora) — Summer for the City: Aug 2
+- [Sa&iuml;do Lehlouh: Wild Cat](https://lincolncenter.org/series/summer-for-the-city/street-dance-takeover-beats-battles-and-breaking) — Summer for the City: Aug 2
+- [Joe Gransden Big Band: The Good Life - Happy 100th Tony Bennett!](https://ticketing.jazz.org/21183/21184) — Jazz at Lincoln Center: Aug 3
+- [Bluesday with BLUES People](https://ticketing.jazz.org/21186/21187) — Jazz at Lincoln Center: Aug 4
+- [Music Storytime With Divinity Roxx](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Aug 5
+- [Lunch Hour Performance | Gutsy Solos: J.S. Bach, Carter, Ysaÿe](https://www.juilliard.edu/event/186836/lunch-hour-performance-gutsy-solos-js-bach-carter-ysaye) — The Juilliard School: Aug 5
+- [Vangeline](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters) — Summer for the City: Aug 5, Aug 6, Aug 7, Aug 8
+- [Nicole Zuraitis: The Devil I Knew Album Release](https://ticketing.jazz.org/21189/21190) — Jazz at Lincoln Center: Aug 5
+- [Beethoven 8 + Peter Drews Kaleidoscope](https://www.lincolncenter.org/venue/alice-tully-hall/beethoven-8-peter-drews-kaleidoscope-658) — Lincoln Center: Aug 5
+- [Hurray for the Riff Raff](https://www.lincolncenter.org/series/summer-for-the-city/hurray-for-the-riff-raff-715) — Summer for the City: Aug 5
+- [Living Music: Nadia Sirota and Gabriel Cabezas](https://www.lincolncenter.org/series/summer-for-the-city/living-music-nadia-sirota-and-gabriel-cabezas) — Summer for the City: Aug 5
+- [Inside the Music](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center) — Summer for the City: Aug 5
+- [Lunch Hour Performance | Beethoven Septet](https://www.juilliard.edu/event/186841/lunch-hour-performance-beethoven-septet) — The Juilliard School: Aug 6
+- [Ballet Essentials Workshop Weekend](https://www.nycballet.com/educate/public-programs/ballet-essentials-workshop-weekend) — New York City Ballet: Aug 6
+- [Ben Wolfe Quartet](https://ticketing.jazz.org/21192/21193) — Jazz at Lincoln Center: Aug 6, Aug 7, Aug 8
+- [Malkit Singh](https://www.lincolncenter.org/series/summer-for-the-city/malkit-singh-524) — Summer for the City: Aug 6
+- [Manuela S&aacute;nchez Goubert](https://www.lincolncenter.org/series/summer-for-the-city/manuela-sandaacutenchez-goubert-178) — Summer for the City: Aug 6
+- [Philharmonia Baroque: Of Rivers and Roses](https://www.lincolncenter.org/series/summer-for-the-city/philharmonia-baroque-of-rivers-and-roses-586) — Summer for the City: Aug 6
+- [Late Fame](https://www.filmlinc.org/films/late-fame) — Film at Lincoln Center: Aug 7, Aug 8, Aug 9, Aug 10, Aug 11, Aug 12, Aug 13
+- [Sound Mind: Music & Mental Health From Schumann to Today](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center) — Summer for the City: Aug 7
+- [Zayra Pola](https://www.lincolncenter.org/series/summer-for-the-city/s/Social%20Dance) — Summer for the City: Aug 7
+- [Juilliard Orchestra and Royal Academy of Music Symphony Orchestra Conducted by Esa-Pekka Salonen](https://www.juilliard.edu/event/185716/juilliard-orchestra-and-royal-academy-music-symphony-orchestra-conducted-esa-pekka) — The Juilliard School: Aug 7
+- [New Legaxy](https://www.lincolncenter.org/series/summer-for-the-city/new-legaxy) — Summer for the City: Aug 7
+- [Jamaica Day: The Heartbeat of Jamaica](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families) — Summer for the City: Aug 8
+- [Jamaica Day: Speaker Breaker](https://www.lincolncenter.org/series/summer-for-the-city/jamaica-day-speaker-breaker) — Summer for the City: Aug 8
+- [New Beginnings](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center) — Summer for the City: Aug 8
+- [Jamaica Day: Black Uhuru](https://www.lincolncenter.org/series/summer-for-the-city/jamaica-day-black-uhuru-275) — Summer for the City: Aug 8
+- [Jamaica Day: DJ Max Glazer](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco) — Summer for the City: Aug 8
+- [Songbook Sundays: The Tony Bennett Centennial](https://ticketing.jazz.org/21199/21213) — Jazz at Lincoln Center: Aug 9
+- [Jazz House Kids, hosted by Christian McBride](https://ticketing.jazz.org/21202/21203) — Jazz at Lincoln Center: Aug 10
+- [Steve Nelson: The Art of the Vibraphone](https://ticketing.jazz.org/21205/21206) — Jazz at Lincoln Center: Aug 11
+- [Lunch Hour Performance | Two Sides of the 20s: Bartók, Prokofiev](https://www.juilliard.edu/event/186846/lunch-hour-performance-two-sides-20s-bartok-prokofiev) — The Juilliard School: Aug 12
+- [Ehud Asherie Trio](https://ticketing.jazz.org/21208/21209) — Jazz at Lincoln Center: Aug 12
+- [Buddy](https://www.filmlinc.org/films/buddy) — Film at Lincoln Center: Aug 12
+- [Lunch Hour Performance | Meshed Tie](https://www.juilliard.edu/event/186851/lunch-hour-performance-meshed-tie) — The Juilliard School: Aug 13
+- [The Peril at Pincer Point](https://www.filmlinc.org/films/the-peril-at-pincer-point) — Film at Lincoln Center: Aug 13
+- [Warren Wolf with Alex Brown and Strings perform Chick Corea's Lyric Suite for Sextet](https://ticketing.jazz.org/21211/21212) — Jazz at Lincoln Center: Aug 13, Aug 14, Aug 15, Aug 16
+- [Cam](https://www.filmlinc.org/films/cam) — Film at Lincoln Center: Aug 13
+- [Goody Goody](https://www.filmlinc.org/films/goody-goody) — Film at Lincoln Center: Aug 14, Aug 17
+- [The Weed Eaters](https://www.filmlinc.org/films/the-weed-eaters) — Film at Lincoln Center: Aug 14, Aug 15
+- [Veins](https://www.filmlinc.org/films/veins) — Film at Lincoln Center: Aug 15
+- [Never After Dark](https://www.filmlinc.org/films/never-after-dark) — Film at Lincoln Center: Aug 15, Aug 19
+- [Sudden Fury](https://www.filmlinc.org/films/sudden-fury) — Film at Lincoln Center: Aug 15
+- [The Trek](https://www.filmlinc.org/films/the-trek) — Film at Lincoln Center: Aug 16
+- [Henry: Portrait of a Serial Killer](https://www.filmlinc.org/films/henry:-portrait-of-a-serial-killer) — Film at Lincoln Center: Aug 16
+- [Superbuhei](https://www.filmlinc.org/films/superbuhei) — Film at Lincoln Center: Aug 16
+- [Wendigo](https://www.filmlinc.org/films/wendigo) — Film at Lincoln Center: Aug 17
+- [Jason Marshall Big Band](https://ticketing.jazz.org/21223/21224) — Jazz at Lincoln Center: Aug 17
+- [Something Real](https://www.filmlinc.org/films/something-real) — Film at Lincoln Center: Aug 18
+- [Marius Van Den Brink: “The Bird Sings” Album Release Show](https://ticketing.jazz.org/21226/21227) — Jazz at Lincoln Center: Aug 18
+- [Bodyhackers](https://www.filmlinc.org/films/bodyhackers) — Film at Lincoln Center: Aug 18
+- [Lunch Hour Performance | Lineage of Rhythm: Bach, Brahms, Mazzoli](https://www.juilliard.edu/event/186856/lunch-hour-performance-lineage-rhythm-bach-brahms-mazzoli) — The Juilliard School: Aug 19
+- [Family Movie](https://www.filmlinc.org/films/family-movie) — Film at Lincoln Center: Aug 19
+- [Lolivone de la Rosa: Jewels Album Release](https://ticketing.jazz.org/21229/21230) — Jazz at Lincoln Center: Aug 19
+- [Dida Pelled: I Wish You Would](https://ticketing.jazz.org/21231/21232) — Jazz at Lincoln Center: Aug 19
+- [Lunch Hour Performance | Tonal Boundaries: Liszt, Carter](https://www.juilliard.edu/event/186861/lunch-hour-performance-tonal-boundaries-liszt-carter) — The Juilliard School: Aug 20
+- [The Threshing](https://www.filmlinc.org/films/the-threshing) — Film at Lincoln Center: Aug 20
+- [Shenel Johns Album Release](https://ticketing.jazz.org/21233/21234) — Jazz at Lincoln Center: Aug 20
+- [Franz](https://www.filmlinc.org/films/franz) — Film at Lincoln Center: Aug 21, Aug 22, Aug 23, Aug 24, Aug 25, Aug 26, Aug 27
+- [Marilyn Maye](https://ticketing.jazz.org/21236/21237) — Jazz at Lincoln Center: Aug 21, Aug 22, Aug 23
+- [Jared Schonig Big Band: Live Album Release Celebration](https://ticketing.jazz.org/21243/21244) — Jazz at Lincoln Center: Aug 24
+- [Sexmob at 30](https://ticketing.jazz.org/21246/21247) — Jazz at Lincoln Center: Aug 25, Aug 26
+- [Ukrainian Freedom Orchestra Invincible Tour](https://www.lincolncenter.org/venue/david-geffen-hall/ukrainian-freedom-orchestra-invincible-tour-1) — Lincoln Center: Aug 25, Aug 26
+- [Lunch Hour Performance | Suites and Dances](https://www.juilliard.edu/event/186866/lunch-hour-performance-suites-and-dances) — The Juilliard School: Aug 26
+- [Lunch Hour Performance | La Monica and Her Music](https://www.juilliard.edu/event/186871/lunch-hour-performance-la-monica-and-her-music) — The Juilliard School: Aug 27
+- [Denise Thimes](https://ticketing.jazz.org/21260/21261) — Jazz at Lincoln Center: Aug 27
+- [Gerald Clayton](https://ticketing.jazz.org/21390/21391) — Jazz at Lincoln Center: Aug 28, Aug 29, Aug 30
+- [2nd Annual Kenny Dorham Festival – Big Band Edition](https://ticketing.jazz.org/21251/21252) — Jazz at Lincoln Center: Aug 31
+- [Salsa Meets Jazz](https://ticketing.jazz.org/21274/21275) — Jazz at Lincoln Center: Sep 1
+- [Yoko Miwa Trio with special guest Mikayla Shirley](https://ticketing.jazz.org/21277/21278) — Jazz at Lincoln Center: Sep 2
+- [HD Festival: Wagner&rsquo;s](https://www.metopera.org/season/summer-events/summer-hd-festival/) — The Metropolitan Opera: Sep 2, Sep 3
+- [Ronnie Foster Trio](https://ticketing.jazz.org/21280/21281) — Jazz at Lincoln Center: Sep 3
+- [Ann Hampton Callaway: I Get a Kick Out of Cole](https://ticketing.jazz.org/21283/21284) — Jazz at Lincoln Center: Sep 4, Sep 5, Sep 6
+- [HD Festival: Bellini&rsquo;s](https://www.metopera.org/season/summer-events/summer-hd-festival/) — The Metropolitan Opera: Sep 4
+- [HD Festival: Tchaikovsky&rsquo;s](https://www.metopera.org/season/summer-events/summer-hd-festival/) — The Metropolitan Opera: Sep 5
+- [HD Festival: Gabriela Lena Frank&rsquo;s](https://www.metopera.org/season/summer-events/summer-hd-festival/) — The Metropolitan Opera: Sep 6
+- [HD Festival: Puccini&rsquo;s](https://www.metopera.org/season/summer-events/summer-hd-festival/) — The Metropolitan Opera: Sep 7
+- [Isaiah J. Thompson Quartet](https://ticketing.jazz.org/21290/21291) — Jazz at Lincoln Center: Sep 8, Sep 9
+- [New York Philharmonic with Gustavo Dudamel at Radio City Music Hall](https://www.nyphil.org/concerts-tickets/2627/dudamel-radio-city/) — New York Philharmonic: Sep 10
+- [Sounds of Remembrance](https://www.nyphil.org/concerts-tickets/2627/sounds-of-remembrance/) — New York Philharmonic: Sep 11
+- [Gaia Wilmer Large Ensemble featuring Mônica Salmaso: Reflections on Gilberto Gil](https://ticketing.jazz.org/21295/21296) — Jazz at Lincoln Center: Sep 11, Sep 12, Sep 13
+- [WeBop Family Jazz Party: Fall](https://ticketing.jazz.org/21519/21520) — Jazz at Lincoln Center: Sep 12
+- [Summer Camargo and the Essentially Ellington Alumni Big Band](https://ticketing.jazz.org/21302/21304) — Jazz at Lincoln Center: Sep 14
+- [Dayramir González Quartet](https://ticketing.jazz.org/21306/21307) — Jazz at Lincoln Center: Sep 15
+- [Bobby Watson Quintet](https://ticketing.jazz.org/21309/21310) — Jazz at Lincoln Center: Sep 16
+- [Opening Night: A Centennial Celebration of Miles Davis](https://www.juilliard.edu/event/186636/opening-night-centennial-celebration-miles-davis) — The Juilliard School: Sep 16
+- [Dudamel Conducts Prokofiev & John Adams](https://www.nyphil.org/concerts-tickets/2627/dudamel-conducts-prokofiev-and-john-adams/) — New York Philharmonic: Sep 16, Sep 17, Sep 18, Sep 19
+- [Aaron Diehl Trio](https://ticketing.jazz.org/21312/21313) — Jazz at Lincoln Center: Sep 17, Sep 18, Sep 19
+- [Marsalis and the Masters](https://jazz.org/concert/marsalis-and-the-masters-the-jazz-at-lincoln-center-orchestra-with-wynton-marsalis/) — Lincoln Center Visionary Artist: Wynton Marsalis: Sep 17, Sep 18, Sep 19
+- [Turning the Key](https://www.lincolncenter.org/venue/alice-tully-hall/turning-the-key-577) — American Classical Orchestra: Sep 17
+- ["The Atlantic" and Juilliard Present: A Soundtrack of a Nation](https://www.juilliard.edu/event/186641/atlantic-and-juilliard-present-soundtrack-nation) — The Juilliard School: Sep 17
+- [Juilliard415 Directed by Rachel Podger](https://www.juilliard.edu/event/185721/juilliard415-directed-rachel-podger) — The Juilliard School: Sep 18
+- [Juilliard Outdoors: PLAZAWORK 2026](https://www.juilliard.edu/event/186646/juilliard-outdoors-plazawork-2026) — The Juilliard School: Sep 19
+- [Pop-Up Classes at the Station With Juilliard Extension](https://www.juilliard.edu/event/186651/pop-classes-station-juilliard-extension) — The Juilliard School: Sep 19
+- [Juilliard Orchestra Conducted by Teddy Abrams](https://www.juilliard.edu/event/185776/juilliard-orchestra-conducted-teddy-abrams) — The Juilliard School: Sep 19
+- [Creative Aging: A Daily Dose of Art](https://www.juilliard.edu/event/186656/creative-aging-daily-dose-art) — The Juilliard School: Sep 20
+- [Sant Andreu Jazz Band with special guest Paul Nedzela](https://ticketing.jazz.org/21319/21320) — Jazz at Lincoln Center: Sep 20
+- [Sant Andreu Jazz Band with special guest Paul Nedzela - Ellingtoniana](https://ticketing.jazz.org/21508/21509) — Jazz at Lincoln Center: Sep 20
+- [Sant Andreu Jazz Band - The Jazz House Sessions with Paul Nedzela](https://ticketing.jazz.org/21510/21511) — Jazz at Lincoln Center: Sep 20
+- [Sant Andreu Jazz Band: ÈLIA BASTIDA MEETS PAUL NEDZELA](https://ticketing.jazz.org/21512/21513) — Jazz at Lincoln Center: Sep 20
+- [Frank Carlberg Large Ensemble](https://ticketing.jazz.org/21322/21323) — Jazz at Lincoln Center: Sep 21
+- [Oneness Festival &ndash; Slovaks in Concert: Gregory Porter](https://www.lincolncenter.org/venue/alice-tully-hall/oneness-festival-andndash-slovaks-in-concert-gregory-porter) — Oneness Festival: Sep 21
+- [Rush Hour Performance: Pursuits of Happiness](https://www.juilliard.edu/event/186661/rush-hour-performance-pursuits-happiness) — The Juilliard School: Sep 22, Sep 23, Sep 24
+- [Verdi&rsquo;s](https://www.metopera.org/season/2026-27-season/macbeth/) — The Metropolitan Opera: Sep 22, Sep 26, Sep 29, Oct 2, Oct 5, Oct 8, Oct 11, Oct 14, Oct 17, Oct 20
+- [John Coltrane Centennial Celebration](https://ticketing.jazz.org/21325/21326) — Jazz at Lincoln Center: Sep 22, Sep 23, Sep 24, Sep 25, Sep 26, Sep 27
+- [Jewels](https://www.nycballet.com/season-and-tickets/fall-2026/jewels) — New York City Ballet: Sep 22, Sep 23, Sep 24, Sep 25, Sep 26, Sep 27
+- [The New Series | Steve Reich @ 90](https://www.juilliard.edu/event/185781/new-series-steve-reich-90) — The Juilliard School: Sep 22
+- [Wednesdays at One | Chamber Music](https://www.juilliard.edu/event/185726/wednesdays-one-chamber-music) — The Juilliard School: Sep 23, Dec 2
+- [Mozart&rsquo;s](https://www.metopera.org/season/2026-27-season/cosi-fan-tutte/) — The Metropolitan Opera: Sep 23, Sep 26, Sep 30, Oct 3, Oct 6, Oct 10, Oct 13, Oct 17, Oct 23
+- [Juilliard Drama Presents Scenes by Recent Playwriting Alums](https://www.juilliard.edu/event/186671/juilliard-drama-presents-scenes-recent-playwriting-alums) — The Juilliard School: Sep 23
+- [An Evening of Opera, Song, and Musical Theater](https://www.juilliard.edu/event/186681/evening-opera-song-and-musical-theater) — The Juilliard School: Sep 24
+- [Puccini&rsquo;s](https://www.metopera.org/season/2026-27-season/la-boheme/) — The Metropolitan Opera: Sep 25, Sep 27, Oct 1, Oct 3, Oct 7, Oct 9, Oct 10, Oct 15, Oct 16, Oct 22, Oct 24, Oct 28, Oct 31, Nov 24, Nov 28, Dec 3, Dec 5, Dec 10
+- [Closing Night With Juilliard Music, Dance, and Drama](https://www.juilliard.edu/event/186686/closing-night-juilliard-music-dance-and-drama) — The Juilliard School: Sep 25
+- [Dudamel Conducts Mahler & Tania León](https://www.nyphil.org/concerts-tickets/2627/dudamel-conducts-mahler-and-tania-leon/) — New York Philharmonic: Sep 25, Sep 26, Sep 27, Sep 29
+- [Joe Block Quintet: There is Always Hope Album Release Show](https://ticketing.jazz.org/21338/21339) — Jazz at Lincoln Center: Sep 28
+- [YoungArts 45th Anniversary Jazz Celebration feat. Emmet Cohen & Friends](https://ticketing.jazz.org/21341/21342) — Jazz at Lincoln Center: Sep 29
+- [Masters at Work I](https://www.nycballet.com/season-and-tickets/fall-2026/masters-at-work-i) — New York City Ballet: Sep 29, Sep 30, Oct 3, Oct 9, Oct 10
+- [Atom String Quartet](https://ticketing.jazz.org/21344/21345) — Jazz at Lincoln Center: Sep 30
+- [Gustavo Dudamel’s Inaugural Gala](https://www.nyphil.org/concerts-tickets/2627/fall-gala/) — New York Philharmonic: Sep 30
+- [Fall Fashion Gala](https://www.nycballet.com/season-and-tickets/fall-2026/fall-fashion-gala) — New York City Ballet: Oct 1
+- [Paula West](https://ticketing.jazz.org/21451/21452) — Jazz at Lincoln Center: Oct 1, Oct 2, Oct 3
+- [AXIOM](https://www.juilliard.edu/event/185731/axiom) — The Juilliard School: Oct 1, Dec 10
+- [Lang Lang & Gustavo Dudamel](https://www.nyphil.org/concerts-tickets/2627/lang-lang/) — New York Philharmonic: Oct 1
+- [Catherine Russell and Friends with Special Guest Cyndi Lauper](https://ticketing.jazz.org/20600/20601) — Jazz at Lincoln Center: Oct 2, Oct 3
+- [Contemporary Choreography I](https://www.nycballet.com/season-and-tickets/fall-2026/contemporary-choreography-i) — New York City Ballet: Oct 2, Oct 4, Oct 6, Oct 14
+- [Yo-Yo Ma & Gustavo Dudamel](https://www.nyphil.org/concerts-tickets/2627/yo-yo-ma/) — New York Philharmonic: Oct 2
+- [Juilliard Wind Orchestra](https://www.juilliard.edu/event/185736/juilliard-wind-orchestra) — The Juilliard School: Oct 4, Dec 13
+- [Songbook Sundays: Kander & Ebb](https://ticketing.jazz.org/21458/21459) — Jazz at Lincoln Center: Oct 4
+- [Ted Nash Big Band: Presidential Suite](https://ticketing.jazz.org/21462/21463) — Jazz at Lincoln Center: Oct 5
+- [Bluesday: Doug Wamble Blues In The Present Tense](https://ticketing.jazz.org/21465/21466) — Jazz at Lincoln Center: Oct 6
+- [Juilliard Jazz Ensembles](https://www.juilliard.edu/event/185786/juilliard-jazz-ensembles) — The Juilliard School: Oct 6, Oct 19, Oct 25, Nov 8, Dec 1
+- [Papo Vázquez Mighty Pirates Troubadours](https://ticketing.jazz.org/21468/21469) — Jazz at Lincoln Center: Oct 7, Oct 8
+- [Eclectic NYCB I](https://www.nycballet.com/season-and-tickets/fall-2026/eclectic-nycb-i) — New York City Ballet: Oct 7, Oct 10, Oct 11, Oct 15, Oct 16
+- [Juilliard Drama Presents August Wilson's "The Piano Lesson"](https://www.juilliard.edu/event/185521/juilliard-drama-presents-august-wilsons-piano-lesson) — The Juilliard School: Oct 7, Oct 8, Oct 10
+- [All Balanchine I](https://www.nycballet.com/season-and-tickets/fall-2026/all-balanchine-i) — New York City Ballet: Oct 8, Oct 13, Oct 17
+- [A FEW GOOD MEN](https://lct.org/shows/a-few-good-men/) — Lincoln Center Theater: Oct 8, Oct 9, Oct 10, Oct 12, Oct 13, Oct 14, Oct 15, Oct 16, Oct 17, Oct 20, Oct 21, Oct 22, Oct 23, Oct 24, Oct 25, Oct 27, Oct 28, Oct 29, Oct 30, Oct 31, Nov 1, Nov 3, Nov 4, Nov 5, Nov 6, Nov 7, Nov 8, Nov 10, Nov 11, Nov 12, Nov 13, Nov 14, Nov 15, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 24, Nov 25, Nov 27, Nov 28, Nov 29, Dec 1, Dec 2, Dec 3, Dec 4, Dec 5, Dec 6, Dec 8, Dec 9, Dec 10, Dec 11, Dec 12, Dec 13, Dec 15, Dec 16, Dec 17, Dec 18, Dec 19, Dec 20, Dec 22, Dec 23, Dec 24, Dec 26, Dec 27, Dec 29, Dec 30
+- [Wycliffe Gordon: Welcome to Georgia Town](https://ticketing.jazz.org/20605/20607) — Jazz at Lincoln Center: Oct 9, Oct 10
+- [Akira Tana and Friends featuring Atsuko Hashimoto and Skylar Tang](https://ticketing.jazz.org/21473/21474) — Jazz at Lincoln Center: Oct 9, Oct 10
+- [Juilliard Drama Fourth-Year Production 1](https://www.juilliard.edu/event/185531/juilliard-drama-fourth-year-production-1) — The Juilliard School: Oct 9, Oct 10
+- [Akira Tana and Osaka Quartet feat. Atsuko Hashimoto - Celebrating Jimmy Heath](https://ticketing.jazz.org/21473/21478) — Jazz at Lincoln Center: Oct 11
+- [Steven Feifke Big Band Album Release](https://ticketing.jazz.org/21480/21481) — Jazz at Lincoln Center: Oct 12
+- [Cosi Fan Tutte](https://www.filmlinc.org/films/cosi-fan-tutte) — Film at Lincoln Center: Oct 13, Oct 14
+- [Corcoran Holt Quintet: Freedom of Art Album Release](https://ticketing.jazz.org/21483/21484) — Jazz at Lincoln Center: Oct 13
+- [Copland&rsquo;s Appalachian Spring](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/coplands-appalachian-spring/) — Chamber Music Society of Lincoln Center: Oct 13
+- [Tenor Legacy with Lew Tabackin](https://ticketing.jazz.org/21486/21487) — Jazz at Lincoln Center: Oct 14
+- [David Gibson Nonet](https://ticketing.jazz.org/21489/21490) — Jazz at Lincoln Center: Oct 15
+- [Bella Hristova & Gloria Chien](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/bella-hristova-and-gloria-chien/) — Chamber Music Society of Lincoln Center: Oct 15
+- [FIRE &middot; GUITAR &middot; LEGEND](https://www.lincolncenter.org/venue/david-geffen-hall/fire-andmiddot-guitar-andmiddot-legend) — Teatro Real -&nbsp; Royal Opera of Spain: Oct 15
+- [Ekep Nkwelle](https://ticketing.jazz.org/21492/21493) — Jazz at Lincoln Center: Oct 16, Oct 17, Oct 18
+- [Chucho Valdés 85th Birthday Celebration With Special Guests Joe Lovano and Terence Blanchard](https://ticketing.jazz.org/20614/20615) — Jazz at Lincoln Center: Oct 16, Oct 17
+- [Juilliard Jazz Orchestra](https://www.juilliard.edu/event/185741/juilliard-jazz-orchestra) — The Juilliard School: Oct 16
+- [CMS Kids: Building Blocks of Music](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/family-programs/26-27/cms-kids-building-blocks-of-music/) — Chamber Music Society of Lincoln Center: Oct 18
+- [Adrian Danchig-Waring Farewell](https://www.nycballet.com/season-and-tickets/fall-2026/adrian-danchig-waring-farewell) — New York City Ballet: Oct 18
+- [Mendelssohn&rsquo;s B-minor Piano Quartet](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/mendelssohns-b-minor-piano-quartet) — Chamber Music Society of Lincoln Center: Oct 18
+- [Macbeth](https://www.filmlinc.org/films/macbeth) — Film at Lincoln Center: Oct 19, Oct 20
+- [Juilliard Orchestra Conducted by Jeffrey Milarsky](https://www.juilliard.edu/event/185751/juilliard-orchestra-conducted-jeffrey-milarsky) — The Juilliard School: Oct 19
+- [Mazzolis](https://www.metopera.org/season/2026-27-season/lincoln-in-the-bardo/) — The Metropolitan Opera: Oct 19, Oct 24, Oct 26, Oct 29, Oct 31, Nov 3, Nov 7, Nov 11, Nov 14
+- [Beethoven Lecture I](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/lectures/beethoven-lecture-i) — Chamber Music Society of Lincoln Center: Oct 20
+- [No(w) Beauty](https://ticketing.jazz.org/21546/21547) — Jazz at Lincoln Center: Oct 20
+- [Dizzy Gillespie Birthday with Jon Faddis](https://ticketing.jazz.org/21549/21550) — Jazz at Lincoln Center: Oct 21
+- [String Quartet Haydn-a-thon](https://www.juilliard.edu/event/185761/string-quartet-haydn-thon) — The Juilliard School: Oct 22, Oct 23
+- [Czerny & Brahms](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/czerny-and-brahms) — Chamber Music Society of Lincoln Center: Oct 22
+- [Carl Allen’s Messengers of Jazz - A Tribute to Art Blakey’s Jazz Messengers](https://ticketing.jazz.org/21552/21553) — Jazz at Lincoln Center: Oct 22, Oct 23, Oct 24, Oct 25
+- [From Cuba to the Crescent City](https://jazz.org/concert/from-cuba-to-the-crescent-city-the-jazz-at-lincoln-center-orchestra-with-wynton-marsalis/) — Lincoln Center Visionary Artist: Wynton Marsalis: Oct 23, Oct 24
+- [Beethoven Piano Sonatas I](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/beethoven-piano-sonatas-i/) — Chamber Music Society of Lincoln Center: Oct 25
+- [Mike LeDonne Big Band: 70th Birthday Celebration](https://ticketing.jazz.org/21561/21562) — Jazz at Lincoln Center: Oct 26
+- [Juilliard Orchestra Conducted by Gemma New](https://www.juilliard.edu/event/185796/juilliard-orchestra-conducted-gemma-new) — The Juilliard School: Oct 26
+- [The Universal Language of Jazz](https://www.lincolncenter.org/series/lincoln-center-presents/the-universal-language-of-jazz-946) — Lincoln Center Visionary Artist: Wynton Marsalis: Oct 27
+- [Johnny O'Neal Birthday Celebration](https://ticketing.jazz.org/21564/21565) — Jazz at Lincoln Center: Oct 27
+- [The New Series | A Halloween Concert](https://www.juilliard.edu/event/185801/new-series-halloween-concert) — The Juilliard School: Oct 27
+- [Wednesdays at One | Music for Piano](https://www.juilliard.edu/event/185806/wednesdays-one-music-piano) — The Juilliard School: Oct 28, Nov 18
+- [Greg Hutchinson's Kind of Now: The Pulse of Miles Davis](https://ticketing.jazz.org/21567/21568) — Jazz at Lincoln Center: Oct 28, Oct 29, Oct 30, Oct 31
+- [Dvoř&aacute;k, Debussy, and Chaminade](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/dvorak-debussy-and-chaminade/) — Chamber Music Society of Lincoln Center: Oct 30
+- [Cherubinis](https://www.metopera.org/season/2026-27-season/medea/) — The Metropolitan Opera: Oct 30, Nov 4, Nov 7, Nov 10, Nov 13, Nov 19, Nov 21
+- [Juilliard415 and Yale Schola Cantorum Conducted by Grete Pedersen | Bach’s "St. Matthew Passion"](https://www.juilliard.edu/event/185811/juilliard415-and-yale-schola-cantorum-conducted-grete-pedersen-bachs-st-matthew) — The Juilliard School: Oct 31, Nov 1
+- [Puccinis](https://www.metopera.org/season/2026-27-season/tosca/) — The Metropolitan Opera: Nov 1, Nov 6, Nov 9, Nov 14, Nov 17, Nov 20, Dec 31
+- [Wednesdays at One | Vocal Arts](https://www.juilliard.edu/event/185821/wednesdays-one-vocal-arts) — The Juilliard School: Nov 4
+- [C.P.E. Bachs Fantasia in F-sharp minor for Violin and Harpsichord, H. 536](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/lectures/c-p-e-bachs-fantasia-in-f-sharp-minor-for-violin-and-harpsichord-h-536/) — Chamber Music Society of Lincoln Center: Nov 4
+- [Thibaudet Performs Liszt](https://www.nyphil.org/concerts-tickets/2627/thibaudet-performs-liszt/) — New York Philharmonic: Nov 4, Nov 5, Nov 7
+- [Beethoven Piano Sonatas II](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/beethoven-piano-sonatas-ii) — Chamber Music Society of Lincoln Center: Nov 5
+- [Marsalis&rsquo; Swinging Cities](https://jazz.org/concert/marsalis-swinging-cities-the-jazz-at-lincoln-center-orchestra-with-wynton-marsalis/) — Lincoln Center Visionary Artist: Wynton Marsalis: Nov 6, Nov 7
+- [Young People&rsquo;s Concert](https://www.nyphil.org/concerts-tickets/2627/ypc-nov/) — New York Philharmonic: Nov 7
+- [Family Concert: Who Is Duke Ellington?](https://ticketing.jazz.org/20621/20622) — Jazz at Lincoln Center: Nov 7
+- [Gershwin&rsquo;s An American in Paris](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/gershwins-an-american-in-paris/) — Chamber Music Society of Lincoln Center: Nov 7
+- [Ida Kavafian, violin](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/master-classes/ida-kavafian-violin/) — Chamber Music Society of Lincoln Center: Nov 10
+- [Carnegie Hall Presents Juilliard at Zankel Hall](https://www.juilliard.edu/event/186691/carnegie-hall-presents-juilliard-zankel-hall) — The Juilliard School: Nov 10
+- [Tchaikovskys Quartet No. 1 in D major for Strings, Op. 11](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/lectures/tchaikovskys-quartet-no-1-in-d-major-for-strings-op-11/) — Chamber Music Society of Lincoln Center: Nov 11
+- [Sonic Spectrum I](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/sonic-spectrum-i) — Chamber Music Society of Lincoln Center: Nov 12
+- [Capricious](https://www.lincolncenter.org/venue/alice-tully-hall/capricious-881) — American Classical Orchestra: Nov 12
+- [Juilliard Drama Presents "The Moors"](https://www.juilliard.edu/event/185546/juilliard-drama-presents-moors) — The Juilliard School: Nov 12, Nov 13, Nov 14
+- [Legacy in Sound: Ithaca College at Lincoln Center](https://www.lincolncenter.org/venue/alice-tully-hall/beethoven-8-peter-drews-kaleidoscope-658) — Ithaca College School of Music, Theatre, and Dance: Nov 13
+- [Eddie Palmieri Experience: An All-Star Celebration](https://ticketing.jazz.org/20627/20629) — Jazz at Lincoln Center: Nov 13, Nov 14
+- [Dudamel Conducts](https://www.nyphil.org/concerts-tickets/2627/tosca/) — New York Philharmonic: Nov 13, Nov 15
+- [Juilliard Opera Presents "La Scala di Seta" and "I Due Timidi"](https://www.juilliard.edu/event/185836/juilliard-opera-presents-la-scala-di-seta-and-i-due-timidi) — The Juilliard School: Nov 14, Nov 17, Nov 19
+- [Juilliard Orchestra Conducted by David Danzmayr](https://www.juilliard.edu/event/185841/juilliard-orchestra-conducted-david-danzmayr) — The Juilliard School: Nov 14
+- [Juilliard Drama Fourth-Year Production 2](https://www.juilliard.edu/event/185561/juilliard-drama-fourth-year-production-2) — The Juilliard School: Nov 14, Nov 16
+- [Honors Chamber Music Showcase](https://www.juilliard.edu/event/185856/honors-chamber-music-showcase) — The Juilliard School: Nov 15
+- [The Schumann Quartet](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/the-schumann-quartet/) — Chamber Music Society of Lincoln Center: Nov 15
+- [Jan&aacute;čeks](https://www.metopera.org/season/2026-27-season/jenufa/) — The Metropolitan Opera: Nov 16, Nov 21, Nov 23, Nov 28, Nov 30, Dec 4
+- [Faur&eacute;&rsquo;s Second Piano Quartet](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/faures-second-piano-quartet) — Chamber Music Society of Lincoln Center: Nov 17
+- [Brahmss Sonata No. 2 in F major for Cello and Piano, Op. 99](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/lectures/brahmss-sonata-no-2-in-f-major-for-cello-and-piano-op-99/) — Chamber Music Society of Lincoln Center: Nov 18
+- [Asmik Grigorian in Concert](https://www.metopera.org/season/2026-27-season/asmik-grigorian/) — The Metropolitan Opera: Nov 18
+- [Vanhal, Britten, & Reinecke](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/vanhal-britten-and-reinecke/) — Chamber Music Society of Lincoln Center: Nov 19
+- [Frank Huang Performs Mendelssohn](https://www.nyphil.org/concerts-tickets/2627/gonzalez-monjas-conducts/) — New York Philharmonic: Nov 19, Nov 20, Nov 21
+- [Journey Through Jazz: The Great American Songbook The Jazz at Lincoln Center Orchestra](https://ticketing.jazz.org/20662/20663) — Jazz at Lincoln Center: Nov 20, Nov 21
+- [Choreographers and Composers](https://www.juilliard.edu/event/185491/choreographers-and-composers) — The Juilliard School: Nov 20, Nov 21
+- [Percussion Ensemble](https://www.juilliard.edu/event/185886/percussion-ensemble) — The Juilliard School: Nov 20
+- [Liederabend in Collaboration with Opera Rara](https://www.juilliard.edu/event/186751/liederabend-collaboration-opera-rara) — The Juilliard School: Nov 22
+- [Rouvali Conducts Schubert’s](https://www.nyphil.org/concerts-tickets/2627/rouvali-conducts-schubert/) — New York Philharmonic: Nov 25, Nov 27, Nov 28, Dec 1
+- [Saint-Sa&euml;ns&rsquo;s](https://www.metopera.org/season/2026-27-season/samson-et-dalila/) — The Metropolitan Opera: Nov 27, Dec 1, Dec 5, Dec 8, Dec 12, Dec 15, Dec 18, Dec 23
+- [Beethoven Piano Sonatas III](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/beethoven-piano-sonatas-iii) — Chamber Music Society of Lincoln Center: Dec 1
+- [Gilles Vonsattel, piano](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/master-classes/gilles-vonsattel) — Chamber Music Society of Lincoln Center: Dec 2
+- [Bruce Liu Performs Tchaikovsky](https://www.nyphil.org/concerts-tickets/2627/bruce-liu-and-nielsen/) — New York Philharmonic: Dec 3, Dec 4, Dec 5
+- [Samson et Dalila](https://www.filmlinc.org/films/samson-et-dalila) — Film at Lincoln Center: Dec 5, Dec 7
+- [Inspector Pulse in a Good Mode](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/family-programs/26-27/inspector-pulse-in-a-good-mode) — Chamber Music Society of Lincoln Center: Dec 5
+- [WeBop Family Jazz Party: A Holiday Jazz Jam](https://ticketing.jazz.org/21523/21528) — Jazz at Lincoln Center: Dec 6
+- [Donizettis](https://www.metopera.org/season/2026-27-season/maria-stuarda/) — The Metropolitan Opera: Dec 6, Dec 9, Dec 12, Dec 16, Dec 19, Dec 22
+- [Baroque Wind Concertos](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/baroque-wind-concertos/) — Chamber Music Society of Lincoln Center: Dec 6, Dec 8
+- [Wednesdays at One | Lab Orchestra](https://www.juilliard.edu/event/185966/wednesdays-one-lab-orchestra) — The Juilliard School: Dec 9
+- [Handel’s](https://www.nyphil.org/concerts-tickets/2627/handels-messiah/) — New York Philharmonic: Dec 9, Dec 10, Dec 12, Dec 13
+- [New Dances: Edition 2026](https://www.juilliard.edu/event/185396/new-dances-edition-2026) — The Juilliard School: Dec 9, Dec 10, Dec 11, Dec 12, Dec 13
+- [Mozarts](https://www.metopera.org/season/2026-27-season/the-magic-flute/) — The Metropolitan Opera: Dec 11, Dec 13, Dec 17, Dec 19, Dec 20, Dec 24, Dec 26, Dec 28, Dec 30
+- [Bach and Sons: Passing the Torch](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/bach-and-sons-passing-the-torch) — Chamber Music Society of Lincoln Center: Dec 11
+- [Sounds of the Season](https://www.nyphil.org/concerts-tickets/2627/sounds-of-the-season/) — New York Philharmonic: Dec 11, Dec 12
+- [Juilliard415 and Tenet Vocal Artists | Handel's "Messiah"](https://www.juilliard.edu/event/185976/juilliard415-and-tenet-vocal-artists-handels-messiah) — The Juilliard School: Dec 11, Dec 12
+- [Juilliard Drama Presents "The Learned Ladies"](https://www.juilliard.edu/event/185571/juilliard-drama-presents-learned-ladies) — The Juilliard School: Dec 11, Dec 12
+- [The Brandenburg Concertos](https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/events/26-27/the-brandenburg-concertos) — Chamber Music Society of Lincoln Center: Dec 13, Dec 15, Dec 18
+- [Juilliard Orchestra and Juilliard Jazz Orchestra](https://www.juilliard.edu/event/186016/juilliard-orchestra-and-juilliard-jazz-orchestra-conducted-david-robertson) — Lincoln Center Visionary Artist: Wynton Marsalis: Dec 14
+- [Juilliard Drama Fourth-Year Production 3](https://www.juilliard.edu/event/185586/juilliard-drama-fourth-year-production-3) — The Juilliard School: Dec 14, Dec 15
+- [Big Band Holidays The Jazz at Lincoln Center Orchestra](https://ticketing.jazz.org/20667/20668) — Jazz at Lincoln Center: Dec 15, Dec 16, Dec 17, Dec 18, Dec 19, Dec 20
+- [National Chorales 59th Annual Handels](https://www.lincolncenter.org/venue/david-geffen-hall/national-choraleand39s-59th-annual-handeland39s-lessemgreatermessiahlessemgreater-sing-in-515) — National Chorale: Dec 15
