@@ -2,11 +2,12 @@ name: AMC showtimes monitor
 
 on:
   schedule:
-    # Every 2 hours. Chosen to stay under the 2,000 min/mo Free quota on a
-    # PRIVATE repo (~360 runs × ~4 min ≈ 1,440 min). Make the repo public for
-    # unlimited minutes if you want tighter polling (e.g. '*/15 * * * *').
+    # Every 10 minutes. NOTE: ~144 runs/day ≈ 4,300/mo × ~1.5 min ≈ 6,500 min/mo,
+    # which EXCEEDS the 2,000 min/mo Free quota on a PRIVATE repo — Actions will
+    # pause until the next month once the quota is hit. Make the repo PUBLIC for
+    # unlimited free minutes (repo secrets stay encrypted either way).
     # GitHub delays scheduled runs under load — best-effort, not to-the-minute.
-    - cron: '0 */2 * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch: {} # lets you trigger a run by hand from the Actions tab
 
 concurrency:
