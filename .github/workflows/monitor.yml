@@ -29,14 +29,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Only 2 tiny deps (dotenv + playwright JS); browser already in the image.
-      # --no-audit: the audit network call is the thing that hangs npm ci in CI.
-      # --ignore-scripts: skip playwright's postinstall entirely (browser is baked
-      # into the image), so no download and no registry round-trips.
-      - run: npm ci --no-audit --no-fund --ignore-scripts
-        env:
-          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
-
+      # No install step at all: node_modules is vendored in the repo (pure-JS)
+      # and Chromium is baked into the container image. CI just runs the code.
       - name: Run monitor (once)
         run: node index.js --once
         env:

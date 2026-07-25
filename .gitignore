@@ -1,6 +1,11 @@
-node_modules/
 .env
 *.tmp
 *.log
 # NOTE: seen.json / drops.json / HISTORY.md are intentionally committed —
 # they are the persistent state, versioned in the repo.
+#
+# node_modules is ALSO intentionally committed (vendored). Deps are pure-JS
+# (dotenv + playwright's JS; the browser lives in the CI container image), so
+# CI needs zero installs and runs instantly. Re-vendor after changing deps:
+#   rm -rf node_modules && PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 \
+#     npm ci --no-audit --no-fund --ignore-scripts && rm -rf node_modules/fsevents
