@@ -20,38 +20,19 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    # Official Playwright image: Node 20 + Chromium + all OS libs PREBAKED.
+    # No browser download, no apt install at runtime — the two slow/flaky steps
+    # are gone. Tag MUST match the `playwright` version in package.json.
+    container:
+      image: mcr.microsoft.com/playwright:v1.49.1-jammy
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: npm
-
-      # Skip Playwright's postinstall browser download here — we install it in a
-      # cached step below instead (postinstall would download ~150MB every run).
+      # Only 2 tiny deps (dotenv + playwright JS); browser already in the image.
       - run: npm ci
         env:
           PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
-
-      # Restore the cached Chromium binary between runs (keyed to the Playwright
-      # version so it re-downloads only on upgrade).
-      - name: Cache Playwright browser
-        id: pw-cache
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
-
-      # If cached, just install the OS libs (fast); else download the browser too.
-      - name: Install Chromium
-        run: |
-          if [ "${{ steps.pw-cache.outputs.cache-hit }}" = "true" ]; then
-            npx playwright install-deps chromium
-          else
-            npx playwright install --with-deps chromium
-          fi
 
       - name: Run monitor (once)
         run: node index.js --once
@@ -66,6 +47,7 @@ jobs:
       - name: Commit updated state
         if: always() # persist state even if the monitor step errored partway
         run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain seen.json drops.json HISTORY.md)" ]; then

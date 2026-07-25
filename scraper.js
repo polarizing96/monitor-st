@@ -61,7 +61,11 @@ async function establishWorker(spec, cfg, log) {
       ? withSession(spec.proxyTemplate, `${spec.sessionBase}-${spec.seq++}`)
       : null;
 
-    const launchOpts = { headless: cfg.headless, args: ['--disable-blink-features=AutomationControlled'] };
+    // --no-sandbox: required to launch Chromium as root inside the CI container.
+    const launchOpts = {
+      headless: cfg.headless,
+      args: ['--disable-blink-features=AutomationControlled', '--no-sandbox', '--disable-setuid-sandbox'],
+    };
     if (proxyUrl) launchOpts.proxy = toProxyOption(proxyUrl);
 
     let browser;

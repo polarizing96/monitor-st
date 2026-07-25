@@ -4,7 +4,9 @@
   "private": true,
   "type": "module",
   "description": "Monitors AMC theatre showtimes and texts you when new showtimes appear.",
-  "bin": { "amc-monitor": "./index.js" },
+  "bin": {
+    "amc-monitor": "./index.js"
+  },
   "scripts": {
     "start": "node index.js",
     "once": "node index.js --once",
@@ -13,6 +15,6 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "playwright": "^1.49.1"
+    "playwright": "1.49.1"
   }
 }
