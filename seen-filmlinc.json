@@ -1,1 +1,1241 @@
-{}
+{
+  "83190": {
+    "date": "2026-07-28",
+    "dt": "2026-07-28T22:30:00.000Z",
+    "status": "standby",
+    "movie": "Gentlemen Prefer Blondes",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83315": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83316": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83317": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83318": {
+    "date": "2026-07-25",
+    "dt": "2026-07-26T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83319": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83320": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83321": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83322": {
+    "date": "2026-07-26",
+    "dt": "2026-07-27T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83323": {
+    "date": "2026-07-27",
+    "dt": "2026-07-27T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83324": {
+    "date": "2026-07-27",
+    "dt": "2026-07-27T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83325": {
+    "date": "2026-07-27",
+    "dt": "2026-07-27T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83326": {
+    "date": "2026-07-27",
+    "dt": "2026-07-28T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83327": {
+    "date": "2026-07-28",
+    "dt": "2026-07-28T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83328": {
+    "date": "2026-07-28",
+    "dt": "2026-07-28T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83329": {
+    "date": "2026-07-28",
+    "dt": "2026-07-28T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83330": {
+    "date": "2026-07-28",
+    "dt": "2026-07-29T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83331": {
+    "date": "2026-07-29",
+    "dt": "2026-07-29T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83332": {
+    "date": "2026-07-29",
+    "dt": "2026-07-29T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83333": {
+    "date": "2026-07-29",
+    "dt": "2026-07-29T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83334": {
+    "date": "2026-07-29",
+    "dt": "2026-07-30T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83335": {
+    "date": "2026-07-30",
+    "dt": "2026-07-30T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83336": {
+    "date": "2026-07-30",
+    "dt": "2026-07-30T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83337": {
+    "date": "2026-07-30",
+    "dt": "2026-07-30T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83338": {
+    "date": "2026-07-30",
+    "dt": "2026-07-31T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83372": {
+    "date": "2026-07-29",
+    "dt": "2026-07-29T23:00:00.000Z",
+    "status": "available",
+    "movie": "La rabbia + Walk Me Home",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83374": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T16:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83375": {
+    "date": "2026-07-30",
+    "dt": "2026-07-30T22:30:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83376": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T19:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83377": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83378": {
+    "date": "2026-07-31",
+    "dt": "2026-08-01T01:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83379": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T16:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83380": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T19:00:00.000Z",
+    "status": "standby",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83381": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T22:30:00.000Z",
+    "status": "standby",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83382": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83383": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T20:15:00.000Z",
+    "status": "standby",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83384": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T23:45:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83385": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T16:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83386": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T19:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83387": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83388": {
+    "date": "2026-08-03",
+    "dt": "2026-08-04T01:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83389": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T16:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83390": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T19:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83391": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83392": {
+    "date": "2026-08-04",
+    "dt": "2026-08-05T01:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83393": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T16:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83394": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T19:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83395": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83396": {
+    "date": "2026-08-05",
+    "dt": "2026-08-06T01:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83397": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T16:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83398": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T19:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83399": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83400": {
+    "date": "2026-08-06",
+    "dt": "2026-08-07T01:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83514": {
+    "date": "2026-10-13",
+    "dt": "2026-10-13T17:00:00.000Z",
+    "status": "available",
+    "movie": "Cosi Fan Tutte",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83515": {
+    "date": "2026-10-14",
+    "dt": "2026-10-14T17:00:00.000Z",
+    "status": "available",
+    "movie": "Cosi Fan Tutte",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83516": {
+    "date": "2026-10-19",
+    "dt": "2026-10-19T17:00:00.000Z",
+    "status": "available",
+    "movie": "Macbeth",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83517": {
+    "date": "2026-10-20",
+    "dt": "2026-10-20T17:00:00.000Z",
+    "status": "available",
+    "movie": "Macbeth",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83518": {
+    "date": "2026-12-05",
+    "dt": "2026-12-05T17:00:00.000Z",
+    "status": "available",
+    "movie": "Samson et Dalila",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83519": {
+    "date": "2026-12-07",
+    "dt": "2026-12-07T17:00:00.000Z",
+    "status": "available",
+    "movie": "Samson et Dalila",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83529": {
+    "date": "2027-02-01",
+    "dt": "2027-02-01T18:00:00.000Z",
+    "status": "available",
+    "movie": "La Fanciulla del West",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83530": {
+    "date": "2027-02-02",
+    "dt": "2027-02-02T18:00:00.000Z",
+    "status": "available",
+    "movie": "La Fanciulla del West",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83531": {
+    "date": "2027-03-20",
+    "dt": "2027-03-20T17:00:00.000Z",
+    "status": "available",
+    "movie": "Silent Night",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83532": {
+    "date": "2027-03-22",
+    "dt": "2027-03-22T17:00:00.000Z",
+    "status": "available",
+    "movie": "Silent Night",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83533": {
+    "date": "2027-04-03",
+    "dt": "2027-04-03T16:00:00.000Z",
+    "status": "available",
+    "movie": "Manon",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83534": {
+    "date": "2027-04-05",
+    "dt": "2027-04-05T16:00:00.000Z",
+    "status": "available",
+    "movie": "Manon",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83535": {
+    "date": "2027-04-24",
+    "dt": "2027-04-24T17:00:00.000Z",
+    "status": "available",
+    "movie": "Otello",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83536": {
+    "date": "2027-04-26",
+    "dt": "2027-04-26T17:00:00.000Z",
+    "status": "available",
+    "movie": "Otello",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83537": {
+    "date": "2027-06-05",
+    "dt": "2027-06-05T16:00:00.000Z",
+    "status": "available",
+    "movie": "Parsifal",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83538": {
+    "date": "2027-06-07",
+    "dt": "2027-06-07T16:00:00.000Z",
+    "status": "available",
+    "movie": "Parsifal",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83542": {
+    "date": "2026-08-18",
+    "dt": "2026-08-19T01:15:00.000Z",
+    "status": "available",
+    "movie": "Bodyhackers",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83544": {
+    "date": "2026-08-12",
+    "dt": "2026-08-12T23:00:00.000Z",
+    "status": "standby",
+    "movie": "Buddy",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83546": {
+    "date": "2026-08-13",
+    "dt": "2026-08-14T01:00:00.000Z",
+    "status": "available",
+    "movie": "Cam",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83548": {
+    "date": "2026-08-19",
+    "dt": "2026-08-19T22:30:00.000Z",
+    "status": "standby",
+    "movie": "Family Movie",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83550": {
+    "date": "2026-08-14",
+    "dt": "2026-08-14T22:45:00.000Z",
+    "status": "available",
+    "movie": "Goody Goody",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83551": {
+    "date": "2026-08-17",
+    "dt": "2026-08-18T01:00:00.000Z",
+    "status": "available",
+    "movie": "Goody Goody",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83553": {
+    "date": "2026-08-16",
+    "dt": "2026-08-16T22:30:00.000Z",
+    "status": "available",
+    "movie": "Henry: Portrait Serial Killer",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83555": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T22:30:00.000Z",
+    "status": "available",
+    "movie": "Never After Dark",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83556": {
+    "date": "2026-08-19",
+    "dt": "2026-08-20T01:00:00.000Z",
+    "status": "available",
+    "movie": "Never After Dark",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83558": {
+    "date": "2026-08-13",
+    "dt": "2026-08-13T22:30:00.000Z",
+    "status": "available",
+    "movie": "The Peril at Pincer Point",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83560": {
+    "date": "2026-08-18",
+    "dt": "2026-08-18T22:15:00.000Z",
+    "status": "available",
+    "movie": "Something Real",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83562": {
+    "date": "2026-08-15",
+    "dt": "2026-08-16T01:15:00.000Z",
+    "status": "available",
+    "movie": "Sudden Fury",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83564": {
+    "date": "2026-08-16",
+    "dt": "2026-08-17T00:45:00.000Z",
+    "status": "available",
+    "movie": "Superbuhei",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83568": {
+    "date": "2026-08-20",
+    "dt": "2026-08-20T22:30:00.000Z",
+    "status": "available",
+    "movie": "The Threshing",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83570": {
+    "date": "2026-08-16",
+    "dt": "2026-08-16T19:45:00.000Z",
+    "status": "available",
+    "movie": "The Trek",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83572": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T20:00:00.000Z",
+    "status": "available",
+    "movie": "Veins",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83574": {
+    "date": "2026-08-14",
+    "dt": "2026-08-15T01:00:00.000Z",
+    "status": "available",
+    "movie": "The Weed Eaters",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83575": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T18:00:00.000Z",
+    "status": "available",
+    "movie": "The Weed Eaters",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83577": {
+    "date": "2026-08-17",
+    "dt": "2026-08-17T22:30:00.000Z",
+    "status": "available",
+    "movie": "Wendigo",
+    "first_seen": "2026-07-25T12:05:27.487Z"
+  },
+  "83579": {
+    "date": "2026-08-20",
+    "dt": "2026-08-21T03:59:00.000Z",
+    "status": "limited",
+    "movie": "2026 Scary Movies Pass",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83635": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T17:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83636": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T19:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83637": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T22:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83638": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T00:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83639": {
+    "date": "2026-08-08",
+    "dt": "2026-08-08T17:00:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83640": {
+    "date": "2026-08-08",
+    "dt": "2026-08-08T19:15:00.000Z",
+    "status": "standby",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83641": {
+    "date": "2026-08-08",
+    "dt": "2026-08-08T22:00:00.000Z",
+    "status": "standby",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83642": {
+    "date": "2026-08-08",
+    "dt": "2026-08-09T01:00:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83643": {
+    "date": "2026-08-09",
+    "dt": "2026-08-09T17:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83644": {
+    "date": "2026-08-09",
+    "dt": "2026-08-09T19:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83645": {
+    "date": "2026-08-09",
+    "dt": "2026-08-09T22:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83646": {
+    "date": "2026-08-09",
+    "dt": "2026-08-10T00:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83647": {
+    "date": "2026-08-10",
+    "dt": "2026-08-10T17:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83648": {
+    "date": "2026-08-10",
+    "dt": "2026-08-10T19:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83649": {
+    "date": "2026-08-10",
+    "dt": "2026-08-10T22:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83650": {
+    "date": "2026-08-10",
+    "dt": "2026-08-11T00:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83651": {
+    "date": "2026-08-11",
+    "dt": "2026-08-11T17:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83652": {
+    "date": "2026-08-11",
+    "dt": "2026-08-11T19:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83653": {
+    "date": "2026-08-11",
+    "dt": "2026-08-11T22:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83654": {
+    "date": "2026-08-11",
+    "dt": "2026-08-12T00:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83655": {
+    "date": "2026-08-12",
+    "dt": "2026-08-12T17:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83656": {
+    "date": "2026-08-12",
+    "dt": "2026-08-12T19:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83657": {
+    "date": "2026-08-12",
+    "dt": "2026-08-12T22:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83658": {
+    "date": "2026-08-12",
+    "dt": "2026-08-13T00:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83659": {
+    "date": "2026-08-13",
+    "dt": "2026-08-13T17:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83660": {
+    "date": "2026-08-13",
+    "dt": "2026-08-13T19:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83661": {
+    "date": "2026-08-13",
+    "dt": "2026-08-13T22:15:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83662": {
+    "date": "2026-08-13",
+    "dt": "2026-08-14T00:45:00.000Z",
+    "status": "available",
+    "movie": "Late Fame",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83665": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T17:00:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83666": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T19:30:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83667": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T17:00:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83668": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T19:30:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83670": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T22:00:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83671": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T22:00:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83672": {
+    "date": "2026-07-27",
+    "dt": "2026-07-27T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83673": {
+    "date": "2026-07-27",
+    "dt": "2026-07-27T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83674": {
+    "date": "2026-07-28",
+    "dt": "2026-07-28T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83675": {
+    "date": "2026-07-28",
+    "dt": "2026-07-28T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83676": {
+    "date": "2026-07-29",
+    "dt": "2026-07-29T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83677": {
+    "date": "2026-07-29",
+    "dt": "2026-07-29T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83678": {
+    "date": "2026-07-30",
+    "dt": "2026-07-30T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83679": {
+    "date": "2026-07-30",
+    "dt": "2026-07-30T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83683": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83684": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T19:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83685": {
+    "date": "2026-07-25",
+    "dt": "2026-07-26T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83686": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83687": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T19:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83688": {
+    "date": "2026-07-26",
+    "dt": "2026-07-27T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83689": {
+    "date": "2026-07-27",
+    "dt": "2026-07-27T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83690": {
+    "date": "2026-07-27",
+    "dt": "2026-07-28T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83691": {
+    "date": "2026-07-28",
+    "dt": "2026-07-28T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83692": {
+    "date": "2026-07-28",
+    "dt": "2026-07-29T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83693": {
+    "date": "2026-07-29",
+    "dt": "2026-07-29T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83694": {
+    "date": "2026-07-29",
+    "dt": "2026-07-30T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83695": {
+    "date": "2026-07-30",
+    "dt": "2026-07-30T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83696": {
+    "date": "2026-07-30",
+    "dt": "2026-07-31T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83699": {
+    "date": "2026-07-25",
+    "dt": "2026-07-25T22:15:00.000Z",
+    "status": "available",
+    "movie": "The Hole",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83700": {
+    "date": "2026-07-25",
+    "dt": "2026-07-26T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Hole",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83701": {
+    "date": "2026-07-26",
+    "dt": "2026-07-26T22:15:00.000Z",
+    "status": "available",
+    "movie": "The Hole",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83702": {
+    "date": "2026-07-26",
+    "dt": "2026-07-27T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Hole",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83704": {
+    "date": "2026-08-21",
+    "dt": "2026-08-21T16:30:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83705": {
+    "date": "2026-08-21",
+    "dt": "2026-08-21T19:15:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.485Z"
+  },
+  "83706": {
+    "date": "2026-08-21",
+    "dt": "2026-08-21T22:00:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83707": {
+    "date": "2026-08-21",
+    "dt": "2026-08-22T00:45:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83708": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T16:30:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83709": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T19:15:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83710": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T22:00:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83711": {
+    "date": "2026-08-22",
+    "dt": "2026-08-23T00:45:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83712": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T16:30:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83713": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T19:15:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83714": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T22:00:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83715": {
+    "date": "2026-08-23",
+    "dt": "2026-08-24T00:45:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83716": {
+    "date": "2026-08-24",
+    "dt": "2026-08-24T16:30:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83717": {
+    "date": "2026-08-24",
+    "dt": "2026-08-24T19:15:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83718": {
+    "date": "2026-08-24",
+    "dt": "2026-08-24T22:00:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83719": {
+    "date": "2026-08-24",
+    "dt": "2026-08-25T00:45:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83720": {
+    "date": "2026-08-25",
+    "dt": "2026-08-25T16:30:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83721": {
+    "date": "2026-08-25",
+    "dt": "2026-08-25T19:15:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83722": {
+    "date": "2026-08-25",
+    "dt": "2026-08-25T22:00:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83723": {
+    "date": "2026-08-25",
+    "dt": "2026-08-26T00:45:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83724": {
+    "date": "2026-08-26",
+    "dt": "2026-08-26T16:30:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83725": {
+    "date": "2026-08-26",
+    "dt": "2026-08-26T19:15:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83726": {
+    "date": "2026-08-26",
+    "dt": "2026-08-26T22:00:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83727": {
+    "date": "2026-08-26",
+    "dt": "2026-08-27T00:45:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83728": {
+    "date": "2026-08-27",
+    "dt": "2026-08-27T16:30:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83729": {
+    "date": "2026-08-27",
+    "dt": "2026-08-27T19:15:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83730": {
+    "date": "2026-08-27",
+    "dt": "2026-08-27T22:00:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83731": {
+    "date": "2026-08-27",
+    "dt": "2026-08-28T00:45:00.000Z",
+    "status": "available",
+    "movie": "Franz",
+    "first_seen": "2026-07-25T12:05:27.486Z"
+  }
+}
