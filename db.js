@@ -41,7 +41,7 @@ function readableStamp() {
   }
 }
 
-export async function openDb({ stateFile = 'seen.json', dropsFile = 'drops.json', historyFile = 'HISTORY.md' } = {}) {
+export async function openDb({ stateFile = 'seen.json', dropsFile = 'drops.json', historyFile = 'HISTORY.md', historyTitle = 'Showtimes' } = {}) {
   // seen: { [showtimeId]: {date, dt, status, movie, first_seen} }
   const seen = await readJson(stateFile, {});
   const drops = await readJson(dropsFile, []);
@@ -77,7 +77,7 @@ export async function openDb({ stateFile = 'seen.json', dropsFile = 'drops.json'
       // Prepend a clean markdown block (newest first) to the human-readable log.
       const stamp = readableStamp();
       const block = `## ${stamp} · ${entry.count} new\n\n${markdown || summary}\n`;
-      const header = '# AMC showtimes — drop history\n\n';
+      const header = `# ${historyTitle} — drop history\n\n`;
       let existing = '';
       try {
         existing = await readFile(historyFile, 'utf8');

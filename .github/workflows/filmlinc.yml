@@ -1,0 +1,47 @@
+name: Film at Lincoln Center monitor
+
+on:
+  # Driven by an external cron (cron-job.org) via repository_dispatch, same as
+  # the AMC monitor — but a different event type so they fire independently.
+  repository_dispatch:
+    types: [run-filmlinc]
+  workflow_dispatch: {}
+
+concurrency:
+  group: filmlinc-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write # commit the updated state files back to the repo
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      # No browser needed — the FLC API is plain JSON. Just Node + vendored deps.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run monitor (once)
+        run: node filmlinc-index.js
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+
+      - name: Commit updated state
+        if: always()
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain seen-filmlinc.json drops-filmlinc.json HISTORY-FILMLINC.md)" ]; then
+            git add seen-filmlinc.json drops-filmlinc.json HISTORY-FILMLINC.md
+            git commit -m "state: update FLC showtimes [skip ci]"
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "no state changes"
+          fi

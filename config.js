@@ -58,6 +58,7 @@ export const config = {
     stateFile: process.env.AMC_STATE_FILE || 'seen.json',
     dropsFile: process.env.AMC_DROPS_FILE || 'drops.json',
     historyFile: process.env.AMC_HISTORY_FILE || 'HISTORY.md',
+    historyTitle: 'AMC showtimes',
   },
 
   // ---- Proxy rotation (residential, sticky-session) -------------------------

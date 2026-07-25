@@ -85,7 +85,8 @@ function groupRows(newRows) {
     if (!byFmt.has(fmt)) byFmt.set(fmt, new Map());
     const byDate = byFmt.get(fmt);
     if (!byDate.has(d)) byDate.set(d, []);
-    byDate.get(d).push({ t: r.dt ? localTime(r.dt) : '?', id: r.id });
+    // r.url = a per-showtime deep link (FLC ticketsUrl); else fall back to AMC.
+    byDate.get(d).push({ t: r.dt ? localTime(r.dt) : '?', id: r.id, url: r.url || showtimeUrl(r.id) });
   }
   return movies;
 }
@@ -120,7 +121,7 @@ export function formatHistoryMarkdown(newRows, theatreLabel) {
   for (const [movie, byFmt] of movies) {
     out.push(`**${movie}**`);
     for (const [fmt, byDate] of byFmt) {
-      const seg = joinDates(byDate, (x) => `[${x.t}](${showtimeUrl(x.id)})`);
+      const seg = joinDates(byDate, (x) => `[${x.t}](${x.url})`);
       out.push(fmt ? `- **${fmt}** — ${seg}` : `- ${seg}`);
     }
     out.push('');
