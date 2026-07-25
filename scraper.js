@@ -295,7 +295,9 @@ export async function scrape(cfg, log = console.log) {
   const boot = await establishWorker(specs[0], cfg, log);
   const { dates, theatreLabel } = await readDatesAndLabel(boot, cfg.theatreUrl);
   // cfg.onlyDates (e.g. the digest's single day) overrides the full date list.
-  let use = cfg.onlyDates && cfg.onlyDates.length ? dates.filter((d) => cfg.onlyDates.includes(d)) : dates;
+  // Use them directly — "today" is the empty-value option so it isn't in the
+  // parsed list, but ?date=YYYY-MM-DD still serves that day's showtimes.
+  let use = cfg.onlyDates && cfg.onlyDates.length ? cfg.onlyDates : dates;
   if (cfg.maxDates) use = use.slice(0, cfg.maxDates);
   log(`found ${dates.length} dates; scraping ${use.length} across ${specs.length} worker(s)`);
 
