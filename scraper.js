@@ -83,7 +83,10 @@ async function establishWorker(spec, cfg, log) {
       // Fast-fail: a dead/slow residential IP shouldn't stall us — bail quickly
       // and roll to a fresh IP instead of waiting out long timeouts.
       await page.goto(spec.theatreUrl, { waitUntil: 'domcontentloaded', timeout: cfg.establishTimeoutMs });
-      await page.waitForSelector('select[name="date"]', { timeout: cfg.selectorTimeoutMs }); // real page => cleared
+      // Wait for a POPULATED date option (value like "2026-07-30"), not just the
+      // empty <select> — otherwise we can read the page before options hydrate
+      // and get 0 dates. This also confirms Cloudflare cleared us to the real page.
+      await page.waitForSelector('select[name="date"] option[value^="20"]', { timeout: cfg.selectorTimeoutMs });
 
       log(`[${spec.label}] session established${proxyUrl ? ` (fresh IP, try ${t})` : ''}`);
       return { browser, context, page, label: spec.label, proxyUrl };
