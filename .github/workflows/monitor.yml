@@ -9,6 +9,8 @@ on:
     # GitHub delays scheduled runs under load — best-effort, not to-the-minute.
     - cron: '*/10 * * * *'
   workflow_dispatch: {} # lets you trigger a run by hand from the Actions tab
+  repository_dispatch: # fired every 10 min by an external cron (cron-job.org) —
+    types: [run-monitor] # GitHub's own scheduler is too unreliable for 10-min
 
 concurrency:
   # Never let two runs overlap (they'd double-text and race the state files).

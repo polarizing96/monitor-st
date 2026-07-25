@@ -46,7 +46,13 @@ async function main() {
 
   try {
     if (once) {
-      await runCycle(db, notifier);
+      // Soft-fail: a transient proxy/Cloudflare hiccup shouldn't red-X the run
+      // (it retries on the next 10-min trigger). Real breakage still shows in logs.
+      try {
+        await runCycle(db, notifier);
+      } catch (e) {
+        log(`::warning:: cycle failed (transient?), will retry next run: ${e.message}`);
+      }
     } else {
       // Continuous local mode.
       for (;;) {

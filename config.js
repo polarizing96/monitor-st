@@ -33,7 +33,7 @@ export const config = {
   // Cloudflare resilience: how many fresh residential IPs to try when a session
   // gets challenged (each try = a new sticky sessid = new IP), and how many
   // times to re-roll the IP if a block happens mid-run.
-  maxEstablishTries: intEnv('AMC_MAX_ESTABLISH_TRIES', 6),
+  maxEstablishTries: intEnv('AMC_MAX_ESTABLISH_TRIES', 8),
   maxRerolls: intEnv('AMC_MAX_REROLLS', 3),
 
   // Fast-fail timeouts (ms) so a dead/slow residential IP is abandoned quickly
