@@ -2,9 +2,11 @@ name: AMC showtimes monitor
 
 on:
   schedule:
-    # Every 15 minutes. GitHub often delays scheduled runs under load — this is
-    # best-effort, not guaranteed-to-the-minute. Widen if you want fewer runs.
-    - cron: '*/15 * * * *'
+    # Every 2 hours. Chosen to stay under the 2,000 min/mo Free quota on a
+    # PRIVATE repo (~360 runs × ~4 min ≈ 1,440 min). Make the repo public for
+    # unlimited minutes if you want tighter polling (e.g. '*/15 * * * *').
+    # GitHub delays scheduled runs under load — best-effort, not to-the-minute.
+    - cron: '0 */2 * * *'
   workflow_dispatch: {} # lets you trigger a run by hand from the Actions tab
 
 concurrency:
