@@ -1,0 +1,20 @@
+{
+  "name": "amc-showtimes-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Monitors AMC theatre showtimes and texts you when new showtimes appear.",
+  "bin": { "amc-monitor": "./index.js" },
+  "scripts": {
+    "start": "node index.js",
+    "once": "node index.js --once",
+    "history": "node history.js",
+    "install-browser": "playwright install chromium"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.49.1",
+    "twilio": "^5.4.0"
+  }
+}
