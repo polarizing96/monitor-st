@@ -68,10 +68,11 @@ function parseMonth(html) {
     // Each event is a cal-day-show block.
     for (const block of seg.split('cal-day-show-border-cont').slice(1)) {
       const link = (block.match(/<a\s+href=["']([^"']+)["']/) || [])[1];
-      const title = (block.match(/show-name["']?[^>]*>([^<]+)</) || [])[1];
+      const title = (block.match(/class="show-name">([^<]+)</) || [])[1];
       if (!link || !title) continue;
       const org = strip((block.match(/show-org[\s\S]*?<a[^>]*>([^<]+)</) || [])[1] || '');
-      const time = strip((block.match(/show-time["']?[^>]*>([^<]*)</) || [])[1] || '');
+      // NB: anchor to the exact span — "show-time" is also a prefix of "show-time-price".
+      const time = strip((block.match(/class="show-time">([^<]*)</) || [])[1] || '');
       rows.push({ date: isoDate, title: strip(title), org, time, link: link.startsWith('http') ? link : BASE + link });
     }
   }
@@ -99,7 +100,8 @@ export async function fetchLincolnCenterRows({ months = 6 } = {}, log = console.
     const events = parseMonth(extractHtml(raw));
     for (const e of events) {
       if (e.date < todayISO) continue; // upcoming only
-      const id = `${e.date}|${e.link}`;
+      // Include the time so multiple showtimes on the same day aren't collapsed.
+      const id = `${e.date}|${e.time}|${e.link}`;
       if (byId.has(id)) continue;
       byId.set(id, {
         id,
