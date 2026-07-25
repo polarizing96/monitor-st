@@ -83,10 +83,10 @@ async function establishWorker(spec, cfg, log) {
       // Fast-fail: a dead/slow residential IP shouldn't stall us — bail quickly
       // and roll to a fresh IP instead of waiting out long timeouts.
       await page.goto(spec.theatreUrl, { waitUntil: 'domcontentloaded', timeout: cfg.establishTimeoutMs });
-      // Wait for a POPULATED date option (value like "2026-07-30"), not just the
-      // empty <select> — otherwise we can read the page before options hydrate
-      // and get 0 dates. This also confirms Cloudflare cleared us to the real page.
-      await page.waitForSelector('select[name="date"] option[value^="20"]', { timeout: cfg.selectorTimeoutMs });
+      // The <select name="date"> element confirms Cloudflare cleared us to the
+      // real page. (Its <option>s are hydrated client-side and can be empty here,
+      // so we read the date list via an in-page fetch instead — see readDates.)
+      await page.waitForSelector('select[name="date"]', { timeout: cfg.selectorTimeoutMs });
 
       log(`[${spec.label}] session established${proxyUrl ? ` (fresh IP, try ${t})` : ''}`);
       return { browser, context, page, label: spec.label, proxyUrl };
@@ -110,9 +110,17 @@ async function titleOf(browser) {
   }
 }
 
-/** Read the selectable dates + a friendly theatre label from a live worker. */
-async function readDatesAndLabel(worker) {
-  const html = await worker.page.content();
+/**
+ * Read the selectable dates + a friendly theatre label. Dates come from an
+ * IN-PAGE fetch of the base page (its RSC payload reliably contains every date),
+ * not the hydrated DOM — the client-rendered <option>s can be empty when read.
+ */
+async function readDatesAndLabel(worker, theatreUrl) {
+  const path = new URL(theatreUrl).pathname;
+  const html = await worker.page.evaluate(
+    async (p) => (await fetch(p, { credentials: 'include', headers: { Accept: 'text/html' } })).text(),
+    path
+  );
   const dates = parseDates(html).filter(Boolean);
   const title = await worker.page.title().catch(() => '');
   const label = title.replace(/ Showtimes.*$/i, '').trim() || 'theatre';
@@ -285,7 +293,7 @@ export async function scrape(cfg, log = console.log) {
 
   // Bootstrap the first worker (also used to read the date list).
   const boot = await establishWorker(specs[0], cfg, log);
-  const { dates, theatreLabel } = await readDatesAndLabel(boot);
+  const { dates, theatreLabel } = await readDatesAndLabel(boot, cfg.theatreUrl);
   let use = dates;
   if (cfg.maxDates) use = use.slice(0, cfg.maxDates);
   log(`found ${dates.length} dates; scraping ${use.length} across ${specs.length} worker(s)`);
