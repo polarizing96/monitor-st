@@ -12,18 +12,19 @@
 
 export function makeNotifier(cfg) {
   if (cfg.ntfyTopic) {
-    const url = `${cfg.ntfyServer.replace(/\/$/, '')}/${cfg.ntfyTopic}`;
+    // JSON publishing (POST base URL) — headers are ByteString-only, so a title
+    // with an em-dash/unicode breaks the header form. JSON body is UTF-8 safe.
+    const base = cfg.ntfyServer.replace(/\/$/, '');
     return {
       ready: true,
       channel: 'ntfy',
-      async send(text, { title = 'AMC showtimes', click } = {}) {
-        const headers = { Title: title, Priority: 'high', Tags: 'clapper,ticket' };
-        // Tapping the notification opens this URL (AMC app on iOS, else web).
+      async send(text, { title = 'Showtimes', click } = {}) {
+        const payload = { topic: cfg.ntfyTopic, title, message: text, priority: 5, tags: ['clapper', 'ticket'] };
         if (click) {
-          headers.Click = click;
-          headers.Actions = `view, Open in AMC, ${click}`;
+          payload.click = click;
+          payload.actions = [{ action: 'view', label: 'Open', url: click }];
         }
-        const res = await fetch(url, { method: 'POST', body: text, headers });
+        const res = await fetch(base, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
         if (!res.ok) throw new Error(`ntfy ${res.status}: ${await res.text().catch(() => '')}`);
       },
     };

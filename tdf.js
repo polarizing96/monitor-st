@@ -84,7 +84,9 @@ export async function fetchTdfShowtimes({ username, password, headless = true },
       .filter((p) => WATCH_TYPES.includes(p.type) && p.date)
       .map((p) => ({
         id: p.id, // performance product id — unique per showtime; dedup key
-        date: p.date.slice(0, 10), // YYYY-MM-DD (UTC)
+        // ET calendar date (evening ET shows roll into the next UTC day, so
+        // slicing the UTC string would put them on the wrong day).
+        date: new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' }).format(new Date(p.date)),
         dt: p.date, // ISO UTC — rendered to ET by the formatter
         movie: p.name,
         type: p.type, // Broadway | Off Broadway
