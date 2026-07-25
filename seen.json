@@ -804,6 +804,34 @@
     "movie": "The Odyssey",
     "first_seen": "2026-07-25T12:35:40.143Z"
   },
+  "144316306": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T13:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144316307": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T16:30:00.000Z",
+    "status": "Sellable",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144316308": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T20:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144316309": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T23:30:00.000Z",
+    "status": "AlmostFull",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
   "144316310": {
     "date": "2026-08-08",
     "dt": "2026-08-08T13:00:00.000Z",
@@ -887,6 +915,34 @@
     "status": "Sellable",
     "movie": "Spider-Man: Brand New Day",
     "first_seen": "2026-07-25T12:35:40.143Z"
+  },
+  "144316326": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T22:30:00.000Z",
+    "status": "Sellable",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144316327": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T19:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144316328": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T15:30:00.000Z",
+    "status": "Sellable",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144316329": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T02:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Spider-Man: Brand New Day",
+    "first_seen": "2026-07-25T12:52:39.643Z"
   },
   "144316330": {
     "date": "2026-08-08",
@@ -1875,6 +1931,41 @@
     "movie": "Super Troopers",
     "first_seen": "2026-07-25T12:35:40.144Z"
   },
+  "144611006": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T15:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Super Troopers",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144611007": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T18:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Super Troopers",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144611008": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T21:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Super Troopers",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144611009": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T00:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Super Troopers",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144611010": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T03:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Super Troopers",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
   "144611011": {
     "date": "2026-08-08",
     "dt": "2026-08-08T15:00:00.000Z",
@@ -2043,6 +2134,34 @@
     "movie": "The Odyssey",
     "first_seen": "2026-07-25T12:35:40.144Z"
   },
+  "144696888": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T14:00:00.000Z",
+    "status": "AlmostFull",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144696889": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T18:00:00.000Z",
+    "status": "AlmostFull",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144696890": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T22:00:00.000Z",
+    "status": "AlmostFull",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144696891": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T02:00:00.000Z",
+    "status": "AlmostFull",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
   "144696892": {
     "date": "2026-08-08",
     "dt": "2026-08-08T14:00:00.000Z",
@@ -2183,6 +2302,13 @@
     "movie": "Teenage Sex And Death At Camp Miasma Live Q A W Hannah Einbinder Jane Schoenbrun",
     "first_seen": "2026-07-25T12:35:40.144Z"
   },
+  "144707967": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T23:00:00.000Z",
+    "status": "AlmostFull",
+    "movie": "Teenage Sex And Death At Camp Miasma Live Q A W Jane Schoenbrun",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
   "144707968": {
     "date": "2026-08-08",
     "dt": "2026-08-08T22:00:00.000Z",
@@ -2238,6 +2364,34 @@
     "status": "Sellable",
     "movie": "Teenage Sex and Death at Camp Miasma",
     "first_seen": "2026-07-25T12:35:40.144Z"
+  },
+  "144872577": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T20:15:00.000Z",
+    "status": "Sellable",
+    "movie": "Teenage Sex and Death at Camp Miasma",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144872578": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T02:30:00.000Z",
+    "status": "Sellable",
+    "movie": "Teenage Sex and Death at Camp Miasma",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144872579": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T17:15:00.000Z",
+    "status": "Sellable",
+    "movie": "Teenage Sex and Death at Camp Miasma",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "144872580": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T14:15:00.000Z",
+    "status": "Sellable",
+    "movie": "Teenage Sex and Death at Camp Miasma",
+    "first_seen": "2026-07-25T12:52:39.643Z"
   },
   "144872581": {
     "date": "2026-08-08",
@@ -2456,6 +2610,13 @@
     "movie": "The Odyssey",
     "first_seen": "2026-07-25T12:35:40.144Z"
   },
+  "144885212": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T06:00:00.000Z",
+    "status": "Sellable",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
   "144896698": {
     "date": "2026-08-28",
     "dt": "2026-08-28T23:00:00.000Z",
@@ -2574,6 +2735,20 @@
     "status": "Sellable",
     "movie": "Spider-Man: Brand New Day",
     "first_seen": "2026-07-25T12:35:40.143Z"
+  },
+  "145073184": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T23:15:00.000Z",
+    "status": "AlmostFull",
+    "movie": "Tony",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "145073185": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T02:15:00.000Z",
+    "status": "Sellable",
+    "movie": "Tony",
+    "first_seen": "2026-07-25T12:52:39.643Z"
   },
   "145073186": {
     "date": "2026-08-08",
@@ -2749,6 +2924,27 @@
     "status": "Sellable",
     "movie": "Teenage Sex and Death at Camp Miasma",
     "first_seen": "2026-07-25T12:35:40.143Z"
+  },
+  "145073221": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T20:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Tony",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "145073222": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T17:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Tony",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "145073223": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T14:00:00.000Z",
+    "status": "Sellable",
+    "movie": "Tony",
+    "first_seen": "2026-07-25T12:52:39.643Z"
   },
   "145073224": {
     "date": "2026-08-06",
@@ -4835,6 +5031,27 @@
     "status": "Sellable",
     "movie": "Toy Story",
     "first_seen": "2026-07-25T12:35:40.144Z"
+  },
+  "145480762": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T20:30:00.000Z",
+    "status": "Sellable",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "145480763": {
+    "date": "2026-08-07",
+    "dt": "2026-08-08T00:30:00.000Z",
+    "status": "Sellable",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
+  },
+  "145480764": {
+    "date": "2026-08-07",
+    "dt": "2026-08-07T16:30:00.000Z",
+    "status": "Sellable",
+    "movie": "The Odyssey",
+    "first_seen": "2026-07-25T12:52:39.643Z"
   },
   "145480765": {
     "date": "2026-08-08",

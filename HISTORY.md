@@ -1,5 +1,29 @@
 # AMC showtimes — drop history
 
+## Sat, Jul 25, 8:52 AM ET · 31 new
+
+**AMC Lincoln Square 13** — 31 new showtimes across 6 movies
+
+**Spider-Man: Brand New Day**
+- **Dolby Cinema** — Fri, 8/7: [9:00am](https://www.amctheatres.com/showtimes/144316306), [12:30pm](https://www.amctheatres.com/showtimes/144316307), [4:00pm](https://www.amctheatres.com/showtimes/144316308), [7:30pm](https://www.amctheatres.com/showtimes/144316309)
+- **Laser** — Fri, 8/7: [11:30am](https://www.amctheatres.com/showtimes/144316328), [3:00pm](https://www.amctheatres.com/showtimes/144316327), [6:30pm](https://www.amctheatres.com/showtimes/144316326), [10:00pm](https://www.amctheatres.com/showtimes/144316329)
+
+**The Odyssey**
+- **IMAX 70mm** — Fri, 8/7: [10:00am](https://www.amctheatres.com/showtimes/144696888), [2:00pm](https://www.amctheatres.com/showtimes/144696889), [6:00pm](https://www.amctheatres.com/showtimes/144696890), [10:00pm](https://www.amctheatres.com/showtimes/144696891) · Sat, 8/8: [2:00am](https://www.amctheatres.com/showtimes/144885212)
+- **70mm** — Fri, 8/7: [12:30pm](https://www.amctheatres.com/showtimes/145480764), [4:30pm](https://www.amctheatres.com/showtimes/145480762), [8:30pm](https://www.amctheatres.com/showtimes/145480763)
+
+**Tony**
+- **Laser** — Fri, 8/7: [10:00am](https://www.amctheatres.com/showtimes/145073223), [1:00pm](https://www.amctheatres.com/showtimes/145073222), [4:00pm](https://www.amctheatres.com/showtimes/145073221), [7:15pm](https://www.amctheatres.com/showtimes/145073184), [10:15pm](https://www.amctheatres.com/showtimes/145073185)
+
+**Teenage Sex and Death at Camp Miasma**
+- **Laser** — Fri, 8/7: [10:15am](https://www.amctheatres.com/showtimes/144872580), [1:15pm](https://www.amctheatres.com/showtimes/144872579), [4:15pm](https://www.amctheatres.com/showtimes/144872577), [10:30pm](https://www.amctheatres.com/showtimes/144872578)
+
+**Super Troopers**
+- **Laser** — Fri, 8/7: [11:00am](https://www.amctheatres.com/showtimes/144611006), [2:00pm](https://www.amctheatres.com/showtimes/144611007), [5:00pm](https://www.amctheatres.com/showtimes/144611008), [8:00pm](https://www.amctheatres.com/showtimes/144611009), [11:00pm](https://www.amctheatres.com/showtimes/144611010)
+
+**Teenage Sex And Death At Camp Miasma Live Q A W Jane Schoenbrun**
+- **Laser** — Fri, 8/7: [7:00pm](https://www.amctheatres.com/showtimes/144707967)
+
 ## Sat, Jul 25, 8:35 AM ET · 760 new
 
 **AMC Lincoln Square 13** — 760 new showtimes across 30 movies
