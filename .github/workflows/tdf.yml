@@ -1,0 +1,46 @@
+name: TDF monitor
+
+on:
+  # Driven by an external cron (cron-job.org) via repository_dispatch.
+  repository_dispatch:
+    types: [run-tdf]
+  workflow_dispatch: {}
+
+concurrency:
+  group: tdf-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    # Salesforce SPA login needs a real browser → Playwright image (prebaked Chromium).
+    container:
+      image: mcr.microsoft.com/playwright:v1.49.1-jammy
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run TDF monitor
+        run: node tdf-index.js
+        env:
+          TDF_USERNAME: ${{ secrets.TDF_USERNAME }}
+          TDF_PASSWORD: ${{ secrets.TDF_PASSWORD }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+
+      - name: Commit updated state
+        if: always()
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain seen-tdf.json drops-tdf.json HISTORY-TDF.md)" ]; then
+            git add seen-tdf.json drops-tdf.json HISTORY-TDF.md
+            git commit -m "state: update TDF shows [skip ci]"
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "no state changes"
+          fi
