@@ -147,6 +147,3 @@
 
 **La Llamada**
 - **Off Broadway · Repertorio Espanol** — Sat, 12/12: [7:00pm](https://members.tdf.org/store/product/la-llamada/01tPe00000IADckIAH) · Sun, 12/13: [3:00pm](https://members.tdf.org/store/product/la-llamada/01tPe00000IADckIAH)
-
-# TDF Broadway / Off-Broadway — drop history
-
