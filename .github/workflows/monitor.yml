@@ -1,16 +1,11 @@
 name: AMC showtimes monitor
 
 on:
-  schedule:
-    # Every 10 minutes. NOTE: ~144 runs/day ≈ 4,300/mo × ~1.5 min ≈ 6,500 min/mo,
-    # which EXCEEDS the 2,000 min/mo Free quota on a PRIVATE repo — Actions will
-    # pause until the next month once the quota is hit. Make the repo PUBLIC for
-    # unlimited free minutes (repo secrets stay encrypted either way).
-    # GitHub delays scheduled runs under load — best-effort, not to-the-minute.
-    - cron: '*/10 * * * *'
-  workflow_dispatch: {} # lets you trigger a run by hand from the Actions tab
-  repository_dispatch: # fired every 10 min by an external cron (cron-job.org) —
-    types: [run-monitor] # GitHub's own scheduler is too unreliable for 10-min
+  # Timing is driven entirely by an external cron (cron-job.org) hitting the
+  # repository_dispatch API — GitHub's own scheduler is too unreliable for 10-min.
+  repository_dispatch:
+    types: [run-monitor]
+  workflow_dispatch: {} # manual trigger from the Actions tab / gh CLI
 
 concurrency:
   # Never let two runs overlap (they'd double-text and race the state files).
