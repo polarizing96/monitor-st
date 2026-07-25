@@ -1,5 +1,33 @@
 # AMC showtimes — drop history
 
+## Sat, Jul 25, 9:12 AM ET · 31 new
+
+**AMC Lincoln Square 13** — 31 new showtimes across 6 movies
+
+**Spider-Man: Brand New Day**
+- **Dolby Cinema** — Mon, 8/10: [9:00am](https://www.amctheatres.com/showtimes/144316325), [12:30pm](https://www.amctheatres.com/showtimes/144316318), [4:00pm](https://www.amctheatres.com/showtimes/144316319), [7:30pm](https://www.amctheatres.com/showtimes/144316320)
+- **Open Caption** — Mon, 8/10: [11:30am](https://www.amctheatres.com/showtimes/144316340)
+- **Laser** — Mon, 8/10: [3:00pm](https://www.amctheatres.com/showtimes/144316339), [6:30pm](https://www.amctheatres.com/showtimes/144316338), [10:00pm](https://www.amctheatres.com/showtimes/144316341)
+
+**The Odyssey**
+- **IMAX 70mm** — Mon, 8/10: [10:00am](https://www.amctheatres.com/showtimes/144696900), [2:00pm](https://www.amctheatres.com/showtimes/144696901), [6:00pm](https://www.amctheatres.com/showtimes/144696902), [10:00pm](https://www.amctheatres.com/showtimes/144696903)
+- **70mm** — Mon, 8/10: [12:30pm](https://www.amctheatres.com/showtimes/145480773), [4:30pm](https://www.amctheatres.com/showtimes/145480771), [8:30pm](https://www.amctheatres.com/showtimes/145480772)
+
+**Tony**
+- **Laser** — Mon, 8/10: [10:00am](https://www.amctheatres.com/showtimes/145073200), [4:00pm](https://www.amctheatres.com/showtimes/145073198), [7:00pm](https://www.amctheatres.com/showtimes/145073196), [10:00pm](https://www.amctheatres.com/showtimes/145073197)
+- **Open Caption** — Mon, 8/10: [1:00pm](https://www.amctheatres.com/showtimes/145073199)
+
+**Teenage Sex and Death at Camp Miasma**
+- **Laser** — Mon, 8/10: [10:15am](https://www.amctheatres.com/showtimes/145073220), [4:15pm](https://www.amctheatres.com/showtimes/144872590), [7:15pm](https://www.amctheatres.com/showtimes/145073219), [7:15pm](https://www.amctheatres.com/showtimes/144872591)
+- **Open Caption** — Mon, 8/10: [1:15pm](https://www.amctheatres.com/showtimes/145073214)
+
+**Super Troopers**
+- **Laser** — Mon, 8/10: [11:00am](https://www.amctheatres.com/showtimes/144611015), [2:00pm](https://www.amctheatres.com/showtimes/144611017), [5:00pm](https://www.amctheatres.com/showtimes/144611016), [11:00pm](https://www.amctheatres.com/showtimes/144611018)
+- **Open Caption** — Mon, 8/10: [8:00pm](https://www.amctheatres.com/showtimes/144611043)
+
+**SIX: The Musical Live! - Early Access**
+- **Laser** — Mon, 8/10: [7:00pm](https://www.amctheatres.com/showtimes/145290494)
+
 ## Sat, Jul 25, 8:52 AM ET · 31 new
 
 **AMC Lincoln Square 13** — 31 new showtimes across 6 movies
