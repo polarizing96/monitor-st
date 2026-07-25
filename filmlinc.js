@@ -37,6 +37,7 @@ export async function fetchFilmlincRows() {
         // Normalize to UTC ISO so sorting is correct across DST; rendered in ET.
         dt: s.dateTimeET ? new Date(s.dateTimeET).toISOString() : null,
         movie: film.title,
+        venue: venue || 'Film at Lincoln Center',
         format,
         status: s.status || null,
         url: s.ticketsUrl || `https://www.filmlinc.org/films/${film.slug}/`,

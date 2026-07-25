@@ -6,40 +6,11 @@
 import { config } from './config.js';
 import { openDb } from './db.js';
 import { fetchLincolnCenterRows } from './lincolncenter.js';
-import { makeNotifier } from './notify.js';
+import { makeNotifier, formatAlert, formatHistoryMarkdown } from './notify.js';
 
 const log = (...a) => console.log(new Date().toISOString(), ...a);
 const LABEL = 'Lincoln Center';
-const MON = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 const MONTHS = Number(process.env.LC_MONTHS || 6);
-
-const fmtDate = (iso) => { const [, m, d] = iso.split('-'); return `${MON[+m - 1]} ${+d}`; };
-
-function groupByEvent(rows) {
-  const m = new Map();
-  for (const r of [...rows].sort((a, b) => a.date.localeCompare(b.date))) {
-    if (!m.has(r.movie)) m.set(r.movie, { org: r.format, url: r.url, items: [] });
-    m.get(r.movie).items.push(r);
-  }
-  return [...m.entries()];
-}
-const datesFor = (g) => [...new Set(g.items.map((r) => (r.time && !/multiple/i.test(r.time) ? `${fmtDate(r.date)} ${r.time}` : fmtDate(r.date))))];
-
-function alertBody(fresh) {
-  const n = fresh.length;
-  const events = groupByEvent(fresh);
-  const blocks = events.slice(0, 25).map(([title, g]) => `🎭 ${title}${g.org ? ` (${g.org})` : ''}\n  ${datesFor(g).join(', ')}`);
-  if (events.length > 25) blocks.push(`…+${events.length - 25} more events`);
-  return `${LABEL} — ${n} new showtime${n === 1 ? '' : 's'} · ${events.length} event${events.length === 1 ? '' : 's'}\n\n${blocks.join('\n')}`;
-}
-
-function historyMarkdown(fresh) {
-  const n = fresh.length;
-  const events = groupByEvent(fresh);
-  const out = [`**${LABEL}** — ${n} new showtime${n === 1 ? '' : 's'} across ${events.length} events`, ''];
-  for (const [title, g] of events) out.push(`- [${title}](${g.url})${g.org ? ` — ${g.org}` : ''}: ${datesFor(g).join(', ')}`);
-  return out.join('\n').trim();
-}
 
 async function main() {
   const db = await openDb({
@@ -66,10 +37,10 @@ async function main() {
     fresh.sort((a, b) => a.date.localeCompare(b.date));
     log(`${fresh.length} NEW events`);
 
-    const body = alertBody(fresh);
+    const body = formatAlert(fresh, LABEL, 'event');
     const click = 'https://www.lincolncenter.org/lincoln-center-at-home/calendar';
     await notifier.send(body, { title: `${LABEL}: ${fresh.length} new`, click });
-    await db.recordDrop(fresh, body, historyMarkdown(fresh));
+    await db.recordDrop(fresh, body, formatHistoryMarkdown(fresh, LABEL, 'event'));
   } catch (e) {
     log(`::warning:: cycle failed (transient?), will retry next run: ${e.message}`);
   } finally {

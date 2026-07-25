@@ -1,0 +1,49 @@
+name: Digest — today (9 AM)
+
+on:
+  # Fire from cron-job.org at 9 AM ET (America/New_York). Also runnable by hand.
+  repository_dispatch:
+    types: [run-digest-today]
+  workflow_dispatch: {}
+
+concurrency:
+  group: digest-today
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    # Needs a browser for AMC + TDF → Playwright image (prebaked Chromium).
+    container:
+      image: mcr.microsoft.com/playwright:v1.49.1-jammy
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send today's digest
+        run: node digest-index.js
+        env:
+          DIGEST_MODE: today
+          AMC_THEATRE_URL: ${{ vars.AMC_THEATRE_URL }}
+          AMC_PROXIES: ${{ secrets.AMC_PROXIES }}
+          TDF_USERNAME: ${{ secrets.TDF_USERNAME }}
+          TDF_PASSWORD: ${{ secrets.TDF_PASSWORD }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+
+      - name: Commit digest log
+        if: always()
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain HISTORY-DIGEST.md)" ]; then
+            git add HISTORY-DIGEST.md
+            git commit -m "digest: today [skip ci]"
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "no digest change"
+          fi

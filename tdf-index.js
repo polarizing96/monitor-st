@@ -46,10 +46,10 @@ async function main() {
     fresh.sort((a, b) => (a.dt || '').localeCompare(b.dt || ''));
     log(`${fresh.length} NEW showtimes`);
 
-    const body = formatAlert(fresh, LABEL);
+    const body = formatAlert(fresh, LABEL, 'show');
     const click = fresh.find((r) => r.url)?.url || 'https://members.tdf.org/store/';
     await notifier.send(body, { title: `TDF: ${fresh.length} new showtime${fresh.length === 1 ? '' : 's'}`, click });
-    await db.recordDrop(fresh, body, formatHistoryMarkdown(fresh, LABEL));
+    await db.recordDrop(fresh, body, formatHistoryMarkdown(fresh, LABEL, 'show'));
   } catch (e) {
     log(`::warning:: cycle failed (transient?), will retry next run: ${e.message}`);
   } finally {

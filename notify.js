@@ -85,8 +85,11 @@ function groupRows(newRows) {
     if (!byFmt.has(fmt)) byFmt.set(fmt, new Map());
     const byDate = byFmt.get(fmt);
     if (!byDate.has(d)) byDate.set(d, []);
-    // r.url = a per-showtime deep link (FLC ticketsUrl); else fall back to AMC.
-    byDate.get(d).push({ t: r.dt ? localTime(r.dt) : '?', id: r.id, url: r.url || showtimeUrl(r.id) });
+    // Time shown: an explicit r.timeLabel (LC's pre-formatted "2:00pm"/"Multiple
+    // Times") wins; otherwise render r.dt (UTC ISO) to ET. r.url = per-showtime
+    // deep link (FLC/TDF/LC); else fall back to AMC.
+    const t = r.timeLabel != null ? r.timeLabel : r.dt ? localTime(r.dt) : '?';
+    byDate.get(d).push({ t, id: r.id, url: r.url || showtimeUrl(r.id) });
   }
   return movies;
 }
@@ -96,7 +99,7 @@ const joinDates = (byDate, render) =>
   [...byDate].map(([d, times]) => `${d}: ${times.map(render).join(', ')}`).join(' · ');
 
 // Compact plain-text body for the ntfy push (single newlines are fine there).
-export function formatAlert(newRows, theatreLabel) {
+export function formatAlert(newRows, theatreLabel, unit = 'movie') {
   const n = newRows.length;
   const movies = [...groupRows(newRows)];
   const blocks = movies.slice(0, MAX_MOVIES).map(([movie, byFmt]) => {
@@ -106,18 +109,18 @@ export function formatAlert(newRows, theatreLabel) {
     });
     return `🎬 ${movie}\n${lines.join('\n')}`;
   });
-  if (movies.length > MAX_MOVIES) blocks.push(`…+${movies.length - MAX_MOVIES} more movies`);
-  const header = `${theatreLabel} — ${n} new showtime${n === 1 ? '' : 's'} · ${movies.length} movie${movies.length === 1 ? '' : 's'}`;
+  if (movies.length > MAX_MOVIES) blocks.push(`…+${movies.length - MAX_MOVIES} more ${unit}s`);
+  const header = `${theatreLabel} — ${n} new showtime${n === 1 ? '' : 's'} · ${movies.length} ${unit}${movies.length === 1 ? '' : 's'}`;
   return `${header}\n\n${blocks.join('\n')}`;
 }
 
 // Proper markdown for HISTORY.md: bold movie, a bold format sub-bullet per
 // format, and every time a link to its showtime. Renders cleanly on GitHub and
 // each link opens the AMC app/site.
-export function formatHistoryMarkdown(newRows, theatreLabel) {
+export function formatHistoryMarkdown(newRows, theatreLabel, unit = 'movie') {
   const n = newRows.length;
   const movies = [...groupRows(newRows)];
-  const out = [`**${theatreLabel}** — ${n} new showtime${n === 1 ? '' : 's'} across ${movies.length} movie${movies.length === 1 ? '' : 's'}`, ''];
+  const out = [`**${theatreLabel}** — ${n} new showtime${n === 1 ? '' : 's'} across ${movies.length} ${unit}${movies.length === 1 ? '' : 's'}`, ''];
   for (const [movie, byFmt] of movies) {
     out.push(`**${movie}**`);
     for (const [fmt, byDate] of byFmt) {

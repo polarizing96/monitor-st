@@ -103,15 +103,19 @@ export async function fetchLincolnCenterRows({ months = 6 } = {}, log = console.
       // Include the time so multiple showtimes on the same day aren't collapsed.
       const id = `${e.date}|${e.time}|${e.link}`;
       if (byId.has(id)) continue;
+      // Pre-formatted time label ("2:00pm") or a bucket ("Multiple Times"/"All Day").
+      const timeLabel = /^\d/.test(e.time) ? e.time.replace(/\s+/g, '').toLowerCase() : e.time || 'Multiple Times';
+      const org = e.org || 'Lincoln Center';
       byId.set(id, {
         id,
         date: e.date,
-        dt: `${e.date}T12:00:00`, // no reliable per-event time; noon anchors sort/group
+        dt: `${e.date}T12:00:00Z`, // noon UTC → correct ET date in the shared formatter
         movie: e.title,
-        format: e.org || 'Lincoln Center',
-        status: e.time && !/multiple/i.test(e.time) ? e.time : null,
+        venue: org, // LC's cleanest venue signal is the presenting org
+        format: org,
+        timeLabel, // shared formatter shows this instead of deriving from dt
+        status: null,
         url: e.link,
-        time: e.time,
       });
     }
     log(`[lc] ${label}: ${events.length} events`);

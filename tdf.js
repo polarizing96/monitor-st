@@ -88,6 +88,7 @@ export async function fetchTdfShowtimes({ username, password, headless = true },
         dt: p.date, // ISO UTC — rendered to ET by the formatter
         movie: p.name,
         type: p.type, // Broadway | Off Broadway
+        venue: p.venue || p.type,
         format: [p.type, p.venue].filter(Boolean).join(' · '),
         status: null,
         url: showUrl[p.name] || 'https://members.tdf.org/store/',

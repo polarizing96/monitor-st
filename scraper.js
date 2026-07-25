@@ -294,7 +294,8 @@ export async function scrape(cfg, log = console.log) {
   // Bootstrap the first worker (also used to read the date list).
   const boot = await establishWorker(specs[0], cfg, log);
   const { dates, theatreLabel } = await readDatesAndLabel(boot, cfg.theatreUrl);
-  let use = dates;
+  // cfg.onlyDates (e.g. the digest's single day) overrides the full date list.
+  let use = cfg.onlyDates && cfg.onlyDates.length ? dates.filter((d) => cfg.onlyDates.includes(d)) : dates;
   if (cfg.maxDates) use = use.slice(0, cfg.maxDates);
   log(`found ${dates.length} dates; scraping ${use.length} across ${specs.length} worker(s)`);
 
@@ -304,8 +305,8 @@ export async function scrape(cfg, log = console.log) {
     specs.map((spec, i) => runWorker(spec, i === 0 ? boot : null, shards[i], cfg, rows, log))
   );
 
-  // De-dup across workers/dates by showtime id (keep first occurrence).
+  // De-dup across workers/dates by showtime id; stamp the theatre as the venue.
   const byId = new Map();
-  for (const r of rows) if (!byId.has(r.id)) byId.set(r.id, r);
+  for (const r of rows) if (!byId.has(r.id)) byId.set(r.id, { ...r, venue: theatreLabel });
   return { rows: [...byId.values()], theatreLabel, datesChecked: use.length };
 }
