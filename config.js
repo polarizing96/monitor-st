@@ -30,6 +30,12 @@ export const config = {
   maxRetries: intEnv('AMC_MAX_RETRIES', 4),
   backoffBaseMs: intEnv('AMC_BACKOFF_BASE', 1200),
 
+  // Cloudflare resilience: how many fresh residential IPs to try when a session
+  // gets challenged (each try = a new sticky sessid = new IP), and how many
+  // times to re-roll the IP if a block happens mid-run.
+  maxEstablishTries: intEnv('AMC_MAX_ESTABLISH_TRIES', 5),
+  maxRerolls: intEnv('AMC_MAX_REROLLS', 3),
+
   // How many future dates to check at most (AMC exposes ~130). null = all.
   maxDates: process.env.AMC_MAX_DATES ? intEnv('AMC_MAX_DATES') : null,
 
@@ -39,12 +45,13 @@ export const config = {
 
   headless: boolEnv('AMC_HEADLESS', true),
 
-  // ---- State store (libSQL / Turso) -----------------------------------------
-  // Local dev:  file:seen.db   (a file next to the code)
-  // Cloud/CI:   libsql://<name>.turso.io  +  TURSO_AUTH_TOKEN
+  // ---- State store (JSON files committed back to the repo) ------------------
+  // No external DB / signup. The Actions runner reads these at start and commits
+  // them back after each run (see the workflow's "commit state" step).
   db: {
-    url: process.env.TURSO_DATABASE_URL || 'file:seen.db',
-    authToken: process.env.TURSO_AUTH_TOKEN || undefined,
+    stateFile: process.env.AMC_STATE_FILE || 'seen.json',
+    dropsFile: process.env.AMC_DROPS_FILE || 'drops.json',
+    historyFile: process.env.AMC_HISTORY_FILE || 'HISTORY.md',
   },
 
   // ---- Proxy rotation (residential, sticky-session) -------------------------
@@ -60,12 +67,13 @@ export const config = {
     .map((s) => s.trim())
     .filter(Boolean),
 
-  // ---- SMS via Twilio (optional; logs to console if unset) ------------------
-  twilio: {
-    accountSid: process.env.TWILIO_ACCOUNT_SID || '',
-    authToken: process.env.TWILIO_AUTH_TOKEN || '',
-    from: process.env.TWILIO_FROM || '',
-    to: process.env.TWILIO_TO || '',
+  // ---- Notifications (ntfy.sh by default; free, no signup) ------------------
+  // Install the ntfy app, subscribe to a secret topic, set NTFY_TOPIC.
+  // Falls back to a generic webhook, then to console dry-run.
+  notify: {
+    ntfyTopic: process.env.NTFY_TOPIC || '',
+    ntfyServer: process.env.NTFY_SERVER || 'https://ntfy.sh',
+    webhook: process.env.NOTIFY_WEBHOOK || '',
   },
 };
 

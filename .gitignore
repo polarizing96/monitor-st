@@ -1,5 +1,6 @@
 node_modules/
 .env
-seen.db
-seen.db-*
+*.tmp
 *.log
+# NOTE: seen.json / drops.json / HISTORY.md are intentionally committed —
+# they are the persistent state, versioned in the repo.

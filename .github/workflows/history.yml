@@ -1,27 +1,17 @@
 name: AMC drop history
 
-# Manual viewer: Actions tab → "AMC drop history" → Run workflow.
-# Prints the recorded drops to the run log. Fully cloud-side (reads Turso).
+# Convenience viewer. You can also just open HISTORY.md in the repo directly —
+# it's the same content, committed after every run.
 on:
-  workflow_dispatch:
-    inputs:
-      limit:
-        description: 'How many recent drops to show'
-        required: false
-        default: '20'
+  workflow_dispatch: {}
 
 jobs:
   history:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: npm
-      - run: npm ci
       - name: Show drop history
-        run: node history.js "${{ github.event.inputs.limit }}"
-        env:
-          TURSO_DATABASE_URL: ${{ secrets.TURSO_DATABASE_URL }}
-          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
+        run: |
+          echo "::group::HISTORY.md"
+          cat HISTORY.md 2>/dev/null || echo "No history yet."
+          echo "::endgroup::"

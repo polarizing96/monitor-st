@@ -35,8 +35,8 @@ async function runCycle(db, notifier) {
 
 async function main() {
   const db = await openDb(config.db);
-  const notifier = makeNotifier(config.twilio);
-  if (!notifier.ready) log('Twilio not configured — SMS will be logged (dry-run)');
+  const notifier = makeNotifier(config.notify);
+  log(`notify channel: ${notifier.channel}`);
 
   try {
     if (once) {

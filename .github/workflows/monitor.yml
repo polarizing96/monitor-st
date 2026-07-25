@@ -10,9 +10,12 @@ on:
   workflow_dispatch: {} # lets you trigger a run by hand from the Actions tab
 
 concurrency:
-  # Never let two runs overlap (they'd double-text and race the DB).
+  # Never let two runs overlap (they'd double-text and race the state files).
   group: amc-monitor
   cancel-in-progress: false
+
+permissions:
+  contents: write # needed to commit the updated state files back to the repo
 
 jobs:
   check:
@@ -44,11 +47,20 @@ jobs:
           AMC_MAX_DATES: ${{ vars.AMC_MAX_DATES }}
           # Rotating sticky-session residential proxy (see README).
           AMC_PROXIES: ${{ secrets.AMC_PROXIES }}
-          # Serverless SQLite state (Turso).
-          TURSO_DATABASE_URL: ${{ secrets.TURSO_DATABASE_URL }}
-          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
-          # SMS (Twilio).
-          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
-          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
-          TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
-          TWILIO_TO: ${{ secrets.TWILIO_TO }}
+          # Push notifications via ntfy.sh (free, no signup).
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+
+      - name: Commit updated state
+        if: always() # persist state even if the monitor step errored partway
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain seen.json drops.json HISTORY.md)" ]; then
+            git add seen.json drops.json HISTORY.md
+            git commit -m "state: update seen showtimes [skip ci]"
+            # Rebase in case a manual run advanced the branch, then push.
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "no state changes"
+          fi
