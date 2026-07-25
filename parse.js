@@ -20,8 +20,35 @@ const MOVIE_MAP = /\\"name\\":\\"([^\\"]+)\\",\\"slug\\":\\"([^\\"]+)\\",\\"movi
 // Loose fallback: id + nearest UTC time (survives payload shape changes; no movie).
 const LOOSE = /\\"showtimeId\\":(\d+)[\s\S]{0,160}?\\"showDateTimeUtc\\":\\"([^\\"]+)\\"/g;
 
+// The premium format is encoded in each showtime's aria-describedby, as the
+// segment between the theatre slug and the trailing "-<n>-attributes", e.g.
+//   ...-amc-lincoln-square-13-imax70mm-0-attributes  →  "imax70mm"
+const FORMAT_TOKEN = /\\"showtimeId\\":(\d+)[\s\S]{0,900}?([a-z0-9-]+-\d+-attributes)\\"/g;
+
+// Known AMC format slugs → short readable labels. Unknown slugs fall through as-is.
+export const FORMAT_NAMES = {
+  standard: '', digital: '',
+  '70mm': '70mm', imax70mm: 'IMAX 70mm', imaxlaseratamc: 'IMAX Laser', imax: 'IMAX',
+  dolbycinemaatamcprime: 'Dolby Cinema', dolbycinema: 'Dolby Cinema',
+  reald3d: 'RealD 3D', reald3datamc: 'RealD 3D',
+  laseratamc: 'Laser', primeatamc: 'PRIME', prime: 'PRIME',
+  screenx: 'ScreenX', dbox: 'D-BOX', imax3d: 'IMAX 3D',
+  opencaption: 'Open Caption', closedcaption: 'Closed Caption',
+  japaneseenglishsubtitle: 'Japanese (Eng sub)',
+};
+export function formatName(slug) {
+  if (!slug) return null;
+  if (slug in FORMAT_NAMES) return FORMAT_NAMES[slug] || null;
+  return slug; // unknown format → show the raw slug rather than nothing
+}
+
 // Pattern sources so the exact same logic runs inside the browser page.
-export const PATTERNS = { combined: COMBINED.source, movieMap: MOVIE_MAP.source, loose: LOOSE.source };
+export const PATTERNS = {
+  combined: COMBINED.source,
+  movieMap: MOVIE_MAP.source,
+  loose: LOOSE.source,
+  formatToken: FORMAT_TOKEN.source,
+};
 
 // Decode RSC-escaped unicode (& → &) and stray escapes in a title.
 export function decodeTitle(s) {
@@ -47,17 +74,27 @@ export function deslug(s) {
  * @param {string} date the YYYY-MM-DD requested
  * @returns {Array<{id,date,dt,status,movie}>}
  */
-export function parseShowtimes(html, date) {
+export function parseShowtimes(html, date, theatreSlug) {
   const slugToName = {};
   for (const m of html.matchAll(new RegExp(PATTERNS.movieMap, 'g'))) slugToName[m[2]] = decodeTitle(m[1]);
 
   const byId = new Map();
   for (const m of html.matchAll(new RegExp(PATTERNS.combined, 'g'))) {
     const slug = m[4];
-    byId.set(m[1], { id: m[1], date, status: m[2], dt: m[3], movie: slugToName[slug] || deslug(slug) });
+    byId.set(m[1], { id: m[1], date, status: m[2], dt: m[3], movie: slugToName[slug] || deslug(slug), format: null });
   }
   for (const m of html.matchAll(new RegExp(PATTERNS.loose, 'g'))) {
-    if (!byId.has(m[1])) byId.set(m[1], { id: m[1], date, status: null, dt: m[2], movie: null });
+    if (!byId.has(m[1])) byId.set(m[1], { id: m[1], date, status: null, dt: m[2], movie: null, format: null });
+  }
+
+  // Attach premium format (best-effort) from the "-<n>-attributes" id token.
+  if (theatreSlug) {
+    for (const m of html.matchAll(new RegExp(PATTERNS.formatToken, 'g'))) {
+      const row = byId.get(m[1]);
+      if (!row) continue;
+      const after = m[2].split(`-${theatreSlug}-`)[1];
+      if (after) row.format = formatName(after.replace(/-\d+-attributes$/, ''));
+    }
   }
   return [...byId.values()];
 }

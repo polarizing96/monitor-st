@@ -15,7 +15,7 @@
 //  7. Multiple proxies => multiple browsers in parallel (IP diversity + speed).
 
 import { chromium } from 'playwright';
-import { PATTERNS, parseDates } from './parse.js';
+import { PATTERNS, parseDates, FORMAT_NAMES } from './parse.js';
 
 const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
@@ -122,7 +122,7 @@ async function readDatesAndLabel(worker) {
  */
 async function fetchBatch(worker, items, cfg) {
   return worker.page.evaluate(
-    async ({ items, concurrency, jitter, maxRetries, backoffBase, patterns, fetchTimeout }) => {
+    async ({ items, concurrency, jitter, maxRetries, backoffBase, patterns, fetchTimeout, theatreSlug, formatNames }) => {
       const nap = (ms) => new Promise((r) => setTimeout(r, ms));
 
       const deslug = (s) =>
@@ -131,16 +131,25 @@ async function fetchBatch(worker, items, cfg) {
         try { return JSON.parse('"' + s.replace(/"/g, '\\"') + '"'); } catch { return s.replace(/\\u0026/g, '&'); }
       };
 
+      const fmtName = (slug) => (slug in formatNames ? formatNames[slug] || null : slug || null);
       const parse = (html, date) => {
         const slugToName = {};
         for (const m of html.matchAll(new RegExp(patterns.movieMap, 'g'))) slugToName[m[2]] = decode(m[1]);
         const byId = new Map();
         for (const m of html.matchAll(new RegExp(patterns.combined, 'g'))) {
           const slug = m[4];
-          byId.set(m[1], { id: m[1], date, status: m[2], dt: m[3], movie: slugToName[slug] || deslug(slug) });
+          byId.set(m[1], { id: m[1], date, status: m[2], dt: m[3], movie: slugToName[slug] || deslug(slug), format: null });
         }
         for (const m of html.matchAll(new RegExp(patterns.loose, 'g'))) {
-          if (!byId.has(m[1])) byId.set(m[1], { id: m[1], date, status: null, dt: m[2], movie: null });
+          if (!byId.has(m[1])) byId.set(m[1], { id: m[1], date, status: null, dt: m[2], movie: null, format: null });
+        }
+        if (theatreSlug) {
+          for (const m of html.matchAll(new RegExp(patterns.formatToken, 'g'))) {
+            const row = byId.get(m[1]);
+            if (!row) continue;
+            const after = m[2].split(`-${theatreSlug}-`)[1];
+            if (after) row.format = fmtName(after.replace(/-\d+-attributes$/, ''));
+          }
         }
         return [...byId.values()];
       };
@@ -203,6 +212,8 @@ async function fetchBatch(worker, items, cfg) {
       backoffBase: cfg.backoffBaseMs,
       patterns: PATTERNS,
       fetchTimeout: cfg.fetchTimeoutMs,
+      theatreSlug: new URL(cfg.theatreUrl).pathname.split('/')[3] || '',
+      formatNames: FORMAT_NAMES,
     }
   );
 }

@@ -64,61 +64,64 @@ export function makeNotifier(cfg) {
 //     Wed 7/29: 1:00pm
 //   🎬 The Odyssey (2)
 //     Tue 7/28: 6:00pm, 9:30pm
-const MAX_MOVIES = 20;
-
-// Group rows by movie (sorted by earliest showtime), and for each movie group
-// its times by local date. Shared by the push body and the markdown history.
-function groupByMovie(newRows) {
-  const byMovie = new Map();
-  for (const r of newRows) {
-    const key = r.movie || 'Other';
-    if (!byMovie.has(key)) byMovie.set(key, []);
-    byMovie.get(key).push(r);
-  }
-  const earliest = (rows) => rows.reduce((min, r) => (r.dt && r.dt < min ? r.dt : min), '9999');
-  return [...byMovie.entries()].sort((a, b) => earliest(a[1]).localeCompare(earliest(b[1])));
-}
+const MAX_MOVIES = 25;
 
 // Each showtime deep-links to AMC. On iOS with the AMC app installed this
 // universal-links straight into the app; otherwise it opens the website.
 const AMC = 'https://www.amctheatres.com';
 export const showtimeUrl = (id) => `${AMC}/showtimes/${id}`;
 
-function datesForMovie(rows) {
-  const byDate = new Map();
-  for (const r of [...rows].sort((x, y) => (x.dt || '').localeCompare(y.dt || ''))) {
+// Build a movie → format → date → [{t,id}] tree. Rows are sorted by start time
+// first, so every level comes out in chronological / earliest-first order.
+function groupRows(newRows) {
+  const rows = [...newRows].sort((a, b) => (a.dt || '').localeCompare(b.dt || ''));
+  const movies = new Map();
+  for (const r of rows) {
+    const mv = r.movie || 'Other';
+    const fmt = r.format || ''; // '' = standard/no premium format
     const d = r.dt ? localDate(r.dt) : r.date;
+    if (!movies.has(mv)) movies.set(mv, new Map());
+    const byFmt = movies.get(mv);
+    if (!byFmt.has(fmt)) byFmt.set(fmt, new Map());
+    const byDate = byFmt.get(fmt);
     if (!byDate.has(d)) byDate.set(d, []);
     byDate.get(d).push({ t: r.dt ? localTime(r.dt) : '?', id: r.id });
   }
-  return byDate;
+  return movies;
 }
+
+// "Sat 7/25: 6:00am, 2:00pm · Sun 7/26: 6:00am"  (render=each time -> string)
+const joinDates = (byDate, render) =>
+  [...byDate].map(([d, times]) => `${d}: ${times.map(render).join(', ')}`).join(' · ');
 
 // Compact plain-text body for the ntfy push (single newlines are fine there).
 export function formatAlert(newRows, theatreLabel) {
   const n = newRows.length;
-  const movies = groupByMovie(newRows);
-  const blocks = movies.slice(0, MAX_MOVIES).map(([movie, rows]) => {
-    const dateLines = [...datesForMovie(rows)].map(([d, times]) => `  ${d}: ${times.map((x) => x.t).join(', ')}`);
-    return `🎬 ${movie} (${rows.length})\n${dateLines.join('\n')}`;
+  const movies = [...groupRows(newRows)];
+  const blocks = movies.slice(0, MAX_MOVIES).map(([movie, byFmt]) => {
+    const lines = [...byFmt].map(([fmt, byDate]) => {
+      const seg = joinDates(byDate, (x) => x.t);
+      return fmt ? `  ${fmt} — ${seg}` : `  ${seg}`;
+    });
+    return `🎬 ${movie}\n${lines.join('\n')}`;
   });
   if (movies.length > MAX_MOVIES) blocks.push(`…+${movies.length - MAX_MOVIES} more movies`);
   const header = `${theatreLabel} — ${n} new showtime${n === 1 ? '' : 's'} · ${movies.length} movie${movies.length === 1 ? '' : 's'}`;
   return `${header}\n\n${blocks.join('\n')}`;
 }
 
-// Proper markdown for HISTORY.md: blank lines between blocks, bold movie names,
-// list items, and every time links to its showtime — GitHub renders it cleanly
-// and each link opens the AMC app/site.
+// Proper markdown for HISTORY.md: bold movie, a bold format sub-bullet per
+// format, and every time a link to its showtime. Renders cleanly on GitHub and
+// each link opens the AMC app/site.
 export function formatHistoryMarkdown(newRows, theatreLabel) {
   const n = newRows.length;
-  const movies = groupByMovie(newRows);
+  const movies = [...groupRows(newRows)];
   const out = [`**${theatreLabel}** — ${n} new showtime${n === 1 ? '' : 's'} across ${movies.length} movie${movies.length === 1 ? '' : 's'}`, ''];
-  for (const [movie, rows] of movies) {
-    out.push(`**${movie}** — ${rows.length} new`);
-    for (const [d, times] of datesForMovie(rows)) {
-      const links = times.map((x) => `[${x.t}](${showtimeUrl(x.id)})`).join(', ');
-      out.push(`- ${d}: ${links}`);
+  for (const [movie, byFmt] of movies) {
+    out.push(`**${movie}**`);
+    for (const [fmt, byDate] of byFmt) {
+      const seg = joinDates(byDate, (x) => `[${x.t}](${showtimeUrl(x.id)})`);
+      out.push(fmt ? `- **${fmt}** — ${seg}` : `- ${seg}`);
     }
     out.push('');
   }
