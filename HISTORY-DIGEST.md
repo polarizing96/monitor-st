@@ -1,5 +1,55 @@
 # Daily showtimes digest
 
+## Sunday, July 26 · 77 showtimes · 8 venues
+
+### AMC Lincoln Square 13
+- **Disclosure Day · Laser** — [11:00am](undefined), [2:30pm](undefined)
+- **Hadestown: The Musical · Laser** — [9:00am](undefined), [11:00am](undefined), [2:30pm](undefined), [3:30pm](undefined), [6:00pm](undefined), [7:00pm](undefined), [9:45pm](undefined)
+- **Hadestown: The Musical · Open Caption** — [12:00pm](undefined)
+- **Her Private Hell · Laser** — [8:30pm](undefined)
+- **Her Private Hell · Open Caption** — [10:30pm](undefined)
+- **Minions Monsters · Laser** — [10:30am](undefined), [4:00pm](undefined), [6:00pm](undefined), [9:45pm](undefined)
+- **Minions Monsters · Open Caption** — [1:15pm](undefined)
+- **Moana · Open Caption** — [1:30pm](undefined)
+- **Moana · Laser** — [4:30pm](undefined), [7:30pm](undefined)
+- **Sheep in the Box · Japanese (Eng sub)** — [10:15am](undefined), [1:15pm](undefined), [4:15pm](undefined), [7:15pm](undefined), [10:15pm](undefined)
+- **The Invite · Laser** — [10:45am](undefined), [4:45pm](undefined), [7:45pm](undefined), [10:45pm](undefined)
+- **The Invite · Open Caption** — [1:45pm](undefined)
+- **The Odyssey · Laser** — [9:30am](undefined), [1:30pm](undefined), [3:30pm](undefined), [5:30pm](undefined), [6:30pm](undefined), [7:30pm](undefined), [9:30pm](undefined), [10:30pm](undefined)
+- **The Odyssey · IMAX 70mm** — [10:00am](undefined), [2:00pm](undefined), [6:00pm](undefined), [10:00pm](undefined)
+- **The Odyssey · Dolby Cinema** — [11:00am](undefined), [3:00pm](undefined), [7:00pm](undefined), [11:00pm](undefined)
+- **The Odyssey · Open Caption** — [11:30am](undefined)
+- **The Odyssey · 70mm** — [12:30pm](undefined), [4:30pm](undefined), [8:30pm](undefined)
+- **Toy Story · Laser** — [9:15am](undefined), [3:45pm](undefined), [6:45pm](undefined), [10:30pm](undefined)
+- **Toy Story · Open Caption** — [12:45pm](undefined)
+
+### Film at Lincoln Center
+- **Romería** — [Multiple Times](https://www.filmlinc.org/films/romería)
+- **Rose of Nevada** — [Multiple Times](https://www.filmlinc.org/films/rose-of-nevada)
+- **The Hole** — [Multiple Times](https://www.filmlinc.org/films/the-hole)
+- **The Piano** — [Multiple Times](https://www.filmlinc.org/films/the-piano)
+
+### Francesca Beale
+- **Romeria** — [1:00pm](https://purchase.filmlinc.org/82869/83667), [3:30pm](https://purchase.filmlinc.org/82869/83668)
+- **The Hole** — [6:15pm](https://purchase.filmlinc.org/83288/83701), [8:30pm](https://purchase.filmlinc.org/83288/83702)
+
+### Howard Gilman
+- **Romeria** — [6:00pm](https://purchase.filmlinc.org/82869/83671)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83686), [3:45pm](https://purchase.filmlinc.org/83007/83687), [8:45pm](https://purchase.filmlinc.org/83007/83688)
+
+### Jazz at Lincoln Center
+- **Jon Faddis Quartet: 73rd Birthday Celebration** — [5:00pm](https://ticketing.jazz.org/21152/21159), [7:30pm](https://ticketing.jazz.org/21152/21160)
+
+### Lincoln Center Theater
+- **Ragtime** — [1:00pm](https://lct.org/shows/ragtime/), [3:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [3:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Summer for the City
+- **Qi Yu - Guzheng Meets Jazz** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Chinese%20Arts%20Week)
+
+### Walter Reade
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83319), [3:30pm](https://purchase.filmlinc.org/83310/83320), [6:00pm](https://purchase.filmlinc.org/83310/83321), [8:30pm](https://purchase.filmlinc.org/83310/83322)
+
 ## Sunday, July 26 · 82 showtimes · 8 venues
 
 ### AMC Lincoln Square 13
