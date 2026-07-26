@@ -567,5 +567,23 @@
       "01tPe00000IDyNjIAL"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 21 new showtimes · 2 shows\n\n🎬 Six\n  Broadway · Lena Horne Theatre — Sat, 8/1: 8:00pm · Sun, 8/2: 2:00pm, 7:00pm · Sat, 8/8: 8:00pm · Sun, 8/9: 2:00pm, 7:00pm · Mon, 8/10: 7:00pm · Thu, 8/13: 7:00pm · Fri, 8/14: 7:00pm · Sat, 8/15: 3:00pm, 8:00pm · Sun, 8/16: 2:00pm, 7:00pm\n🎬 Two Strangers (Carry a Cake Across New York)\n  Broadway · Longacre Theatre — Tue, 8/4: 7:30pm · Wed, 8/5: 2:00pm, 7:30pm · Thu, 8/6: 7:30pm · Fri, 8/7: 7:30pm · Sat, 8/8: 2:00pm, 8:00pm · Sun, 8/9: 3:00pm"
+  },
+  {
+    "detected_at": "2026-07-26T21:01:22.793Z",
+    "count": 11,
+    "showtime_ids": [
+      "01tPe00000IE52PIAT",
+      "01tPe00000IE52QIAT",
+      "01tPe00000IE52RIAT",
+      "01tPe00000IE52OIAT",
+      "01tPe00000IE52SIAT",
+      "01tPe00000IE52TIAT",
+      "01tPe00000IE52UIAT",
+      "01tPe00000IE6CvIAL",
+      "01tPe00000IE6CwIAL",
+      "01tPe00000IE6CxIAL",
+      "01tPe00000IE6CyIAL"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 11 new showtimes · 2 shows\n\n🎬 Truly, Howard Hughes\n  Off Broadway · The York Theatre at Theatre at St Jean's — Thu, 9/10: 7:30pm · Fri, 9/11: 7:30pm · Sat, 9/12: 7:30pm · Sun, 9/13: 2:30pm · Tue, 9/15: 7:30pm · Wed, 9/16: 7:30pm · Fri, 9/18: 7:30pm\n🎬 Kilgallen\n  Off Broadway · The York Theatre at Theatre at St Jean's — Sun, 11/29: 2:30pm · Tue, 12/1: 7:30pm · Wed, 12/2: 7:30pm · Fri, 12/4: 7:30pm"
   }
 ]
