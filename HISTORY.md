@@ -1,5 +1,18 @@
 # AMC showtimes — drop history
 
+## Sat, Jul 25, 8:12 PM ET · 3 new
+
+**AMC Lincoln Square 13** — 3 new showtimes across 3 movies
+
+**Her Private Hell**
+- **Laser** — Mon, 7/27: [12:15pm](https://www.amctheatres.com/showtimes/145505405)
+
+**Toy Story**
+- **Laser** — Mon, 7/27: [4:30pm](https://www.amctheatres.com/showtimes/145505407)
+
+**Hadestown: The Musical**
+- **Laser** — Mon, 7/27: [10:15pm](https://www.amctheatres.com/showtimes/145505406)
+
 ## Sat, Jul 25, 9:12 AM ET · 31 new
 
 **AMC Lincoln Square 13** — 31 new showtimes across 6 movies
