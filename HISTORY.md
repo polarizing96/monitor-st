@@ -1,5 +1,12 @@
 # AMC showtimes — drop history
 
+## Sun, Jul 26, 11:42 AM ET · 1 new
+
+**AMC Lincoln Square 13** — 1 status change
+
+**Avengers: Doomsday**
+- [Sat, 12/19 7:15am](https://www.amctheatres.com/showtimes/145349325) — Dolby Cinema: On Sale → Almost Full
+
 ## Sun, Jul 26, 9:29 AM ET · 5 new
 
 **AMC Lincoln Square 13** — 5 new showtimes across 1 movie

@@ -899,5 +899,13 @@
       "145480870"
     ],
     "summary": "AMC Lincoln Square 13 — 5 new showtimes · 1 movie\n\n🎬 One Night Only\n  Laser — Fri, 8/7: 10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm"
+  },
+  {
+    "detected_at": "2026-07-26T15:42:22.305Z",
+    "count": 1,
+    "showtime_ids": [
+      "145349325"
+    ],
+    "summary": "AMC Lincoln Square 13 — 1 status change\n\n🎟️ Avengers: Doomsday\n  Dolby Cinema · Sat, 12/19 7:15am: On Sale → Almost Full"
   }
 ]
