@@ -142,9 +142,10 @@
   "143822126": {
     "date": "2026-08-04",
     "dt": "2026-08-04T20:30:00.000Z",
-    "status": "Sellable",
+    "status": "AlmostFull",
     "movie": "The Odyssey",
-    "first_seen": "2026-07-25T12:35:40.144Z"
+    "first_seen": "2026-07-25T12:35:40.144Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "143822127": {
     "date": "2026-08-04",
@@ -856,9 +857,10 @@
   "144316313": {
     "date": "2026-08-08",
     "dt": "2026-08-08T23:30:00.000Z",
-    "status": "Sellable",
+    "status": "AlmostFull",
     "movie": "Spider-Man: Brand New Day",
-    "first_seen": "2026-07-25T12:35:40.144Z"
+    "first_seen": "2026-07-25T12:35:40.144Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "144316314": {
     "date": "2026-08-09",
@@ -1542,9 +1544,10 @@
   "144316417": {
     "date": "2026-07-31",
     "dt": "2026-08-01T02:00:00.000Z",
-    "status": "Sellable",
+    "status": "AlmostFull",
     "movie": "Spider-Man: Brand New Day",
-    "first_seen": "2026-07-25T12:35:40.144Z"
+    "first_seen": "2026-07-25T12:35:40.144Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "144316433": {
     "date": "2026-07-31",
@@ -5567,37 +5570,42 @@
   "145480837": {
     "date": "2026-08-12",
     "dt": "2026-08-12T17:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480838": {
     "date": "2026-08-12",
     "dt": "2026-08-12T14:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480839": {
     "date": "2026-08-12",
     "dt": "2026-08-12T20:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480840": {
     "date": "2026-08-12",
     "dt": "2026-08-12T23:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480841": {
     "date": "2026-08-12",
     "dt": "2026-08-13T02:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480842": {
     "date": "2026-08-11",
@@ -5707,37 +5715,42 @@
   "145480857": {
     "date": "2026-08-08",
     "dt": "2026-08-08T17:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480858": {
     "date": "2026-08-08",
     "dt": "2026-08-08T14:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480859": {
     "date": "2026-08-08",
     "dt": "2026-08-08T20:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480860": {
     "date": "2026-08-08",
     "dt": "2026-08-08T23:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480861": {
     "date": "2026-08-08",
     "dt": "2026-08-09T02:45:00.000Z",
-    "status": "Sellable",
+    "status": "ComingSoon",
     "movie": "One Night Only",
-    "first_seen": "2026-07-26T13:18:11.512Z"
+    "first_seen": "2026-07-26T13:18:11.512Z",
+    "status_changed": "2026-07-26T13:43:11.911Z"
   },
   "145480862": {
     "date": "2026-08-07",
