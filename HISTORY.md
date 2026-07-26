@@ -1,5 +1,12 @@
 # AMC showtimes — drop history
 
+## Sun, Jul 26, 9:29 AM ET · 5 new
+
+**AMC Lincoln Square 13** — 5 new showtimes across 1 movie
+
+**One Night Only**
+- **Laser** — Fri, 8/7: [10:45am](https://www.amctheatres.com/showtimes/145480867), [1:45pm](https://www.amctheatres.com/showtimes/145480862), [4:45pm](https://www.amctheatres.com/showtimes/145480868), [7:45pm](https://www.amctheatres.com/showtimes/145480869), [10:45pm](https://www.amctheatres.com/showtimes/145480870)
+
 ## Sun, Jul 26, 9:18 AM ET · 29 new
 
 **AMC Lincoln Square 13** — 29 new showtimes across 1 movie
