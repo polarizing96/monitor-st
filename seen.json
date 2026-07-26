@@ -780,9 +780,10 @@
   "144245761": {
     "date": "2026-07-30",
     "dt": "2026-07-30T20:30:00.000Z",
-    "status": "AlmostFull",
+    "status": "Sellable",
     "movie": "Spider-Man: Brand New Day",
-    "first_seen": "2026-07-25T12:35:40.143Z"
+    "first_seen": "2026-07-25T12:35:40.143Z",
+    "status_changed": "2026-07-26T17:58:48.945Z"
   },
   "144245762": {
     "date": "2026-07-30",

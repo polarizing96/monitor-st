@@ -1,5 +1,12 @@
 # AMC showtimes — drop history
 
+## Sun, Jul 26, 1:58 PM ET · 1 new
+
+**AMC Lincoln Square 13** — 1 status change
+
+**Spider-Man: Brand New Day**
+- [Thu, 7/30 4:30pm](https://www.amctheatres.com/showtimes/144245761) — Laser: Almost Full → On Sale
+
 ## Sun, Jul 26, 12:09 PM ET · 1 new
 
 **theatre** — 1 status change
