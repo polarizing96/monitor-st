@@ -1,5 +1,12 @@
 # AMC showtimes — drop history
 
+## Sun, Jul 26, 6:16 PM ET · 1 new
+
+**AMC Lincoln Square 13** — 1 status change
+
+**Amc Screen Unseen July**
+- [Mon, 7/27 7:45pm](https://www.amctheatres.com/showtimes/145420158) — Laser: On Sale → Almost Full
+
 ## Sun, Jul 26, 3:49 PM ET · 1 new
 
 **AMC Lincoln Square 13** — 1 status change

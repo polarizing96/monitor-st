@@ -4788,9 +4788,10 @@
   "145420158": {
     "date": "2026-07-27",
     "dt": "2026-07-27T23:45:00.000Z",
-    "status": "Sellable",
+    "status": "AlmostFull",
     "movie": "Amc Screen Unseen July",
-    "first_seen": "2026-07-25T12:35:40.144Z"
+    "first_seen": "2026-07-25T12:35:40.144Z",
+    "status_changed": "2026-07-26T22:16:47.684Z"
   },
   "145420159": {
     "date": "2026-07-27",
