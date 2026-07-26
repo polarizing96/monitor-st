@@ -1,5 +1,13 @@
 # AMC showtimes — drop history
 
+## Sun, Jul 26, 9:18 AM ET · 29 new
+
+**AMC Lincoln Square 13** — 29 new showtimes across 1 movie
+
+**One Night Only**
+- **Laser** — Thu, 8/6: [2:00pm](https://www.amctheatres.com/showtimes/145480863), [4:45pm](https://www.amctheatres.com/showtimes/145480864), [7:45pm](https://www.amctheatres.com/showtimes/145480865), [10:45pm](https://www.amctheatres.com/showtimes/145480866) · Sat, 8/8: [10:45am](https://www.amctheatres.com/showtimes/145480858), [4:45pm](https://www.amctheatres.com/showtimes/145480859), [7:45pm](https://www.amctheatres.com/showtimes/145480860), [10:45pm](https://www.amctheatres.com/showtimes/145480861) · Sun, 8/9: [10:45am](https://www.amctheatres.com/showtimes/145480853), [4:45pm](https://www.amctheatres.com/showtimes/145480854), [7:45pm](https://www.amctheatres.com/showtimes/145480855), [10:45pm](https://www.amctheatres.com/showtimes/145480856) · Mon, 8/10: [10:45am](https://www.amctheatres.com/showtimes/145480848), [4:45pm](https://www.amctheatres.com/showtimes/145480849), [7:45pm](https://www.amctheatres.com/showtimes/145480850), [10:45pm](https://www.amctheatres.com/showtimes/145480851) · Tue, 8/11: [10:45am](https://www.amctheatres.com/showtimes/145480843), [1:45pm](https://www.amctheatres.com/showtimes/145480842), [4:45pm](https://www.amctheatres.com/showtimes/145480844), [7:45pm](https://www.amctheatres.com/showtimes/145480845), [10:45pm](https://www.amctheatres.com/showtimes/145480846) · Wed, 8/12: [10:45am](https://www.amctheatres.com/showtimes/145480838), [1:45pm](https://www.amctheatres.com/showtimes/145480837), [4:45pm](https://www.amctheatres.com/showtimes/145480839), [10:45pm](https://www.amctheatres.com/showtimes/145480841)
+- **Open Caption** — Sat, 8/8: [1:45pm](https://www.amctheatres.com/showtimes/145480857) · Sun, 8/9: [1:45pm](https://www.amctheatres.com/showtimes/145480852) · Mon, 8/10: [1:45pm](https://www.amctheatres.com/showtimes/145480847) · Wed, 8/12: [7:45pm](https://www.amctheatres.com/showtimes/145480840)
+
 ## Sat, Jul 25, 8:12 PM ET · 3 new
 
 **AMC Lincoln Square 13** — 3 new showtimes across 3 movies
