@@ -34,6 +34,7 @@ jobs:
         env:
           AMC_THEATRE_URL: ${{ vars.AMC_THEATRE_URL }}
           AMC_MAX_DATES: ${{ vars.AMC_MAX_DATES }}
+          AMC_STATUS_ALERTS: ${{ vars.AMC_STATUS_ALERTS }}
           # Rotating sticky-session residential proxy (see README).
           AMC_PROXIES: ${{ secrets.AMC_PROXIES }}
           # Push notifications via ntfy.sh (free, no signup).

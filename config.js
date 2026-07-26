@@ -46,6 +46,10 @@ export const config = {
   maxDates: process.env.AMC_MAX_DATES ? intEnv('AMC_MAX_DATES') : null,
 
   // Run continuously on an interval, or just once. --once flag overrides to false.
+  // Notify on showtime status transitions (ComingSoon→Sellable→AlmostFull→SoldOut).
+  // Set AMC_STATUS_ALERTS=off for one run to silently re-baseline stored statuses.
+  statusAlerts: boolEnv('AMC_STATUS_ALERTS', true),
+
   loop: boolEnv('AMC_LOOP', true),
   pollIntervalMs: intEnv('AMC_POLL_INTERVAL', 15 * 60 * 1000), // 15 min
 

@@ -25,9 +25,11 @@ export async function fetchDayRows(date, log = console.log) {
   }
 
   // Film at Lincoln Center — public JSON API.
+  let flcOk = false;
   try {
     const rows = await fetchFilmlincRows();
     add(rows, 'FLC');
+    flcOk = rows.some((r) => r.date === date);
     log(`[digest] FLC: ${rows.filter((r) => r.date === date).length} on ${date}`);
   } catch (e) {
     log(`::warning:: [digest] FLC failed: ${e.message}`);
@@ -50,8 +52,11 @@ export async function fetchDayRows(date, log = console.log) {
   }
 
   // Lincoln Center — browser-free calendar (2 months covers today/tomorrow).
+  // Drop LC's "Film at Lincoln Center" rows when FLC covered the day — they're
+  // the same films but with a vague "Multiple Times" instead of real times.
   try {
-    const rows = await fetchLincolnCenterRows({ months: 2 }, log);
+    let rows = await fetchLincolnCenterRows({ months: 2 }, log);
+    if (flcOk) rows = rows.filter((r) => !/film at lincoln center/i.test(`${r.venue || ''} ${r.format || ''}`));
     add(rows, 'LC');
     log(`[digest] LC: ${rows.filter((r) => r.date === date).length} on ${date}`);
   } catch (e) {

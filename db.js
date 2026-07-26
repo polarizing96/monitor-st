@@ -47,21 +47,32 @@ export async function openDb({ stateFile = 'seen.json', dropsFile = 'drops.json'
   const drops = await readJson(dropsFile, []);
 
   return {
+    // Returns { fresh, changed }:
+    //  • fresh   = rows whose id we've never seen (new showtimes)
+    //  • changed = rows whose status changed since last seen (e.g. ComingSoon →
+    //              Sellable, Sellable → AlmostFull → SoldOut), each with prevStatus
     async insertNew(rows) {
       const fresh = [];
+      const changed = [];
       for (const r of rows) {
-        if (seen[r.id]) continue;
-        seen[r.id] = {
-          date: r.date,
-          dt: r.dt ?? null,
-          status: r.status ?? null,
-          movie: r.movie ?? null,
-          first_seen: nowIso(),
-        };
-        fresh.push(r);
+        const prev = seen[r.id];
+        if (!prev) {
+          seen[r.id] = {
+            date: r.date,
+            dt: r.dt ?? null,
+            status: r.status ?? null,
+            movie: r.movie ?? null,
+            first_seen: nowIso(),
+          };
+          fresh.push(r);
+        } else if (r.status != null && prev.status !== r.status) {
+          changed.push({ ...r, prevStatus: prev.status ?? null });
+          prev.status = r.status;
+          prev.status_changed = nowIso();
+        }
       }
-      if (fresh.length) await writeJson(stateFile, seen);
-      return fresh;
+      if (fresh.length || changed.length) await writeJson(stateFile, seen);
+      return { fresh, changed };
     },
 
     async recordDrop(rows, summary, markdown) {

@@ -5,7 +5,7 @@
 import { config } from './config.js';
 import { openDb } from './db.js';
 import { scrape } from './scraper.js';
-import { makeNotifier, formatAlert, formatHistoryMarkdown } from './notify.js';
+import { makeNotifier, formatAlert, formatHistoryMarkdown, formatStatusChanges } from './notify.js';
 
 const once = process.argv.includes('--once') || !config.loop;
 const log = (...a) => console.log(new Date().toISOString(), ...a);
@@ -20,23 +20,32 @@ async function runCycle(db, notifier) {
     return;
   }
 
-  const fresh = await db.insertNew(rows);
-  if (!fresh.length) {
-    log('no new showtimes');
-    return;
+  const { fresh, changed } = await db.insertNew(rows);
+
+  // 1) New showtimes.
+  if (fresh.length) {
+    fresh.sort((a, b) => (a.dt || '').localeCompare(b.dt || ''));
+    log(`${fresh.length} NEW showtimes`);
+    const body = formatAlert(fresh, theatreLabel);
+    const earliestDate = fresh.map((r) => r.date).sort()[0];
+    await notifier.send(body, { title: `${theatreLabel}: ${fresh.length} new`, click: `${config.theatreUrl}?date=${earliestDate}` });
+    await db.recordDrop(fresh, body, formatHistoryMarkdown(fresh, theatreLabel));
   }
 
-  fresh.sort((a, b) => (a.dt || '').localeCompare(b.dt || ''));
-  log(`${fresh.length} NEW showtimes`);
+  // 2) Status changes on existing showtimes (Available Soon→On Sale, →Almost Full, →Sold Out).
+  // insertNew already updated stored statuses; with statusAlerts off this run just
+  // silently re-baselines them (no notification) — used once after deploy.
+  if (changed.length && !config.statusAlerts) {
+    log(`${changed.length} status changes suppressed (baseline run)`);
+  } else if (changed.length) {
+    log(`${changed.length} status changes`);
+    const { text, md } = formatStatusChanges(changed, theatreLabel);
+    const earliestDate = changed.map((r) => r.date).sort()[0];
+    await notifier.send(text, { title: `${theatreLabel}: ${changed.length} status change${changed.length === 1 ? '' : 's'}`, click: `${config.theatreUrl}?date=${earliestDate}` });
+    await db.recordDrop(changed, text, md);
+  }
 
-  const body = formatAlert(fresh, theatreLabel);
-  // Tapping the push lands on the theatre's showtimes for the earliest new date.
-  const earliestDate = fresh.map((r) => r.date).sort()[0];
-  const click = `${config.theatreUrl}?date=${earliestDate}`;
-  await notifier.send(body, { title: `${theatreLabel}: ${fresh.length} new`, click });
-
-  const markdown = formatHistoryMarkdown(fresh, theatreLabel);
-  await db.recordDrop(fresh, body, markdown); // durable, readable history
+  if (!fresh.length && !changed.length) log('no new showtimes or status changes');
 }
 
 async function main() {

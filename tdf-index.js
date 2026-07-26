@@ -37,7 +37,7 @@ async function main() {
       log('no showtimes returned — login or API issue?; skipping (no state change)');
       return;
     }
-    const fresh = await db.insertNew(rows);
+    const { fresh } = await db.insertNew(rows);
     if (!fresh.length) {
       log('no new showtimes');
       return;

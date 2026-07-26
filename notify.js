@@ -133,6 +133,46 @@ export function formatHistoryMarkdown(newRows, theatreLabel, unit = 'movie') {
   return out.join('\n').trim();
 }
 
+// Friendly labels for AMC status codes (extend as needed).
+const STATUS_LABELS = {
+  comingsoon: 'Available Soon',
+  sellable: 'On Sale',
+  almostfull: 'Almost Full',
+  soldout: 'Sold Out',
+  available: 'Available',
+  standby: 'Standby',
+  limited: 'Limited',
+};
+const statusLabel = (s) => STATUS_LABELS[String(s || '').toLowerCase()] || s || '?';
+
+// Alert for status TRANSITIONS (e.g. Available Soon → On Sale, → Sold Out).
+// Returns { text } for ntfy and { md } for HISTORY. Rows carry prevStatus.
+export function formatStatusChanges(changed, theatreLabel) {
+  const byMovie = new Map();
+  for (const r of [...changed].sort((a, b) => (a.dt || '').localeCompare(b.dt || ''))) {
+    const k = r.movie || 'Other';
+    if (!byMovie.has(k)) byMovie.set(k, []);
+    byMovie.get(k).push(r);
+  }
+  const whenOf = (r) => `${r.dt ? localDate(r.dt) : r.date} ${r.timeLabel != null ? r.timeLabel : r.dt ? localTime(r.dt) : ''}`.trim();
+  const transition = (r) => `${statusLabel(r.prevStatus)} → ${statusLabel(r.status)}`;
+  const n = changed.length;
+
+  const textBlocks = [...byMovie].slice(0, MAX_MOVIES).map(([m, rs]) => {
+    const lines = rs.map((r) => `  ${r.format ? `${r.format} · ` : ''}${whenOf(r)}: ${transition(r)}`);
+    return `🎟️ ${m}\n${lines.join('\n')}`;
+  });
+  const text = `${theatreLabel} — ${n} status change${n === 1 ? '' : 's'}\n\n${textBlocks.join('\n')}`;
+
+  const out = [`**${theatreLabel}** — ${n} status change${n === 1 ? '' : 's'}`, ''];
+  for (const [m, rs] of byMovie) {
+    out.push(`**${m}**`);
+    for (const r of rs) out.push(`- [${whenOf(r)}](${r.url || showtimeUrl(r.id)})${r.format ? ` — ${r.format}` : ''}: ${transition(r)}`);
+    out.push('');
+  }
+  return { text, md: out.join('\n').trim() };
+}
+
 const fmt = (iso, opts) => {
   try {
     return new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', ...opts }).format(new Date(iso));

@@ -29,7 +29,7 @@ async function main() {
       return;
     }
 
-    const fresh = await db.insertNew(rows);
+    const { fresh } = await db.insertNew(rows);
     if (!fresh.length) {
       log('no new showtimes');
       return;
