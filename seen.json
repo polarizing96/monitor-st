@@ -4366,10 +4366,10 @@
   "145349325": {
     "date": "2026-12-19",
     "dt": "2026-12-19T12:15:00.000Z",
-    "status": "Sellable",
+    "status": "AlmostFull",
     "movie": "Avengers: Doomsday",
     "first_seen": "2026-07-25T12:35:40.144Z",
-    "status_changed": "2026-07-26T15:52:08.586Z"
+    "status_changed": "2026-07-26T16:09:04.906Z"
   },
   "145349326": {
     "date": "2026-12-20",
