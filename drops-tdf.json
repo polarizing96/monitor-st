@@ -603,5 +603,16 @@
       "01tPe00000IEub8IAD"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Buena Vista Social Club\n  Broadway · Gerald Schoenfeld Theatre — Fri, 7/31: 7:00pm · Thu, 8/6: 7:00pm · Fri, 8/7: 7:00pm"
+  },
+  {
+    "detected_at": "2026-07-27T16:01:07.010Z",
+    "count": 4,
+    "showtime_ids": [
+      "01tPe00000IF3OHIA1",
+      "01tPe00000IF3OJIA1",
+      "01tPe00000IF3OKIA1",
+      "01tPe00000IF3OIIA1"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 4 new showtimes · 1 show\n\n🎬 Maybe Happy Ending\n  Broadway · Belasco Theatre — Wed, 8/5: 2:00pm, 7:00pm · Fri, 8/7: 7:00pm · Sun, 8/9: 2:00pm"
   }
 ]

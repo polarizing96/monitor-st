@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Mon, Jul 27, 12:01 PM ET · 4 new
+
+**TDF (Broadway/Off-Broadway)** — 4 new showtimes across 1 show
+
+**Maybe Happy Ending**
+- **Broadway · Belasco Theatre** — Wed, 8/5: [2:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ), [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ) · Fri, 8/7: [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ) · Sun, 8/9: [2:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ)
+
 ## Mon, Jul 27, 11:01 AM ET · 3 new
 
 **TDF (Broadway/Off-Broadway)** — 3 new showtimes across 1 show
