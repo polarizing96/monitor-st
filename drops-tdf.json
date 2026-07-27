@@ -585,5 +585,13 @@
       "01tPe00000IE6CyIAL"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 11 new showtimes · 2 shows\n\n🎬 Truly, Howard Hughes\n  Off Broadway · The York Theatre at Theatre at St Jean's — Thu, 9/10: 7:30pm · Fri, 9/11: 7:30pm · Sat, 9/12: 7:30pm · Sun, 9/13: 2:30pm · Tue, 9/15: 7:30pm · Wed, 9/16: 7:30pm · Fri, 9/18: 7:30pm\n🎬 Kilgallen\n  Off Broadway · The York Theatre at Theatre at St Jean's — Sun, 11/29: 2:30pm · Tue, 12/1: 7:30pm · Wed, 12/2: 7:30pm · Fri, 12/4: 7:30pm"
+  },
+  {
+    "detected_at": "2026-07-27T14:01:03.465Z",
+    "count": 1,
+    "showtime_ids": [
+      "01tPe00000IEpGQIA1"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Tue, 7/28: 7:00pm"
   }
 ]
