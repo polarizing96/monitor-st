@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Mon, Jul 27, 11:01 AM ET · 3 new
+
+**TDF (Broadway/Off-Broadway)** — 3 new showtimes across 1 show
+
+**Buena Vista Social Club**
+- **Broadway · Gerald Schoenfeld Theatre** — Fri, 7/31: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Thu, 8/6: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Fri, 8/7: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
 ## Mon, Jul 27, 10:01 AM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show

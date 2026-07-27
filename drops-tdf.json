@@ -593,5 +593,15 @@
       "01tPe00000IEpGQIA1"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Tue, 7/28: 7:00pm"
+  },
+  {
+    "detected_at": "2026-07-27T15:01:04.280Z",
+    "count": 3,
+    "showtime_ids": [
+      "01tPe00000IEub6IAD",
+      "01tPe00000IEub7IAD",
+      "01tPe00000IEub8IAD"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Buena Vista Social Club\n  Broadway · Gerald Schoenfeld Theatre — Fri, 7/31: 7:00pm · Thu, 8/6: 7:00pm · Fri, 8/7: 7:00pm"
   }
 ]
