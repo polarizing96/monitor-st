@@ -2,10 +2,10 @@
   "83190": {
     "date": "2026-07-28",
     "dt": "2026-07-28T22:30:00.000Z",
-    "status": "standby",
+    "status": "limited",
     "movie": "Gentlemen Prefer Blondes",
     "first_seen": "2026-07-25T12:05:27.486Z",
-    "status_changed": "2026-07-27T15:40:22.596Z"
+    "status_changed": "2026-07-27T16:10:26.337Z"
   },
   "83315": {
     "date": "2026-07-25",
@@ -1239,11 +1239,396 @@
     "movie": "Franz",
     "first_seen": "2026-07-25T12:05:27.486Z"
   },
+  "83773": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83775": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83776": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83777": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83778": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83779": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83780": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83781": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83782": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83783": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83784": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83785": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83786": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T19:45:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83787": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T22:15:00.000Z",
+    "status": "available",
+    "movie": "Romeria",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83788": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
   "83789": {
     "date": "2026-07-31",
     "dt": "2026-08-01T00:45:00.000Z",
     "status": "available",
     "movie": "Rose of Nevada",
     "first_seen": "2026-07-27T15:20:24.229Z"
+  },
+  "83790": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83791": {
+    "date": "2026-08-01",
+    "dt": "2026-08-02T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83792": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83793": {
+    "date": "2026-08-02",
+    "dt": "2026-08-03T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83794": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83795": {
+    "date": "2026-08-03",
+    "dt": "2026-08-04T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83796": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83797": {
+    "date": "2026-08-04",
+    "dt": "2026-08-05T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83798": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83799": {
+    "date": "2026-08-05",
+    "dt": "2026-08-06T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83800": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T17:15:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83801": {
+    "date": "2026-08-06",
+    "dt": "2026-08-07T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83802": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83803": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83804": {
+    "date": "2026-07-31",
+    "dt": "2026-07-31T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83805": {
+    "date": "2026-07-31",
+    "dt": "2026-08-01T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83806": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83807": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83808": {
+    "date": "2026-08-01",
+    "dt": "2026-08-01T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83809": {
+    "date": "2026-08-01",
+    "dt": "2026-08-02T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83810": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83811": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83812": {
+    "date": "2026-08-02",
+    "dt": "2026-08-02T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83813": {
+    "date": "2026-08-02",
+    "dt": "2026-08-03T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83814": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83815": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83816": {
+    "date": "2026-08-03",
+    "dt": "2026-08-03T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83817": {
+    "date": "2026-08-03",
+    "dt": "2026-08-04T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83818": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83819": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83820": {
+    "date": "2026-08-04",
+    "dt": "2026-08-04T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83821": {
+    "date": "2026-08-04",
+    "dt": "2026-08-05T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83822": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83823": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83824": {
+    "date": "2026-08-05",
+    "dt": "2026-08-05T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83825": {
+    "date": "2026-08-05",
+    "dt": "2026-08-06T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83826": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T17:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83827": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T19:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83828": {
+    "date": "2026-08-06",
+    "dt": "2026-08-06T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83829": {
+    "date": "2026-08-06",
+    "dt": "2026-08-07T00:30:00.000Z",
+    "status": "available",
+    "movie": "The Piano",
+    "first_seen": "2026-07-27T16:10:26.337Z"
   }
 }

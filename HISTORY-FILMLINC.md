@@ -1,5 +1,19 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Jul 27, 12:10 PM ET · 55 new
+
+**Film at Lincoln Center** — 55 new showtimes across 3 movies
+
+**The Piano**
+- **Francesca Beale** — Fri, 7/31: [1:00pm](https://purchase.filmlinc.org/83310/83802), [3:30pm](https://purchase.filmlinc.org/83310/83803), [6:00pm](https://purchase.filmlinc.org/83310/83804), [8:30pm](https://purchase.filmlinc.org/83310/83805) · Sat, 8/1: [3:30pm](https://purchase.filmlinc.org/83310/83807), [6:00pm](https://purchase.filmlinc.org/83310/83808), [8:30pm](https://purchase.filmlinc.org/83310/83809) · Sun, 8/2: [1:00pm](https://purchase.filmlinc.org/83310/83810), [3:30pm](https://purchase.filmlinc.org/83310/83811), [6:00pm](https://purchase.filmlinc.org/83310/83812) · Mon, 8/3: [1:00pm](https://purchase.filmlinc.org/83310/83814), [3:30pm](https://purchase.filmlinc.org/83310/83815), [6:00pm](https://purchase.filmlinc.org/83310/83816), [8:30pm](https://purchase.filmlinc.org/83310/83817) · Tue, 8/4: [1:00pm](https://purchase.filmlinc.org/83310/83818), [3:30pm](https://purchase.filmlinc.org/83310/83819), [8:30pm](https://purchase.filmlinc.org/83310/83821) · Wed, 8/5: [1:00pm](https://purchase.filmlinc.org/83310/83822), [3:30pm](https://purchase.filmlinc.org/83310/83823), [6:00pm](https://purchase.filmlinc.org/83310/83824), [8:30pm](https://purchase.filmlinc.org/83310/83825) · Thu, 8/6: [1:00pm](https://purchase.filmlinc.org/83310/83826), [3:30pm](https://purchase.filmlinc.org/83310/83827), [8:30pm](https://purchase.filmlinc.org/83310/83829)
+- **Francesca Beale (Open Captions)** — Sat, 8/1: [1:00pm](https://purchase.filmlinc.org/83310/83806) · Sun, 8/2: [8:30pm](https://purchase.filmlinc.org/83310/83813) · Tue, 8/4: [6:00pm](https://purchase.filmlinc.org/83310/83820) · Thu, 8/6: [6:00pm](https://purchase.filmlinc.org/83310/83828)
+
+**Rose of Nevada**
+- **Howard Gilman** — Fri, 7/31: [1:15pm](https://purchase.filmlinc.org/83007/83788) · Sat, 8/1: [1:15pm](https://purchase.filmlinc.org/83007/83790), [8:45pm](https://purchase.filmlinc.org/83007/83791) · Sun, 8/2: [1:15pm](https://purchase.filmlinc.org/83007/83792), [8:45pm](https://purchase.filmlinc.org/83007/83793) · Mon, 8/3: [1:15pm](https://purchase.filmlinc.org/83007/83794), [8:45pm](https://purchase.filmlinc.org/83007/83795) · Tue, 8/4: [1:15pm](https://purchase.filmlinc.org/83007/83796), [8:45pm](https://purchase.filmlinc.org/83007/83797) · Wed, 8/5: [1:15pm](https://purchase.filmlinc.org/83007/83798), [8:45pm](https://purchase.filmlinc.org/83007/83799) · Thu, 8/6: [1:15pm](https://purchase.filmlinc.org/83007/83800), [8:45pm](https://purchase.filmlinc.org/83007/83801)
+
+**Romeria**
+- **Howard Gilman** — Fri, 7/31: [3:45pm](https://purchase.filmlinc.org/82869/83773), [6:15pm](https://purchase.filmlinc.org/82869/83775) · Sat, 8/1: [3:45pm](https://purchase.filmlinc.org/82869/83776), [6:15pm](https://purchase.filmlinc.org/82869/83777) · Sun, 8/2: [3:45pm](https://purchase.filmlinc.org/82869/83778), [6:15pm](https://purchase.filmlinc.org/82869/83779) · Mon, 8/3: [3:45pm](https://purchase.filmlinc.org/82869/83780), [6:15pm](https://purchase.filmlinc.org/82869/83781) · Tue, 8/4: [3:45pm](https://purchase.filmlinc.org/82869/83782), [6:15pm](https://purchase.filmlinc.org/82869/83783) · Wed, 8/5: [3:45pm](https://purchase.filmlinc.org/82869/83784), [6:15pm](https://purchase.filmlinc.org/82869/83785) · Thu, 8/6: [3:45pm](https://purchase.filmlinc.org/82869/83786), [6:15pm](https://purchase.filmlinc.org/82869/83787)
+
 ## Mon, Jul 27, 11:20 AM ET · 1 new
 
 **Film at Lincoln Center** — 1 new showtime across 1 movie
