@@ -1,5 +1,24 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Mon, Jul 27, 6:01 PM ET · 14 new
+
+**TDF (Broadway/Off-Broadway)** — 14 new showtimes across 5 shows
+
+**Amaze Magic**
+- **Off Broadway · New World Stages** — Wed, 7/29: [8:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB) · Sat, 8/1: [8:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB)
+
+**Moulin Rouge! The Musical**
+- **Broadway · Al Hirschfeld Theatre** — Thu, 7/30: [7:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ) · Sat, 8/1: [2:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
+**Speakeasy, Die Softly**
+- **Off Broadway · Carmine's Times Square** — Fri, 7/31: [7:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB) · Fri, 8/7: [7:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB) · Sat, 8/8: [4:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB), [8:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB) · Sun, 8/9: [5:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB)
+
+**Stranger Things: The First Shadow**
+- **Broadway · Marquis Theatre** — Sun, 8/2: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+**Titanique**
+- **Broadway · St. James Theatre** — Tue, 8/4: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Wed, 8/5: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Thu, 8/6: [3:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ), [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
 ## Mon, Jul 27, 12:01 PM ET · 4 new
 
 **TDF (Broadway/Off-Broadway)** — 4 new showtimes across 1 show
