@@ -1,5 +1,23 @@
 # Daily showtimes digest
 
+## Monday, July 27 · 12 showtimes · 5 venues
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83323), [3:30pm](https://purchase.filmlinc.org/83310/83324), [6:00pm](https://purchase.filmlinc.org/83310/83325), [8:30pm](https://purchase.filmlinc.org/83310/83326)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83672), [6:15pm](https://purchase.filmlinc.org/82869/83673)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83689), [8:45pm](https://purchase.filmlinc.org/83007/83690)
+
+### Jazz at Lincoln Center
+- **Nduduzo Makhathini Trio** — [7:00pm](https://ticketing.jazz.org/21161/21162), [9:00pm](https://ticketing.jazz.org/21161/21163)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### The New York Public Library for the Performing Arts
+- **The Library for the Performing Arts Play Club [VIRTUAL]** — [6:30pm](https://www.nypl.org/https://www.nypl.org/events/programs/2026/07/27/library-performing-arts-play-club-virtual)
+
 ## Sunday, July 26 · 77 showtimes · 8 venues
 
 ### AMC Lincoln Square 13
