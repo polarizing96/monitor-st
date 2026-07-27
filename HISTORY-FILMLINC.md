@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Jul 27, 11:20 AM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**Rose of Nevada**
+- **Howard Gilman** — Fri, 7/31: [8:45pm](https://purchase.filmlinc.org/83007/83789)
+
 ## Sat, Jul 25, 8:05 AM ET · 177 new
 
 **Film at Lincoln Center** — 177 new showtimes across 34 movies

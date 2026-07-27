@@ -1238,5 +1238,12 @@
     "status": "available",
     "movie": "Franz",
     "first_seen": "2026-07-25T12:05:27.486Z"
+  },
+  "83789": {
+    "date": "2026-07-31",
+    "dt": "2026-08-01T00:45:00.000Z",
+    "status": "available",
+    "movie": "Rose of Nevada",
+    "first_seen": "2026-07-27T15:20:24.229Z"
   }
 }
