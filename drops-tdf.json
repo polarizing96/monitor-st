@@ -652,5 +652,14 @@
       "01tPe00000IAiyHIAT"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 & Juliet\n  Broadway · Stephen Sondheim Theatre — Fri, 8/7: 8:00pm"
+  },
+  {
+    "detected_at": "2026-07-28T16:00:57.747Z",
+    "count": 2,
+    "showtime_ids": [
+      "01tPe00000IGh0FIAT",
+      "01tPe00000IGh0GIAT"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 2 new showtimes · 1 show\n\n🎬 The Great Gatsby\n  Broadway · Broadway Theatre — Sat, 8/8: 2:00pm · Thu, 8/20: 2:00pm"
   }
 ]

@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Jul 28, 12:00 PM ET · 2 new
+
+**TDF (Broadway/Off-Broadway)** — 2 new showtimes across 1 show
+
+**The Great Gatsby**
+- **Broadway · Broadway Theatre** — Sat, 8/8: [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ) · Thu, 8/20: [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ)
+
 ## Tue, Jul 28, 11:01 AM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
