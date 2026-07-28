@@ -30,6 +30,36 @@
 ### Walter Reade
 - **Gentlemen Prefer Blondes** — [6:30pm](https://purchase.filmlinc.org/83188/83190)
 
+## Tuesday, July 28 · 18 showtimes · 8 venues
+
+### 59E59 Theaters
+- **Hershey Felder: The Piano and Me** — [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83327), [3:30pm](https://purchase.filmlinc.org/83310/83328), [6:00pm](https://purchase.filmlinc.org/83310/83329), [8:30pm](https://purchase.filmlinc.org/83310/83330)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83674), [6:15pm](https://purchase.filmlinc.org/82869/83675)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83691), [8:45pm](https://purchase.filmlinc.org/83007/83692)
+
+### Jazz at Lincoln Center
+- **Nduduzo Makhathini Trio** — [7:00pm](https://ticketing.jazz.org/21161/21164), [9:00pm](https://ticketing.jazz.org/21161/21165)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Summer for the City
+- **BAAND Together Dance Festival** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival)
+- **Dance Workshop With New York City Ballet** — [5:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families)
+- **Panel Discussion: BAAND Together Dance Festival** — [5:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival)
+
+### Walter Reade
+- **Gentlemen Prefer Blondes** — [6:30pm](https://purchase.filmlinc.org/83188/83190)
+
 ## Monday, July 27 · 12 showtimes · 5 venues
 
 ### Francesca Beale
