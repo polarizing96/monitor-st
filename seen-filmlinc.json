@@ -2,10 +2,10 @@
   "83190": {
     "date": "2026-07-28",
     "dt": "2026-07-28T22:30:00.000Z",
-    "status": "standby",
+    "status": "limited",
     "movie": "Gentlemen Prefer Blondes",
     "first_seen": "2026-07-25T12:05:27.486Z",
-    "status_changed": "2026-07-28T18:20:26.417Z"
+    "status_changed": "2026-07-28T20:10:27.303Z"
   },
   "83315": {
     "date": "2026-07-25",
