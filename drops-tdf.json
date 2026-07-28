@@ -661,5 +661,28 @@
       "01tPe00000IGh0GIAT"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 2 new showtimes · 1 show\n\n🎬 The Great Gatsby\n  Broadway · Broadway Theatre — Sat, 8/8: 2:00pm · Thu, 8/20: 2:00pm"
+  },
+  {
+    "detected_at": "2026-07-28T18:01:06.838Z",
+    "count": 16,
+    "showtime_ids": [
+      "01tPe00000IGs3xIAD",
+      "01tPe00000IGs43IAD",
+      "01tPe00000IGs49IAD",
+      "01tPe00000IGs4BIAT",
+      "01tPe00000IGs3yIAD",
+      "01tPe00000IGs44IAD",
+      "01tPe00000IGs3zIAD",
+      "01tPe00000IGs45IAD",
+      "01tPe00000IGs40IAD",
+      "01tPe00000IGs46IAD",
+      "01tPe00000IGs4AIAT",
+      "01tPe00000IGs4CIAT",
+      "01tPe00000IGs41IAD",
+      "01tPe00000IGs47IAD",
+      "01tPe00000IGs42IAD",
+      "01tPe00000IGs48IAD"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 16 new showtimes · 1 show\n\n🎬 Gazillion Bubble Show\n  Off Broadway · New World Stages — Sat, 8/1: 11:00am, 2:00pm · Sun, 8/2: 12:00pm, 3:00pm · Wed, 8/5: 11:00am, 2:00pm · Thu, 8/6: 11:00am, 2:00pm · Sat, 8/8: 11:00am, 2:00pm · Sun, 8/9: 12:00pm, 3:00pm · Wed, 8/12: 11:00am, 2:00pm · Thu, 8/13: 11:00am, 2:00pm"
   }
 ]

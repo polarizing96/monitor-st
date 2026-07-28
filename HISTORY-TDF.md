@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Jul 28, 2:01 PM ET · 16 new
+
+**TDF (Broadway/Off-Broadway)** — 16 new showtimes across 1 show
+
+**Gazillion Bubble Show**
+- **Off Broadway · New World Stages** — Sat, 8/1: [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN) · Sun, 8/2: [12:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [3:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN) · Wed, 8/5: [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN) · Thu, 8/6: [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN) · Sat, 8/8: [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN) · Sun, 8/9: [12:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [3:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN) · Wed, 8/12: [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN) · Thu, 8/13: [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN)
+
 ## Tue, Jul 28, 12:00 PM ET · 2 new
 
 **TDF (Broadway/Off-Broadway)** — 2 new showtimes across 1 show
