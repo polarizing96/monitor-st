@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Jul 28, 10:01 AM ET · 2 new
+
+**TDF (Broadway/Off-Broadway)** — 2 new showtimes across 1 show
+
+**Hershey Felder: The Piano and Me**
+- **Off Broadway · 59E59 Theaters** — Thu, 7/30: [2:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3), [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
 ## Mon, Jul 27, 6:01 PM ET · 14 new
 
 **TDF (Broadway/Off-Broadway)** — 14 new showtimes across 5 shows
