@@ -34,6 +34,40 @@
 ### Walter Reade
 - **La rabbia + Walk Me Home** — [7:00pm](https://purchase.filmlinc.org/83371/83372)
 
+## Wednesday, July 29 · 25 showtimes · 8 venues
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83331), [3:30pm](https://purchase.filmlinc.org/83310/83332), [6:00pm](https://purchase.filmlinc.org/83310/83333), [8:30pm](https://purchase.filmlinc.org/83310/83334)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83676), [6:15pm](https://purchase.filmlinc.org/82869/83677)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83693), [8:45pm](https://purchase.filmlinc.org/83007/83694)
+
+### Jazz at Lincoln Center
+- **Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves** — [7:00pm](https://ticketing.jazz.org/21166/21167), [9:00pm](https://ticketing.jazz.org/21166/21168)
+
+### Lincoln Center Theater
+- **Ragtime** — [2:00pm](https://lct.org/shows/ragtime/), [8:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [2:00pm](https://lct.org/shows/the-whoopi-monologues/), [8:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Summer for the City
+- **BAAND Together Dance Festival** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival)
+- **Benjamin Akio Kimitch** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters)
+- **Dance Storytime With Lisa Johnson-Willingham** — [11:00am](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families), [1:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families)
+- **Dance Workshop With Ballet Hisp&aacute;nico New York** — [5:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families)
+- **SqueakyFest &lsquo;26** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/squeakyfest-andlsquo26-360)
+- **The Illustrious Blacks** — [8:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco)
+- **The Play of Fate** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+
+### The Juilliard School
+- **Lunch Hour Performance | Sweeter than Roses: Italian and English Song** — [1:00pm](https://www.juilliard.edu/event/186826/lunch-hour-performance-sweeter-roses-italian-and-english-song)
+
+### Walter Reade
+- **La rabbia + Walk Me Home** — [7:00pm](https://purchase.filmlinc.org/83371/83372)
+
 ## Tuesday, July 28 · 18 showtimes · 8 venues
 
 ### 59E59 Theaters
