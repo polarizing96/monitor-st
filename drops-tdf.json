@@ -872,5 +872,13 @@
       "01tPe00000IISoKIAX"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 2 new showtimes · 1 show\n\n🎬 Amaze Magic\n  Off Broadway · New World Stages — Sun, 8/2: 12:00pm, 3:00pm"
+  },
+  {
+    "detected_at": "2026-07-29T23:00:55.254Z",
+    "count": 1,
+    "showtime_ids": [
+      "01tPe00000IIkLOIA1"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Sat, 8/1: 7:00pm"
   }
 ]
