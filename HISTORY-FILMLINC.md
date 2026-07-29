@@ -1,5 +1,13 @@
 # Film at Lincoln Center — drop history
 
+## Wed, Jul 29, 12:10 PM ET · 35 new
+
+**Film at Lincoln Center** — 35 new showtimes across 1 movie
+
+**Samba Traore**
+- **Francesca Beale** — Fri, 8/28: [12:30pm](https://purchase.filmlinc.org/83830/83831), [2:30pm](https://purchase.filmlinc.org/83830/83832), [4:30pm](https://purchase.filmlinc.org/83830/83833), [6:30pm](https://purchase.filmlinc.org/83830/83834), [8:30pm](https://purchase.filmlinc.org/83830/83835) · Sat, 8/29: [12:30pm](https://purchase.filmlinc.org/83830/83836), [2:30pm](https://purchase.filmlinc.org/83830/83837), [4:30pm](https://purchase.filmlinc.org/83830/83838), [6:30pm](https://purchase.filmlinc.org/83830/83839), [8:30pm](https://purchase.filmlinc.org/83830/83840) · Sun, 8/30: [12:30pm](https://purchase.filmlinc.org/83830/83841), [2:30pm](https://purchase.filmlinc.org/83830/83845), [4:30pm](https://purchase.filmlinc.org/83830/83842), [6:30pm](https://purchase.filmlinc.org/83830/83843), [8:30pm](https://purchase.filmlinc.org/83830/83844) · Mon, 8/31: [12:30pm](https://purchase.filmlinc.org/83830/83846), [2:30pm](https://purchase.filmlinc.org/83830/83847), [4:30pm](https://purchase.filmlinc.org/83830/83848), [6:30pm](https://purchase.filmlinc.org/83830/83849), [8:30pm](https://purchase.filmlinc.org/83830/83850) · Tue, 9/1: [12:30pm](https://purchase.filmlinc.org/83830/83851), [2:30pm](https://purchase.filmlinc.org/83830/83853), [4:30pm](https://purchase.filmlinc.org/83830/83852), [6:30pm](https://purchase.filmlinc.org/83830/83854), [8:30pm](https://purchase.filmlinc.org/83830/83855) · Thu, 9/3: [12:30pm](https://purchase.filmlinc.org/83830/83861), [2:30pm](https://purchase.filmlinc.org/83830/83862), [4:30pm](https://purchase.filmlinc.org/83830/83863), [6:30pm](https://purchase.filmlinc.org/83830/83864), [8:30pm](https://purchase.filmlinc.org/83830/83865)
+- **Walter Reade** — Wed, 9/2: [12:30pm](https://purchase.filmlinc.org/83830/83856), [2:30pm](https://purchase.filmlinc.org/83830/83857), [4:30pm](https://purchase.filmlinc.org/83830/83858), [6:30pm](https://purchase.filmlinc.org/83830/83859), [8:30pm](https://purchase.filmlinc.org/83830/83860)
+
 ## Mon, Jul 27, 12:10 PM ET · 55 new
 
 **Film at Lincoln Center** — 55 new showtimes across 3 movies
