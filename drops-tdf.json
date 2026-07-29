@@ -817,5 +817,16 @@
       "01tPe00000IH9aoIAD"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Fri, 7/31: 7:00pm"
+  },
+  {
+    "detected_at": "2026-07-29T15:01:23.291Z",
+    "count": 4,
+    "showtime_ids": [
+      "01tPe00000II9CDIA1",
+      "01tPe00000II9CEIA1",
+      "01tPe00000II9CFIA1",
+      "01tPe00000II9CGIA1"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 4 new showtimes · 1 show\n\n🎬 Marilyn Exposed\n  Off Broadway · Actors Temple Theatre — Mon, 8/10: 7:30pm · Mon, 8/17: 7:30pm · Mon, 8/24: 7:30pm · Mon, 8/31: 7:30pm"
   }
 ]

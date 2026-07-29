@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Jul 29, 11:01 AM ET · 4 new
+
+**TDF (Broadway/Off-Broadway)** — 4 new showtimes across 1 show
+
+**Marilyn Exposed**
+- **Off Broadway · Actors Temple Theatre** — Mon, 8/10: [7:30pm](https://members.tdf.org/store/product/marilyn-exposed/01tPe00000H4LthIAF) · Mon, 8/17: [7:30pm](https://members.tdf.org/store/product/marilyn-exposed/01tPe00000H4LthIAF) · Mon, 8/24: [7:30pm](https://members.tdf.org/store/product/marilyn-exposed/01tPe00000H4LthIAF) · Mon, 8/31: [7:30pm](https://members.tdf.org/store/product/marilyn-exposed/01tPe00000H4LthIAF)
+
 ## Tue, Jul 28, 6:01 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
