@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Jul 29, 3:01 PM ET · 2 new
+
+**TDF (Broadway/Off-Broadway)** — 2 new showtimes across 1 show
+
+**Amaze Magic**
+- **Off Broadway · New World Stages** — Sun, 8/2: [12:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB), [3:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB)
+
 ## Wed, Jul 29, 1:01 PM ET · 28 new
 
 **TDF (Broadway/Off-Broadway)** — 28 new showtimes across 1 show
