@@ -828,5 +828,40 @@
       "01tPe00000II9CGIA1"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 4 new showtimes · 1 show\n\n🎬 Marilyn Exposed\n  Off Broadway · Actors Temple Theatre — Mon, 8/10: 7:30pm · Mon, 8/17: 7:30pm · Mon, 8/24: 7:30pm · Mon, 8/31: 7:30pm"
+  },
+  {
+    "detected_at": "2026-07-29T17:01:17.356Z",
+    "count": 28,
+    "showtime_ids": [
+      "01tPe00000IIJlRIAX",
+      "01tPe00000IIJlfIAH",
+      "01tPe00000IIJlSIAX",
+      "01tPe00000IIJlmIAH",
+      "01tPe00000IIJlTIAX",
+      "01tPe00000IIJlUIAX",
+      "01tPe00000IIJlgIAH",
+      "01tPe00000IIJlVIAX",
+      "01tPe00000IIJlWIAX",
+      "01tPe00000IIJlhIAH",
+      "01tPe00000IIJlnIAH",
+      "01tPe00000IIJlqIAH",
+      "01tPe00000IIJlXIAX",
+      "01tPe00000IIJlYIAX",
+      "01tPe00000IIJliIAH",
+      "01tPe00000IIJlZIAX",
+      "01tPe00000IIJleIAH",
+      "01tPe00000IIJljIAH",
+      "01tPe00000IIJloIAH",
+      "01tPe00000IIJlrIAH",
+      "01tPe00000IIJlaIAH",
+      "01tPe00000IIJlbIAH",
+      "01tPe00000IIJlkIAH",
+      "01tPe00000IIJlcIAH",
+      "01tPe00000IIJldIAH",
+      "01tPe00000IIJllIAH",
+      "01tPe00000IIJlpIAH",
+      "01tPe00000IIJlsIAH"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 28 new showtimes · 1 show\n\n🎬 The Play That Goes Wrong\n  Off Broadway · New World Stages — Wed, 8/5: 7:00pm · Thu, 8/6: 2:00pm, 7:00pm · Sat, 8/8: 8:00pm · Mon, 8/10: 7:00pm · Wed, 8/12: 7:00pm · Thu, 8/13: 2:00pm, 7:00pm · Fri, 8/14: 7:00pm · Sat, 8/15: 2:00pm, 8:00pm · Sun, 8/16: 3:00pm · Mon, 8/17: 7:00pm · Wed, 8/19: 7:00pm · Thu, 8/20: 2:00pm, 7:00pm · Fri, 8/21: 7:00pm · Sat, 8/22: 2:00pm, 8:00pm · Sun, 8/23: 3:00pm · Mon, 8/24: 7:00pm · Wed, 8/26: 7:00pm · Thu, 8/27: 2:00pm, 7:00pm · Fri, 8/28: 7:00pm · Sat, 8/29: 2:00pm, 8:00pm · Sun, 8/30: 3:00pm"
   }
 ]
