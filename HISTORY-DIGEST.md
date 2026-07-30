@@ -1,5 +1,38 @@
 # Daily showtimes digest
 
+## Thursday, July 30 · 21 showtimes · 8 venues
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83335), [3:30pm](https://purchase.filmlinc.org/83310/83336), [6:00pm](https://purchase.filmlinc.org/83310/83337), [8:30pm](https://purchase.filmlinc.org/83310/83338)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83678), [6:15pm](https://purchase.filmlinc.org/82869/83679)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83695), [8:45pm](https://purchase.filmlinc.org/83007/83696)
+
+### Jazz at Lincoln Center
+- **King Seiko Presents “Seiko Summer Jazz Camp All Stars”** — [7:00pm](https://ticketing.jazz.org/21176/21177), [9:00pm](https://ticketing.jazz.org/21176/21178)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Summer for the City
+- **BAAND Together Dance Festival** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival)
+- **Benjamin Akio Kimitch** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters)
+- **Dance Workshop With American Ballet Theatre** — [5:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families)
+- **Gathering: An R&B Soulfest With DJ FLWRSHRK** — [10:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco)
+- **Gathering: An R&B Soulfest With Jared Wayne Gladly** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/gathering-an-randampb-soulfest-with-jared-wayne-gladly-593)
+- **Mexican Institute of Sound & Meridian Brothers** — [8:00pm](https://www.lincolncenter.org/series/summer-for-the-city/mexican-institute-of-sound-andamp-meridian-brothers-819)
+
+### The Juilliard School
+- **Lunch Hour Performance | Magpie Duo** — [1:00pm](https://www.juilliard.edu/event/186831/lunch-hour-performance-magpie-duo)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [6:30pm](https://purchase.filmlinc.org/83373/83375)
+
 ## Wednesday, July 29 · 25 showtimes · 8 venues
 
 ### Francesca Beale
