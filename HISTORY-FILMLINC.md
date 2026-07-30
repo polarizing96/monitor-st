@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Jul 30, 6:50 PM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**Thesis**
+- **Walter Reade** — Thu, 9/3: [3:30pm](https://purchase.filmlinc.org/83740/83758)
+
 ## Wed, Jul 29, 12:10 PM ET · 35 new
 
 **Film at Lincoln Center** — 35 new showtimes across 1 movie
