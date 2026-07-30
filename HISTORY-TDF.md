@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Thu, Jul 30, 12:00 PM ET · 11 new
+
+**TDF (Broadway/Off-Broadway)** — 11 new showtimes across 2 shows
+
+**Buena Vista Social Club**
+- **Broadway · Gerald Schoenfeld Theatre** — Tue, 8/4: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Sun, 8/9: [3:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Tue, 8/11: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Wed, 8/12: [2:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Thu, 8/13: [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+**Moulin Rouge! The Musical**
+- **Broadway · Al Hirschfeld Theatre** — Wed, 8/5: [8:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ) · Thu, 8/6: [7:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ) · Sat, 8/8: [2:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ) · Sun, 8/9: [5:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ) · Wed, 8/12: [2:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ), [8:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
 ## Wed, Jul 29, 7:00 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
