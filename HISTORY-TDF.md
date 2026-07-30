@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Thu, Jul 30, 6:07 PM ET · 6 new
+
+**TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows
+
+**The Saviors**
+- **Off Broadway · Atlantic Theater Company's Linda Gross Theater** — Fri, 7/31: [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5) · Sat, 8/1: [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5), [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5) · Sun, 8/2: [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5) · Mon, 8/3: [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+**An American Daughter**
+- **Off Broadway · The Irene Diamond Stage at The Pershing Square Signatur** — Tue, 8/11: [6:30pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
 ## Thu, Jul 30, 5:01 PM ET · 8 new
 
 **TDF (Broadway/Off-Broadway)** — 8 new showtimes across 1 show

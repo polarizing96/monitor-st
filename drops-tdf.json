@@ -913,5 +913,18 @@
       "01tPe00000IKO7DIAX"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 8 new showtimes · 1 show\n\n🎬 Two Strangers (Carry a Cake Across New York)\n  Broadway · Longacre Theatre — Tue, 8/11: 7:30pm · Wed, 8/12: 2:00pm, 7:30pm · Thu, 8/13: 7:30pm · Fri, 8/14: 7:30pm · Sat, 8/15: 2:00pm, 8:00pm · Sun, 8/16: 3:00pm"
+  },
+  {
+    "detected_at": "2026-07-30T22:07:36.047Z",
+    "count": 6,
+    "showtime_ids": [
+      "01tPe00000IKPEUIA5",
+      "01tPe00000IKPEXIA5",
+      "01tPe00000IKPEVIA5",
+      "01tPe00000IKPEYIA5",
+      "01tPe00000IKPEWIA5",
+      "01tPe00000IKSx4IAH"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 2 shows\n\n🎬 The Saviors\n  Off Broadway · Atlantic Theater Company's Linda Gross Theater — Fri, 7/31: 7:00pm · Sat, 8/1: 2:00pm, 7:00pm · Sun, 8/2: 2:00pm · Mon, 8/3: 7:00pm\n🎬 An American Daughter\n  Off Broadway · The Irene Diamond Stage at The Pershing Square Signatur — Tue, 8/11: 6:30pm"
   }
 ]
