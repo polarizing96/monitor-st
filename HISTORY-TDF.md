@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Jul 31, 2:01 PM ET · 6 new
+
+**TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows
+
+**Hershey Felder: The Piano and Me**
+- **Off Broadway · 59E59 Theaters** — Wed, 8/5: [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+**Brooklyn's Bridge**
+- **Off Broadway · The Space at Irondale** — Fri, 8/7: [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Sat, 8/8: [2:00pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT), [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Sun, 8/9: [3:00pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Wed, 8/12: [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT)
+
 ## Thu, Jul 30, 6:07 PM ET · 6 new
 
 **TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows

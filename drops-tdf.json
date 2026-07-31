@@ -926,5 +926,18 @@
       "01tPe00000IKSx4IAH"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 2 shows\n\n🎬 The Saviors\n  Off Broadway · Atlantic Theater Company's Linda Gross Theater — Fri, 7/31: 7:00pm · Sat, 8/1: 2:00pm, 7:00pm · Sun, 8/2: 2:00pm · Mon, 8/3: 7:00pm\n🎬 An American Daughter\n  Off Broadway · The Irene Diamond Stage at The Pershing Square Signatur — Tue, 8/11: 6:30pm"
+  },
+  {
+    "detected_at": "2026-07-31T18:01:06.293Z",
+    "count": 6,
+    "showtime_ids": [
+      "01tPe00000ILl6QIAT",
+      "01tPe00000ILvx4IAD",
+      "01tPe00000ILvx7IAD",
+      "01tPe00000ILvx6IAD",
+      "01tPe00000ILvx8IAD",
+      "01tPe00000ILvx5IAD"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 2 shows\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Wed, 8/5: 7:00pm\n🎬 Brooklyn's Bridge\n  Off Broadway · The Space at Irondale — Fri, 8/7: 7:30pm · Sat, 8/8: 2:00pm, 7:30pm · Sun, 8/9: 3:00pm · Wed, 8/12: 7:30pm"
   }
 ]
