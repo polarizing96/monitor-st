@@ -44,6 +44,50 @@
 ### Walter Reade
 - **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83374), [3:00pm](https://purchase.filmlinc.org/83373/83376), [6:00pm](https://purchase.filmlinc.org/83373/83377), [9:00pm](https://purchase.filmlinc.org/83373/83378)
 
+## Friday, July 31 · 29 showtimes · 11 venues
+
+### 59E59 Theaters
+- **Hershey Felder: The Piano and Me** — [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+### Atlantic Theater Company's Linda Gross Theater
+- **The Saviors** — [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83802), [3:30pm](https://purchase.filmlinc.org/83310/83803), [6:00pm](https://purchase.filmlinc.org/83310/83804), [8:30pm](https://purchase.filmlinc.org/83310/83805)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83773), [6:15pm](https://purchase.filmlinc.org/82869/83775)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83788), [8:45pm](https://purchase.filmlinc.org/83007/83789)
+
+### Jazz at Lincoln Center
+- **Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves** — [7:00pm](https://ticketing.jazz.org/21166/21169), [9:00pm](https://ticketing.jazz.org/21166/21170)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Summer for the City
+- **A Mothers Love** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+- **BAAND Together Dance Festival** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival)
+- **Benjamin Akio Kimitch** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters)
+- **Chelsea Reed and the Fair Weather Band** — [6:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Social%20Dance)
+- **Dance Workshop With Alvin Ailey American Dance Theater** — [5:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families)
+- **Raising Our Voices: Collective Singing, Wellbeing & Global Health** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+- **Relaxed Open Rehearsal: A Mother&rsquo;s Love** — [10:30am](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+- **Seen, Sound, Scribe** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/seen-sound-scribe-123)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83374), [3:00pm](https://purchase.filmlinc.org/83373/83376), [6:00pm](https://purchase.filmlinc.org/83373/83377), [9:00pm](https://purchase.filmlinc.org/83373/83378)
+
 ## Thursday, July 30 · 21 showtimes · 8 venues
 
 ### Francesca Beale
