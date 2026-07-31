@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Jul 31, 3:01 PM ET · 1 new
+
+**TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
+
+**Dukes**
+- **Off Broadway · Soho Playhouse** — Sun, 8/2: [9:00pm](https://members.tdf.org/store/product/dukes/01tPe00000HkIrNIAV)
+
 ## Fri, Jul 31, 2:01 PM ET · 6 new
 
 **TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows
