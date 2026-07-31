@@ -1,5 +1,46 @@
 # Film at Lincoln Center — drop history
 
+## Fri, Jul 31, 12:10 AM ET · 20 new
+
+**Film at Lincoln Center** — 20 new showtimes across 12 movies
+
+**Curse of the Demon**
+- **Walter Reade** — Fri, 8/28: [4:00pm](https://purchase.filmlinc.org/83735/83747) · Thu, 9/3: [6:00pm](https://purchase.filmlinc.org/83735/83748)
+
+**The Name of the Rose**
+- **Walter Reade** — Fri, 8/28: [6:00pm](https://purchase.filmlinc.org/83736/83749)
+
+**Book of Secrets**
+- **Walter Reade** — Fri, 8/28: [8:45pm](https://purchase.filmlinc.org/83737/83751) · Sun, 8/30: [12:30pm](https://purchase.filmlinc.org/83737/83752)
+
+**Indiana Jones the Last Crusade**
+- **Walter Reade** — Sat, 8/29: [3:45pm](https://purchase.filmlinc.org/83738/83753) · Tue, 9/1: [8:00pm](https://purchase.filmlinc.org/83738/83754)
+
+**The Changeling**
+- **Walter Reade** — Sat, 8/29: [6:30pm](https://purchase.filmlinc.org/83739/83755) · Tue, 9/1: [3:45pm](https://purchase.filmlinc.org/83739/83756)
+
+**Thesis**
+- **Walter Reade** — Sat, 8/29: [8:45pm](https://purchase.filmlinc.org/83740/83757)
+
+**Copycat**
+- **Walter Reade** — Sun, 8/30: [5:30pm](https://purchase.filmlinc.org/83742/83761) · Thu, 9/3: [8:00pm](https://purchase.filmlinc.org/83742/83762)
+
+**The Bone Collector**
+- **Walter Reade** — Sun, 8/30: [8:00pm](https://purchase.filmlinc.org/83743/83763) · Thu, 9/3: [1:00pm](https://purchase.filmlinc.org/83743/83764)
+
+**Ball of Fire**
+- **Walter Reade** — Mon, 8/31: [1:00pm](https://purchase.filmlinc.org/83741/83760)
+
+**Classical Period**
+- **Walter Reade** — Tue, 9/1: [6:00pm](https://purchase.filmlinc.org/83744/83765)
+- **Francesca Beale** — Wed, 9/2: [4:00pm](https://purchase.filmlinc.org/83744/83766)
+
+**Reversal of Fortune**
+- **Francesca Beale** — Wed, 9/2: [1:30pm](https://purchase.filmlinc.org/83745/83767), [8:30pm](https://purchase.filmlinc.org/83745/83768)
+
+**Three by David Gatten**
+- **Francesca Beale** — Wed, 9/2: [6:00pm](https://purchase.filmlinc.org/83746/83769)
+
 ## Thu, Jul 30, 6:50 PM ET · 1 new
 
 **Film at Lincoln Center** — 1 new showtime across 1 movie
