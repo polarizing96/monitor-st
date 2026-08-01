@@ -1,5 +1,105 @@
 # Daily showtimes digest
 
+## Saturday, August 1 · 64 showtimes · 29 venues
+
+### 59E59 Theaters
+- **Hershey Felder: The Piano and Me** — [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+### Al Hirschfeld Theatre
+- **Moulin Rouge! The Musical** — [2:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
+### Atlantic Theater Company's Linda Gross Theater
+- **The Saviors** — [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5), [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+### Broadway Theatre
+- **The Great Gatsby** — [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ)
+
+### Duke on 42nd Street
+- **Label•Less** — [4:00pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN), [7:30pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [2:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB), [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83806), [3:30pm](https://purchase.filmlinc.org/83310/83807), [6:00pm](https://purchase.filmlinc.org/83310/83808), [8:30pm](https://purchase.filmlinc.org/83310/83809)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [2:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ), [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83776), [6:15pm](https://purchase.filmlinc.org/82869/83777)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83790), [8:45pm](https://purchase.filmlinc.org/83007/83791)
+
+### Jazz at Lincoln Center
+- **Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves** — [7:00pm](https://ticketing.jazz.org/21166/21172), [9:00pm](https://ticketing.jazz.org/21166/21173)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lena Horne Theatre
+- **Six** — [8:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF)
+
+### Lincoln Center Theater
+- **Ragtime** — [2:00pm](https://lct.org/shows/ragtime/), [8:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [2:00pm](https://lct.org/shows/the-whoopi-monologues/), [8:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [8:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [5:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL), [8:30pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### New World Stages
+- **Amaze Magic** — [8:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB)
+- **Gazillion Bubble Show** — [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN)
+- **The Play That Goes Wrong** — [2:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR), [8:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR)
+
+### Perelman Performing Arts Center (PAC NYC)
+- **Giulia: The Poison Queen of Palermo** — [2:00pm](https://members.tdf.org/store/product/giulia-the-poison-queen-of-palermo/01tPe00000HTCTpIAP), [8:00pm](https://members.tdf.org/store/product/giulia-the-poison-queen-of-palermo/01tPe00000HTCTpIAP)
+
+### Soho Playhouse
+- **Hungry Women** — [7:00pm](https://members.tdf.org/store/product/hungry-women/01tPe00000HkMWnIAN)
+
+### St. Lukes Theatre
+- **Music City** — [2:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD), [7:30pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### Stephen Sondheim Theatre
+- **& Juliet** — [8:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+### Summer for the City
+- **A Mothers Love** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+- **BAAND Together Dance Festival** — [4:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/BAAND%20Together%20Dance%20Festival)
+- **Dance Workshop With Dance Theatre of Harlem** — [12:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families)
+- **globalFEST Silent Disco** — [10:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Silent%20Disco)
+- **globalFEST** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/globalfest-789)
+- **In the Depths of Blue** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/in-the-depths-of-blue)
+- **Reading Rhythms** — [10:00am](https://www.lincolncenter.org/series/summer-for-the-city/reading-rhythms-108)
+
+### The Francis J. Greenburger Mainstage
+- **The Loved Ones** — [7:00pm](https://members.tdf.org/store/product/the-loved-ones/01tPe00000H4S0jIAF)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [2:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ), [7:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The New York Public Library for the Performing Arts
+- **Reading Rhythms** — [10:00am](https://www.nypl.org/https://www.nypl.org/events/programs/2026/08/01/reading-rhythms)
+
+### The Theater Center
+- **Perfect Crime** — [2:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3), [8:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+- **Singfeld: A Musical About Nothing!** — [6:30pm](https://members.tdf.org/store/product/singfeld-a-musical-about-nothing/01tPe00000H4Qq9IAF)
+
+### Theater 555
+- **That Math Show** — [2:00pm](https://members.tdf.org/store/product/that-math-show/01tPe00000Gc3dBIAR), [7:00pm](https://members.tdf.org/store/product/that-math-show/01tPe00000Gc3dBIAR)
+
+### Theatre XIV
+- **Petite Rouge - by Company XIV** — [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83379), [3:00pm](https://purchase.filmlinc.org/83373/83380), [6:30pm](https://purchase.filmlinc.org/83373/83381)
+
+### WP Theater
+- **The Betrothed** — [2:00pm](https://members.tdf.org/store/product/the-betrothed/01tPe00000IBfzxIAD), [7:00pm](https://members.tdf.org/store/product/the-betrothed/01tPe00000IBfzxIAD)
+
 ## Friday, July 31 · 29 showtimes · 11 venues
 
 ### 59E59 Theaters
