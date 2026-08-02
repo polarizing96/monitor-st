@@ -1,5 +1,42 @@
 # Daily showtimes digest
 
+## Sunday, August 2 · 24 showtimes · 10 venues
+
+### Atlantic Theater Company's Linda Gross Theater
+- **The Saviors** — [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83810), [3:30pm](https://purchase.filmlinc.org/83310/83811), [6:00pm](https://purchase.filmlinc.org/83310/83812), [8:30pm](https://purchase.filmlinc.org/83310/83813)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [3:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83778), [6:15pm](https://purchase.filmlinc.org/82869/83779)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83792), [8:45pm](https://purchase.filmlinc.org/83007/83793)
+
+### Jazz at Lincoln Center
+- **Jazz Samba: Duduka Da Fonseca, Maucha Adnet, Helio Alves** — [5:00pm](https://ticketing.jazz.org/21166/21174), [7:30pm](https://ticketing.jazz.org/21166/21175)
+
+### Lincoln Center Theater
+- **Ragtime** — [3:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [3:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [3:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Soho Playhouse
+- **Dukes** — [9:00pm](https://members.tdf.org/store/product/dukes/01tPe00000HkIrNIAV)
+- **Hungry Women** — [5:00pm](https://members.tdf.org/store/product/hungry-women/01tPe00000HkMWnIAN)
+
+### Summer for the City
+- **Sa&iuml;do Lehlouh: Wild Cat** — [6:30pm](https://lincolncenter.org/series/summer-for-the-city/street-dance-takeover-beats-battles-and-breaking)
+- **Street Dance Takeover: Beats, Battles and Breaking** — [11:00am](https://www.lincolncenter.org/series/summer-for-the-city/street-dance-takeover-beats-battles-and-breaking), [2:00pm](https://www.lincolncenter.org/series/summer-for-the-city/street-dance-takeover-beats-battles-and-breaking)
+- **Zahili Zamora** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/zahili-zamora)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [1:00pm](https://purchase.filmlinc.org/83373/83382), [4:15pm](https://purchase.filmlinc.org/83373/83383), [7:45pm](https://purchase.filmlinc.org/83373/83384)
+
 ## Saturday, August 1 · 64 showtimes · 29 venues
 
 ### 59E59 Theaters
