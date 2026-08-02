@@ -243,10 +243,10 @@
   "83382": {
     "date": "2026-08-02",
     "dt": "2026-08-02T17:00:00.000Z",
-    "status": "standby",
+    "status": "limited",
     "movie": "The Samurai and the Prisoner",
     "first_seen": "2026-07-25T12:05:27.487Z",
-    "status_changed": "2026-08-02T14:20:23.238Z"
+    "status_changed": "2026-08-02T16:50:19.696Z"
   },
   "83383": {
     "date": "2026-08-02",
