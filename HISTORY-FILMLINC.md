@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 3, 11:30 AM ET · 12 new
+
+**Film at Lincoln Center** — 12 new showtimes across 1 movie
+
+**The Piano**
+- **Howard Gilman** — Fri, 8/7: [1:00pm](https://purchase.filmlinc.org/83310/83897), [3:30pm](https://purchase.filmlinc.org/83310/83898), [6:00pm](https://purchase.filmlinc.org/83310/83899), [8:30pm](https://purchase.filmlinc.org/83310/83900) · Sat, 8/8: [1:05pm](https://purchase.filmlinc.org/83310/83901), [3:30pm](https://purchase.filmlinc.org/83310/83902), [6:05pm](https://purchase.filmlinc.org/83310/83903) · Sun, 8/9: [1:00pm](https://purchase.filmlinc.org/83310/83904), [3:30pm](https://purchase.filmlinc.org/83310/83905), [6:00pm](https://purchase.filmlinc.org/83310/83906), [8:30pm](https://purchase.filmlinc.org/83310/83907) · Mon, 8/10: [1:00pm](https://purchase.filmlinc.org/83310/83908)
+
 ## Fri, Jul 31, 12:10 AM ET · 20 new
 
 **Film at Lincoln Center** — 20 new showtimes across 12 movies
