@@ -391,5 +391,23 @@
       "83867"
     ],
     "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 The Kill-Off + My New Gun\n  Walter Reade (Special Event) — Mon, 8/31: 6:00pm"
+  },
+  {
+    "detected_at": "2026-08-03T20:50:26.455Z",
+    "count": 11,
+    "showtime_ids": [
+      "83909",
+      "83910",
+      "83911",
+      "83912",
+      "83913",
+      "83914",
+      "83915",
+      "83916",
+      "83917",
+      "83918",
+      "83919"
+    ],
+    "summary": "Film at Lincoln Center — 11 new showtimes · 1 movie\n\n🎬 The Piano\n  Howard Gilman — Mon, 8/10: 3:30pm, 6:00pm · Tue, 8/11: 1:00pm, 3:30pm, 8:30pm\n  Howard Gilman (Open Captions) — Mon, 8/10: 8:30pm · Tue, 8/11: 6:00pm\n  Francesca Beale — Wed, 8/12: 1:00pm, 3:30pm · Thu, 8/13: 1:00pm, 3:30pm"
   }
 ]
