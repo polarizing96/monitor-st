@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 3, 12:10 PM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**The Kill-Off + My New Gun**
+- **Walter Reade (Special Event)** — Mon, 8/31: [6:00pm](https://purchase.filmlinc.org/83866/83867)
+
 ## Mon, Aug 3, 11:50 AM ET · 28 new
 
 **Film at Lincoln Center** — 28 new showtimes across 1 movie
