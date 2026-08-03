@@ -1,5 +1,26 @@
 # Daily showtimes digest
 
+## Monday, August 3 · 16 showtimes · 6 venues
+
+### Atlantic Theater Company's Linda Gross Theater
+- **The Saviors** — [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83814), [3:30pm](https://purchase.filmlinc.org/83310/83815), [6:00pm](https://purchase.filmlinc.org/83310/83816), [8:30pm](https://purchase.filmlinc.org/83310/83817)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83780), [6:15pm](https://purchase.filmlinc.org/82869/83781)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83794), [8:45pm](https://purchase.filmlinc.org/83007/83795)
+
+### Jazz at Lincoln Center
+- **Joe Gransden Big Band: The Good Life - Happy 100th Tony Bennett!** — [7:00pm](https://ticketing.jazz.org/21183/21184), [9:00pm](https://ticketing.jazz.org/21183/21185)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83385), [3:00pm](https://purchase.filmlinc.org/83373/83386), [6:00pm](https://purchase.filmlinc.org/83373/83387), [9:00pm](https://purchase.filmlinc.org/83373/83388)
+
 ## Sunday, August 2 · 24 showtimes · 10 venues
 
 ### Atlantic Theater Company's Linda Gross Theater
