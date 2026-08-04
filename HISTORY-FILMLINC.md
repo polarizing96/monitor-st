@@ -1,5 +1,23 @@
 # Film at Lincoln Center — drop history
 
+## Tue, Aug 4, 12:10 PM ET · 31 new
+
+**Film at Lincoln Center** — 31 new showtimes across 4 movies
+
+**FLC Book Fair**
+- **Furman Gallery** — Sat, 8/29: [2:30pm](https://purchase.filmlinc.org/83772/83774)
+
+**Ball of Fire**
+- **Walter Reade** — Sun, 8/30: [3:00pm](https://purchase.filmlinc.org/83741/83759)
+
+**The Name of the Rose**
+- **Walter Reade** — Mon, 8/31: [3:15pm](https://purchase.filmlinc.org/83736/83750)
+
+**Chronovisor**
+- **Walter Reade** — Fri, 9/4: [1:15pm](https://purchase.filmlinc.org/83868/83869), [3:45pm](https://purchase.filmlinc.org/83868/83870), [6:15pm](https://purchase.filmlinc.org/83868/83871), [9:00pm](https://purchase.filmlinc.org/83868/83872) · Sat, 9/5: [1:15pm](https://purchase.filmlinc.org/83868/83873), [3:45pm](https://purchase.filmlinc.org/83868/83874), [6:15pm](https://purchase.filmlinc.org/83868/83875), [9:00pm](https://purchase.filmlinc.org/83868/83876) · Sun, 9/6: [1:15pm](https://purchase.filmlinc.org/83868/83877), [3:45pm](https://purchase.filmlinc.org/83868/83878), [6:30pm](https://purchase.filmlinc.org/83868/83879), [8:45pm](https://purchase.filmlinc.org/83868/83880)
+- **Francesca Beale** — Mon, 9/7: [1:15pm](https://purchase.filmlinc.org/83868/83881), [3:45pm](https://purchase.filmlinc.org/83868/83882), [6:15pm](https://purchase.filmlinc.org/83868/83883), [8:45pm](https://purchase.filmlinc.org/83868/83884)
+- **Howard Gilman** — Tue, 9/8: [1:15pm](https://purchase.filmlinc.org/83868/83885), [3:45pm](https://purchase.filmlinc.org/83868/83886), [6:15pm](https://purchase.filmlinc.org/83868/83887), [8:45pm](https://purchase.filmlinc.org/83868/83888) · Wed, 9/9: [1:15pm](https://purchase.filmlinc.org/83868/83889), [3:45pm](https://purchase.filmlinc.org/83868/83890), [6:15pm](https://purchase.filmlinc.org/83868/83891), [8:45pm](https://purchase.filmlinc.org/83868/83892) · Thu, 9/10: [1:15pm](https://purchase.filmlinc.org/83868/83893), [3:45pm](https://purchase.filmlinc.org/83868/83894), [6:15pm](https://purchase.filmlinc.org/83868/83895), [8:45pm](https://purchase.filmlinc.org/83868/83896)
+
 ## Mon, Aug 3, 4:50 PM ET · 11 new
 
 **Film at Lincoln Center** — 11 new showtimes across 1 movie

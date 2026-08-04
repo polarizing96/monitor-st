@@ -1265,6 +1265,13 @@
     "movie": "The Name of the Rose",
     "first_seen": "2026-07-31T04:10:19.718Z"
   },
+  "83750": {
+    "date": "2026-08-31",
+    "dt": "2026-08-31T19:15:00.000Z",
+    "status": "available",
+    "movie": "The Name of the Rose",
+    "first_seen": "2026-08-04T16:10:31.259Z"
+  },
   "83751": {
     "date": "2026-08-28",
     "dt": "2026-08-29T00:45:00.000Z",
@@ -1320,6 +1327,13 @@
     "status": "available",
     "movie": "Thesis",
     "first_seen": "2026-07-30T22:50:27.563Z"
+  },
+  "83759": {
+    "date": "2026-08-30",
+    "dt": "2026-08-30T19:00:00.000Z",
+    "status": "available",
+    "movie": "Ball of Fire",
+    "first_seen": "2026-08-04T16:10:31.258Z"
   },
   "83760": {
     "date": "2026-08-31",
@@ -1397,6 +1411,13 @@
     "status": "available",
     "movie": "Romeria",
     "first_seen": "2026-07-27T16:10:26.337Z"
+  },
+  "83774": {
+    "date": "2026-08-29",
+    "dt": "2026-08-29T18:30:00.000Z",
+    "status": "available",
+    "movie": "FLC Book Fair",
+    "first_seen": "2026-08-04T16:10:31.259Z"
   },
   "83775": {
     "date": "2026-07-31",
@@ -2034,6 +2055,202 @@
     "status": "available",
     "movie": "The Kill-Off + My New Gun",
     "first_seen": "2026-08-03T16:10:24.813Z"
+  },
+  "83869": {
+    "date": "2026-09-04",
+    "dt": "2026-09-04T17:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83870": {
+    "date": "2026-09-04",
+    "dt": "2026-09-04T19:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83871": {
+    "date": "2026-09-04",
+    "dt": "2026-09-04T22:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83872": {
+    "date": "2026-09-04",
+    "dt": "2026-09-05T01:00:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83873": {
+    "date": "2026-09-05",
+    "dt": "2026-09-05T17:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83874": {
+    "date": "2026-09-05",
+    "dt": "2026-09-05T19:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83875": {
+    "date": "2026-09-05",
+    "dt": "2026-09-05T22:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83876": {
+    "date": "2026-09-05",
+    "dt": "2026-09-06T01:00:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83877": {
+    "date": "2026-09-06",
+    "dt": "2026-09-06T17:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83878": {
+    "date": "2026-09-06",
+    "dt": "2026-09-06T19:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83879": {
+    "date": "2026-09-06",
+    "dt": "2026-09-06T22:30:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83880": {
+    "date": "2026-09-06",
+    "dt": "2026-09-07T00:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83881": {
+    "date": "2026-09-07",
+    "dt": "2026-09-07T17:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83882": {
+    "date": "2026-09-07",
+    "dt": "2026-09-07T19:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83883": {
+    "date": "2026-09-07",
+    "dt": "2026-09-07T22:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83884": {
+    "date": "2026-09-07",
+    "dt": "2026-09-08T00:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83885": {
+    "date": "2026-09-08",
+    "dt": "2026-09-08T17:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83886": {
+    "date": "2026-09-08",
+    "dt": "2026-09-08T19:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83887": {
+    "date": "2026-09-08",
+    "dt": "2026-09-08T22:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83888": {
+    "date": "2026-09-08",
+    "dt": "2026-09-09T00:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83889": {
+    "date": "2026-09-09",
+    "dt": "2026-09-09T17:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.258Z"
+  },
+  "83890": {
+    "date": "2026-09-09",
+    "dt": "2026-09-09T19:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.259Z"
+  },
+  "83891": {
+    "date": "2026-09-09",
+    "dt": "2026-09-09T22:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.259Z"
+  },
+  "83892": {
+    "date": "2026-09-09",
+    "dt": "2026-09-10T00:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.259Z"
+  },
+  "83893": {
+    "date": "2026-09-10",
+    "dt": "2026-09-10T17:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.259Z"
+  },
+  "83894": {
+    "date": "2026-09-10",
+    "dt": "2026-09-10T19:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.259Z"
+  },
+  "83895": {
+    "date": "2026-09-10",
+    "dt": "2026-09-10T22:15:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.259Z"
+  },
+  "83896": {
+    "date": "2026-09-10",
+    "dt": "2026-09-11T00:45:00.000Z",
+    "status": "available",
+    "movie": "Chronovisor",
+    "first_seen": "2026-08-04T16:10:31.259Z"
   },
   "83897": {
     "date": "2026-08-07",
