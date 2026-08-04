@@ -581,9 +581,10 @@
   "83568": {
     "date": "2026-08-20",
     "dt": "2026-08-20T22:30:00.000Z",
-    "status": "available",
+    "status": "limited",
     "movie": "The Threshing",
-    "first_seen": "2026-07-25T12:05:27.487Z"
+    "first_seen": "2026-07-25T12:05:27.487Z",
+    "status_changed": "2026-08-04T00:30:29.751Z"
   },
   "83570": {
     "date": "2026-08-16",
