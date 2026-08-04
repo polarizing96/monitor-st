@@ -1,5 +1,51 @@
 # Daily showtimes digest
 
+## Tuesday, August 4 · 25 showtimes · 14 venues
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83818), [3:30pm](https://purchase.filmlinc.org/83310/83819), [6:00pm](https://purchase.filmlinc.org/83310/83820), [8:30pm](https://purchase.filmlinc.org/83310/83821)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83782), [6:15pm](https://purchase.filmlinc.org/82869/83783)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83796), [8:45pm](https://purchase.filmlinc.org/83007/83797)
+
+### Jazz at Lincoln Center
+- **Bluesday with BLUES People** — [7:00pm](https://ticketing.jazz.org/21186/21187), [9:00pm](https://ticketing.jazz.org/21186/21188)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### Palace Theatre
+- **The Lost Boys** — [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+### St. James Theatre
+- **Titanique** — [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [7:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The Theater Center
+- **Perfect Crime** — [8:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83389), [3:00pm](https://purchase.filmlinc.org/83373/83390), [6:00pm](https://purchase.filmlinc.org/83373/83391), [9:00pm](https://purchase.filmlinc.org/83373/83392)
+
 ## Monday, August 3 · 16 showtimes · 6 venues
 
 ### Atlantic Theater Company's Linda Gross Theater
