@@ -1,5 +1,27 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Aug 4, 11:01 AM ET · 15 new
+
+**TDF (Broadway/Off-Broadway)** — 15 new showtimes across 6 shows
+
+**Hershey Felder: The Piano and Me**
+- **Off Broadway · 59E59 Theaters** — Tue, 8/4: [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+**The Saviors**
+- **Off Broadway · Atlantic Theater Company's Linda Gross Theater** — Wed, 8/5: [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5), [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5) · Fri, 8/7: [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5) · Sat, 8/8: [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5), [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+**Stranger Things: The First Shadow**
+- **Broadway · Marquis Theatre** — Sat, 8/8: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Sun, 8/9: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+**Titanique**
+- **Broadway · St. James Theatre** — Tue, 8/11: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Wed, 8/12: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Thu, 8/13: [3:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+**Buena Vista Social Club**
+- **Broadway · Gerald Schoenfeld Theatre** — Wed, 8/12: [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+**The Great Gatsby**
+- **Broadway · Broadway Theatre** — Sat, 8/15: [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ) · Sat, 8/22: [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ) · Thu, 8/27: [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ)
+
 ## Fri, Jul 31, 3:01 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
