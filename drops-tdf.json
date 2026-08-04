@@ -969,5 +969,31 @@
       "01tPe00000IQPAAIA5"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 15 new showtimes · 6 shows\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Tue, 8/4: 7:00pm\n🎬 The Saviors\n  Off Broadway · Atlantic Theater Company's Linda Gross Theater — Wed, 8/5: 2:00pm, 7:00pm · Fri, 8/7: 7:00pm · Sat, 8/8: 2:00pm, 7:00pm\n🎬 Stranger Things: The First Shadow\n  Broadway · Marquis Theatre — Sat, 8/8: 1:00pm · Sun, 8/9: 1:00pm\n🎬 Titanique\n  Broadway · St. James Theatre — Tue, 8/11: 7:30pm · Wed, 8/12: 7:30pm · Thu, 8/13: 3:00pm\n🎬 Buena Vista Social Club\n  Broadway · Gerald Schoenfeld Theatre — Wed, 8/12: 7:30pm\n🎬 The Great Gatsby\n  Broadway · Broadway Theatre — Sat, 8/15: 2:00pm · Sat, 8/22: 2:00pm · Thu, 8/27: 2:00pm"
+  },
+  {
+    "detected_at": "2026-08-04T16:01:00.023Z",
+    "count": 19,
+    "showtime_ids": [
+      "01tPe00000IQWtIIAX",
+      "01tPe00000IQWtMIAX",
+      "01tPe00000IQWtQIAX",
+      "01tPe00000IQXKZIA5",
+      "01tPe00000IQWtJIAX",
+      "01tPe00000IQWtNIAX",
+      "01tPe00000IQWtRIAX",
+      "01tPe00000IQXKaIAP",
+      "01tPe00000IQWtKIAX",
+      "01tPe00000IQWtOIAX",
+      "01tPe00000IQWtSIAX",
+      "01tPe00000IQWtLIAX",
+      "01tPe00000IQWtPIAX",
+      "01tPe00000IQW5DIAX",
+      "01tPe00000IQW5GIAX",
+      "01tPe00000IQW5EIAX",
+      "01tPe00000IQW5FIAX",
+      "01tPe00000IQW5IIAX",
+      "01tPe00000IQW5HIAX"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 19 new showtimes · 3 shows\n\n🎬 The Circuit: An Immersive Silent Disco Ballet\n  Off Broadway · Superfine — Thu, 8/6: 7:30pm, 8:15pm, 9:30pm · Fri, 8/7: 7:30pm, 8:15pm, 9:30pm · Sat, 8/8: 7:30pm, 8:15pm, 9:30pm · Sun, 8/9: 7:30pm, 8:15pm\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Fri, 8/7: 7:00pm · Sat, 8/8: 7:00pm\n🎬 Cat Cohen: Broad Strokes\n  Off Broadway · Lucille Lortel Theatre — Mon, 8/10: 7:00pm · Wed, 8/12: 7:00pm · Thu, 8/13: 7:00pm · Fri, 8/14: 7:00pm · Sat, 8/15: 5:00pm, 8:30pm"
   }
 ]

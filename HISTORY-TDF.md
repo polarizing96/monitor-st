@@ -1,5 +1,18 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Aug 4, 12:01 PM ET · 19 new
+
+**TDF (Broadway/Off-Broadway)** — 19 new showtimes across 3 shows
+
+**The Circuit: An Immersive Silent Disco Ballet**
+- **Off Broadway · Superfine** — Thu, 8/6: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB) · Fri, 8/7: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB) · Sat, 8/8: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB) · Sun, 8/9: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB)
+
+**Hershey Felder: The Piano and Me**
+- **Off Broadway · 59E59 Theaters** — Fri, 8/7: [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3) · Sat, 8/8: [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+**Cat Cohen: Broad Strokes**
+- **Off Broadway · Lucille Lortel Theatre** — Mon, 8/10: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Wed, 8/12: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Thu, 8/13: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Fri, 8/14: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Sat, 8/15: [5:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL), [8:30pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
 ## Tue, Aug 4, 11:01 AM ET · 15 new
 
 **TDF (Broadway/Off-Broadway)** — 15 new showtimes across 6 shows
