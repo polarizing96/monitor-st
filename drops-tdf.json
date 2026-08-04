@@ -995,5 +995,16 @@
       "01tPe00000IQW5HIAX"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 19 new showtimes · 3 shows\n\n🎬 The Circuit: An Immersive Silent Disco Ballet\n  Off Broadway · Superfine — Thu, 8/6: 7:30pm, 8:15pm, 9:30pm · Fri, 8/7: 7:30pm, 8:15pm, 9:30pm · Sat, 8/8: 7:30pm, 8:15pm, 9:30pm · Sun, 8/9: 7:30pm, 8:15pm\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Fri, 8/7: 7:00pm · Sat, 8/8: 7:00pm\n🎬 Cat Cohen: Broad Strokes\n  Off Broadway · Lucille Lortel Theatre — Mon, 8/10: 7:00pm · Wed, 8/12: 7:00pm · Thu, 8/13: 7:00pm · Fri, 8/14: 7:00pm · Sat, 8/15: 5:00pm, 8:30pm"
+  },
+  {
+    "detected_at": "2026-08-04T17:01:05.292Z",
+    "count": 4,
+    "showtime_ids": [
+      "01tPe00000IQaf3IAD",
+      "01tPe00000IQaf4IAD",
+      "01tPe00000IQaf5IAD",
+      "01tPe00000IQaf6IAD"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 4 new showtimes · 1 show\n\n🎬 Isla\n  Off Broadway · WP Theater — Sat, 8/8: 7:00pm · Sun, 8/9: 7:00pm · Mon, 8/10: 7:00pm · Wed, 8/12: 7:00pm"
   }
 ]
