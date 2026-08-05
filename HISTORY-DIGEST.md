@@ -1,5 +1,84 @@
 # Daily showtimes digest
 
+## Wednesday, August 5 · 50 showtimes · 23 venues
+
+### 59E59 Theaters
+- **Hershey Felder: The Piano and Me** — [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+### Al Hirschfeld Theatre
+- **Moulin Rouge! The Musical** — [2:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ), [8:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
+### Atlantic Theater Company's Linda Gross Theater
+- **The Saviors** — [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5), [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+### Belasco Theatre
+- **Maybe Happy Ending** — [2:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ), [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ)
+
+### Duke on 42nd Street
+- **Label•Less** — [3:00pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN), [7:30pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83822), [3:30pm](https://purchase.filmlinc.org/83310/83823), [6:00pm](https://purchase.filmlinc.org/83310/83824), [8:30pm](https://purchase.filmlinc.org/83310/83825)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [2:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ), [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83784), [6:15pm](https://purchase.filmlinc.org/82869/83785)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83798), [8:45pm](https://purchase.filmlinc.org/83007/83799)
+
+### Jazz at Lincoln Center
+- **Nicole Zuraitis: The Devil I Knew Album Release** — [7:00pm](https://ticketing.jazz.org/21189/21190), [9:00pm](https://ticketing.jazz.org/21189/21191)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **Ragtime** — [2:00pm](https://lct.org/shows/ragtime/), [8:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [2:00pm](https://lct.org/shows/the-whoopi-monologues/), [8:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Beethoven 8 + Peter Drews Kaleidoscope** — [7:00pm](https://www.lincolncenter.org/venue/alice-tully-hall/beethoven-8-peter-drews-kaleidoscope-658)
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### New World Stages
+- **Gazillion Bubble Show** — [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN)
+- **The Play That Goes Wrong** — [7:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR)
+
+### Palace Theatre
+- **The Lost Boys** — [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+### St. James Theatre
+- **Titanique** — [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+### St. Lukes Theatre
+- **Music City** — [7:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### Summer for the City
+- **Hurray for the Riff Raff** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/hurray-for-the-riff-raff-715)
+- **Inside the Music** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+- **Living Music: Nadia Sirota and Gabriel Cabezas** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/living-music-nadia-sirota-and-gabriel-cabezas)
+- **Music Storytime With Divinity Roxx** — [11:00am](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families), [1:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Kids,%20Teens,%20and%20Families)
+- **Vangeline** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [7:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The Juilliard School
+- **Lunch Hour Performance | Gutsy Solos: J.S. Bach, Carter, Ysaÿe** — [1:00pm](https://www.juilliard.edu/event/186836/lunch-hour-performance-gutsy-solos-js-bach-carter-ysaye)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83393), [3:00pm](https://purchase.filmlinc.org/83373/83394), [6:00pm](https://purchase.filmlinc.org/83373/83395), [9:00pm](https://purchase.filmlinc.org/83373/83396)
+
 ## Tuesday, August 4 · 25 showtimes · 14 venues
 
 ### Francesca Beale
