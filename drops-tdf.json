@@ -1015,5 +1015,24 @@
       "01tPe00000IQrsmIAD"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 2 new showtimes · 1 show\n\n🎬 Speakeasy, Die Softly\n  Off Broadway · Carmine's Times Square — Fri, 8/14: 7:00pm · Sat, 8/15: 5:00pm"
+  },
+  {
+    "detected_at": "2026-08-05T16:01:03.104Z",
+    "count": 12,
+    "showtime_ids": [
+      "01tPe00000ISGu5IAH",
+      "01tPe00000ISGu6IAH",
+      "01tPe00000ISGuFIAX",
+      "01tPe00000ISGu7IAH",
+      "01tPe00000ISGu8IAH",
+      "01tPe00000ISGu9IAH",
+      "01tPe00000ISGuAIAX",
+      "01tPe00000ISGuBIAX",
+      "01tPe00000ISGuGIAX",
+      "01tPe00000ISGuCIAX",
+      "01tPe00000ISGuDIAX",
+      "01tPe00000ISGuEIAX"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 12 new showtimes · 1 show\n\n🎬 A Walk on the Moon\n  Off Broadway · Laura Pels Theatre — Tue, 8/11: 7:30pm · Wed, 8/12: 7:30pm · Thu, 8/13: 2:00pm, 7:30pm · Fri, 8/14: 7:30pm · Sat, 8/15: 7:30pm · Tue, 8/18: 7:30pm · Wed, 8/19: 7:30pm · Thu, 8/20: 2:00pm, 7:30pm · Fri, 8/21: 7:30pm · Sat, 8/22: 7:30pm"
   }
 ]
