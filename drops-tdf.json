@@ -1034,5 +1034,24 @@
       "01tPe00000ISGuEIAX"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 12 new showtimes · 1 show\n\n🎬 A Walk on the Moon\n  Off Broadway · Laura Pels Theatre — Tue, 8/11: 7:30pm · Wed, 8/12: 7:30pm · Thu, 8/13: 2:00pm, 7:30pm · Fri, 8/14: 7:30pm · Sat, 8/15: 7:30pm · Tue, 8/18: 7:30pm · Wed, 8/19: 7:30pm · Thu, 8/20: 2:00pm, 7:30pm · Fri, 8/21: 7:30pm · Sat, 8/22: 7:30pm"
+  },
+  {
+    "detected_at": "2026-08-05T17:01:15.573Z",
+    "count": 12,
+    "showtime_ids": [
+      "01tPe00000IRldDIAT",
+      "01tPe00000ISRPZIA5",
+      "01tPe00000ISRPcIAP",
+      "01tPe00000ISJa1IAH",
+      "01tPe00000ISRPbIAP",
+      "01tPe00000ISORdIAP",
+      "01tPe00000ISRPaIAP",
+      "01tPe00000ISQ3gIAH",
+      "01tPe00000ISQ3iIAH",
+      "01tPe00000ISOUrIAP",
+      "01tPe00000ISQ3hIAH",
+      "01tPe00000ISQ3jIAH"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 12 new showtimes · 4 shows\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Thu, 8/6: 7:00pm\n🎬 Titanique\n  Broadway · St. James Theatre — Fri, 8/7: 7:30pm · Sat, 8/8: 3:00pm, 8:00pm · Mon, 8/10: 7:30pm\n🎬 & Juliet\n  Broadway · Stephen Sondheim Theatre — Sat, 8/8: 8:00pm · Sun, 8/9: 6:30pm · Sun, 8/16: 6:30pm\n🎬 The Lost Boys\n  Broadway · Palace Theatre — Fri, 8/14: 7:00pm · Sat, 8/15: 2:00pm · Tue, 8/18: 7:00pm · Wed, 8/19: 2:00pm"
   }
 ]

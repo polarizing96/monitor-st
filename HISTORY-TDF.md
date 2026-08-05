@@ -1,5 +1,21 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Aug 5, 1:01 PM ET · 12 new
+
+**TDF (Broadway/Off-Broadway)** — 12 new showtimes across 4 shows
+
+**Hershey Felder: The Piano and Me**
+- **Off Broadway · 59E59 Theaters** — Thu, 8/6: [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+**Titanique**
+- **Broadway · St. James Theatre** — Fri, 8/7: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Sat, 8/8: [3:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ), [8:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Mon, 8/10: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+**& Juliet**
+- **Broadway · Stephen Sondheim Theatre** — Sat, 8/8: [8:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Sun, 8/9: [6:30pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Sun, 8/16: [6:30pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+**The Lost Boys**
+- **Broadway · Palace Theatre** — Fri, 8/14: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Sat, 8/15: [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Tue, 8/18: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Wed, 8/19: [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
 ## Wed, Aug 5, 12:01 PM ET · 12 new
 
 **TDF (Broadway/Off-Broadway)** — 12 new showtimes across 1 show
