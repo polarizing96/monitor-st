@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Aug 5, 5:01 PM ET · 8 new
+
+**TDF (Broadway/Off-Broadway)** — 8 new showtimes across 1 show
+
+**The Pass**
+- **Off Broadway · Ellen Stewart Theatre at La MaMa** — Wed, 8/12: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Thu, 8/13: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Fri, 8/14: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Sat, 8/15: [2:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB), [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Sun, 8/16: [1:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB), [5:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Mon, 8/17: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
 ## Wed, Aug 5, 1:01 PM ET · 12 new
 
 **TDF (Broadway/Off-Broadway)** — 12 new showtimes across 4 shows
