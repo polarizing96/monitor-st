@@ -95,6 +95,101 @@
 ### Walter Reade
 - **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83397), [3:00pm](https://purchase.filmlinc.org/83373/83398), [6:00pm](https://purchase.filmlinc.org/83373/83399), [9:00pm](https://purchase.filmlinc.org/83373/83400)
 
+## Thursday, August 6 · 50 showtimes · 29 venues
+
+### 59E59 Theaters
+- **Hershey Felder: The Piano and Me** — [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+### Al Hirschfeld Theatre
+- **Moulin Rouge! The Musical** — [7:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
+### Broadway Theatre
+- **The Great Gatsby** — [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ)
+
+### DMK Theater/ Union Arts Center
+- **Alabama Story, a play by Kenneth Jones** — [7:30pm](https://members.tdf.org/store/)
+
+### Duke on 42nd Street
+- **Label•Less** — [7:30pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83826), [3:30pm](https://purchase.filmlinc.org/83310/83827), [6:00pm](https://purchase.filmlinc.org/83310/83828), [8:30pm](https://purchase.filmlinc.org/83310/83829)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Romeria** — [3:45pm](https://purchase.filmlinc.org/82869/83786), [6:15pm](https://purchase.filmlinc.org/82869/83787)
+- **Rose of Nevada** — [1:15pm](https://purchase.filmlinc.org/83007/83800), [8:45pm](https://purchase.filmlinc.org/83007/83801)
+
+### Jazz at Lincoln Center
+- **Ben Wolfe Quartet** — [7:00pm](https://ticketing.jazz.org/21192/21193), [9:00pm](https://ticketing.jazz.org/21192/21194)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [2:00pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ), [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### New World Stages
+- **Gazillion Bubble Show** — [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN)
+- **The Play That Goes Wrong** — [2:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR), [7:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR)
+
+### New York City Ballet
+- **Ballet Essentials Workshop Weekend** — [6:00pm](https://www.nycballet.com/educate/public-programs/ballet-essentials-workshop-weekend)
+
+### Off Broadway
+- **The Very Hungry Caterpillar Show** — [11:00am](https://members.tdf.org/store/product/the-very-hungry-caterpillar-show/01tPe00000HRWq1IAH)
+
+### Soho Playhouse
+- **Hungry Women** — [7:00pm](https://members.tdf.org/store/product/hungry-women/01tPe00000HkMWnIAN)
+
+### St. James Theatre
+- **Titanique** — [3:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ), [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+### St. Lukes Theatre
+- **Music City** — [7:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### Summer for the City
+- **Malkit Singh** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/malkit-singh-524)
+- **Manuela S&aacute;nchez Goubert** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/manuela-sandaacutenchez-goubert-178)
+- **Philharmonia Baroque: Of Rivers and Roses** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/philharmonia-baroque-of-rivers-and-roses-586)
+- **Vangeline** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters)
+
+### Superfine
+- **The Circuit: An Immersive Silent Disco Ballet** — [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [7:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The Juilliard School
+- **Lunch Hour Performance | Beethoven Septet and New Jazz** — [1:00pm](https://www.juilliard.edu/event/186841/lunch-hour-performance-beethoven-septet-and-new-jazz)
+
+### The Players Theatre
+- **Masticate** — [7:00pm](https://members.tdf.org/store/product/masticate/01tPe00000I00aLIAR)
+
+### The Theater Center
+- **Perfect Crime** — [8:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+
+### Theatre XIV
+- **Petite Rouge - by Company XIV** — [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83397), [3:00pm](https://purchase.filmlinc.org/83373/83398), [6:00pm](https://purchase.filmlinc.org/83373/83399), [9:00pm](https://purchase.filmlinc.org/83373/83400)
+
 ## Wednesday, August 5 · 50 showtimes · 23 venues
 
 ### 59E59 Theaters
