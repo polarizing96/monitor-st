@@ -1,5 +1,18 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Thu, Aug 6, 7:12 PM ET · 5 new
+
+**TDF (Broadway/Off-Broadway)** — 5 new showtimes across 3 shows
+
+**Stranger Things: The First Shadow**
+- **Broadway · Marquis Theatre** — Sat, 8/15: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Sun, 8/16: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+**America, Who Hurt You?**
+- **Off Broadway · Polonsky Shakespeare Center** — Thu, 9/10: [7:30pm](https://members.tdf.org/store/product/america-who-hurt-you/01tPe00000IUN85IAH) · Fri, 9/11: [7:30pm](https://members.tdf.org/store/product/america-who-hurt-you/01tPe00000IUN85IAH)
+
+**Kilgallen**
+- **Off Broadway · The York Theatre at The Theatre at St Jean's** — Sat, 12/5: [7:30pm](https://members.tdf.org/store/product/kilgallen/01tPe00000IE5wjIAD)
+
 ## Wed, Aug 5, 5:01 PM ET · 8 new
 
 **TDF (Broadway/Off-Broadway)** — 8 new showtimes across 1 show

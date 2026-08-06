@@ -5920,5 +5920,40 @@
     "status": null,
     "movie": "The Pass",
     "first_seen": "2026-08-05T21:01:21.335Z"
+  },
+  "01tPe00000IUFsAIAX": {
+    "date": "2026-09-11",
+    "dt": "2026-09-11T23:30:00Z",
+    "status": null,
+    "movie": "America, Who Hurt You?",
+    "first_seen": "2026-08-06T23:12:58.016Z"
+  },
+  "01tPe00000IUFs9IAH": {
+    "date": "2026-09-10",
+    "dt": "2026-09-10T23:30:00Z",
+    "status": null,
+    "movie": "America, Who Hurt You?",
+    "first_seen": "2026-08-06T23:12:58.016Z"
+  },
+  "01tPe00000ITnfpIAD": {
+    "date": "2026-12-05",
+    "dt": "2026-12-06T00:30:00Z",
+    "status": null,
+    "movie": "Kilgallen",
+    "first_seen": "2026-08-06T23:12:58.016Z"
+  },
+  "01tPe00000IURlEIAX": {
+    "date": "2026-08-16",
+    "dt": "2026-08-16T17:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-06T23:12:58.016Z"
+  },
+  "01tPe00000IURlDIAX": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T17:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-06T23:12:58.016Z"
   }
 }

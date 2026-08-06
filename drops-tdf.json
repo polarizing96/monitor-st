@@ -1068,5 +1068,17 @@
       "01tPe00000ISjfxIAD"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 8 new showtimes · 1 show\n\n🎬 The Pass\n  Off Broadway · Ellen Stewart Theatre at La MaMa — Wed, 8/12: 7:00pm · Thu, 8/13: 7:00pm · Fri, 8/14: 7:00pm · Sat, 8/15: 2:00pm, 7:00pm · Sun, 8/16: 1:00pm, 5:00pm · Mon, 8/17: 7:00pm"
+  },
+  {
+    "detected_at": "2026-08-06T23:12:58.172Z",
+    "count": 5,
+    "showtime_ids": [
+      "01tPe00000IURlDIAX",
+      "01tPe00000IURlEIAX",
+      "01tPe00000IUFs9IAH",
+      "01tPe00000IUFsAIAX",
+      "01tPe00000ITnfpIAD"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 5 new showtimes · 3 shows\n\n🎬 Stranger Things: The First Shadow\n  Broadway · Marquis Theatre — Sat, 8/15: 1:00pm · Sun, 8/16: 1:00pm\n🎬 America, Who Hurt You?\n  Off Broadway · Polonsky Shakespeare Center — Thu, 9/10: 7:30pm · Fri, 9/11: 7:30pm\n🎬 Kilgallen\n  Off Broadway · The York Theatre at The Theatre at St Jean's — Sat, 12/5: 7:30pm"
   }
 ]
