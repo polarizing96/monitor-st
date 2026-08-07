@@ -667,10 +667,10 @@
   "83640": {
     "date": "2026-08-08",
     "dt": "2026-08-08T19:15:00.000Z",
-    "status": "limited",
+    "status": "standby",
     "movie": "Late Fame",
     "first_seen": "2026-07-25T12:05:27.486Z",
-    "status_changed": "2026-08-07T22:10:31.234Z"
+    "status_changed": "2026-08-07T22:20:22.708Z"
   },
   "83641": {
     "date": "2026-08-08",
