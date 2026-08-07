@@ -1,5 +1,21 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 7, 1:01 PM ET · 6 new
+
+**TDF (Broadway/Off-Broadway)** — 6 new showtimes across 4 shows
+
+**The Saviors**
+- **Off Broadway · Atlantic Theater Company's Linda Gross Theater** — Mon, 8/10: [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+**Maybe Happy Ending**
+- **Broadway · Belasco Theatre** — Wed, 8/12: [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ) · Sat, 8/15: [2:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ) · Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ)
+
+**Titanique**
+- **Broadway · St. James Theatre** — Thu, 8/13: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+**Buena Vista Social Club**
+- **Broadway · Gerald Schoenfeld Theatre** — Fri, 8/14: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
 ## Thu, Aug 6, 7:12 PM ET · 5 new
 
 **TDF (Broadway/Off-Broadway)** — 5 new showtimes across 3 shows

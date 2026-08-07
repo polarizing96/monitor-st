@@ -5955,5 +5955,47 @@
     "status": null,
     "movie": "Stranger Things: The First Shadow",
     "first_seen": "2026-08-06T23:12:58.016Z"
+  },
+  "01tPe00000IVQqIIAX": {
+    "date": "2026-08-14",
+    "dt": "2026-08-14T23:00:00Z",
+    "status": null,
+    "movie": "Buena Vista Social Club",
+    "first_seen": "2026-08-07T17:01:00.152Z"
+  },
+  "01tPe00000IVTcsIAH": {
+    "date": "2026-08-20",
+    "dt": "2026-08-20T23:00:00Z",
+    "status": null,
+    "movie": "Maybe Happy Ending",
+    "first_seen": "2026-08-07T17:01:00.152Z"
+  },
+  "01tPe00000IVTWSIA5": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T18:00:00Z",
+    "status": null,
+    "movie": "Maybe Happy Ending",
+    "first_seen": "2026-08-07T17:01:00.152Z"
+  },
+  "01tPe00000IVTWRIA5": {
+    "date": "2026-08-12",
+    "dt": "2026-08-12T23:00:00Z",
+    "status": null,
+    "movie": "Maybe Happy Ending",
+    "first_seen": "2026-08-07T17:01:00.152Z"
+  },
+  "01tPe00000IVFtHIAX": {
+    "date": "2026-08-10",
+    "dt": "2026-08-10T23:00:00Z",
+    "status": null,
+    "movie": "The Saviors",
+    "first_seen": "2026-08-07T17:01:00.152Z"
+  },
+  "01tPe00000IVSQfIAP": {
+    "date": "2026-08-13",
+    "dt": "2026-08-13T23:30:00Z",
+    "status": null,
+    "movie": "Titanique",
+    "first_seen": "2026-08-07T17:01:00.152Z"
   }
 }
