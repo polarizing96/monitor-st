@@ -1,5 +1,36 @@
 # Daily showtimes digest
 
+## Friday, August 7 · 23 showtimes · 8 venues
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83635), [3:45pm](https://purchase.filmlinc.org/83634/83636), [6:15pm](https://purchase.filmlinc.org/83634/83637), [8:45pm](https://purchase.filmlinc.org/83634/83638)
+
+### Howard Gilman
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83897), [3:30pm](https://purchase.filmlinc.org/83310/83898), [6:00pm](https://purchase.filmlinc.org/83310/83899), [8:30pm](https://purchase.filmlinc.org/83310/83900)
+
+### Jazz at Lincoln Center
+- **Ben Wolfe Quartet** — [7:00pm](https://ticketing.jazz.org/21192/21195), [9:00pm](https://ticketing.jazz.org/21192/21196)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Summer for the City
+- **New Beginnings** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+- **New Legaxy** — [7:30pm](https://www.lincolncenter.org/series/summer-for-the-city/new-legaxy)
+- **Sound Mind: Music & Mental Health From Schumann to Today** — [6:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Festival%20Orchestra%20of%20Lincoln%20Center)
+- **Vangeline** — [5:00pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Dance%20Encounters)
+- **Zayra Pola** — [6:30pm](https://www.lincolncenter.org/series/summer-for-the-city/s/Social%20Dance)
+
+### The Juilliard School
+- **Juilliard Orchestra and Royal Academy of Music Symphony Orchestra Conducted by Esa-Pekka Salonen** — [7:00pm](https://www.juilliard.edu/event/185716/juilliard-orchestra-and-royal-academy-music-symphony-orchestra-conducted-esa-pekka)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83920), [3:00pm](https://purchase.filmlinc.org/83373/83921), [6:00pm](https://purchase.filmlinc.org/83373/83922), [9:00pm](https://purchase.filmlinc.org/83373/83923)
+
 ## Thursday, August 6 · 50 showtimes · 29 venues
 
 ### 59E59 Theaters
