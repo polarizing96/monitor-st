@@ -645,9 +645,10 @@
   "83637": {
     "date": "2026-08-07",
     "dt": "2026-08-07T22:15:00.000Z",
-    "status": "available",
+    "status": "limited",
     "movie": "Late Fame",
-    "first_seen": "2026-07-25T12:05:27.486Z"
+    "first_seen": "2026-07-25T12:05:27.486Z",
+    "status_changed": "2026-08-07T20:40:25.834Z"
   },
   "83638": {
     "date": "2026-08-07",
@@ -666,10 +667,10 @@
   "83640": {
     "date": "2026-08-08",
     "dt": "2026-08-08T19:15:00.000Z",
-    "status": "limited",
+    "status": "standby",
     "movie": "Late Fame",
     "first_seen": "2026-07-25T12:05:27.486Z",
-    "status_changed": "2026-08-07T20:20:21.975Z"
+    "status_changed": "2026-08-07T20:40:25.834Z"
   },
   "83641": {
     "date": "2026-08-08",
