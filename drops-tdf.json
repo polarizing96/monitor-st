@@ -1093,5 +1093,24 @@
       "01tPe00000IVTcsIAH"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 4 shows\n\n🎬 The Saviors\n  Off Broadway · Atlantic Theater Company's Linda Gross Theater — Mon, 8/10: 7:00pm\n🎬 Maybe Happy Ending\n  Broadway · Belasco Theatre — Wed, 8/12: 7:00pm · Sat, 8/15: 2:00pm · Thu, 8/20: 7:00pm\n🎬 Titanique\n  Broadway · St. James Theatre — Thu, 8/13: 7:30pm\n🎬 Buena Vista Social Club\n  Broadway · Gerald Schoenfeld Theatre — Fri, 8/14: 7:00pm"
+  },
+  {
+    "detected_at": "2026-08-07T18:01:12.074Z",
+    "count": 12,
+    "showtime_ids": [
+      "01tPe00000IVZfFIAX",
+      "01tPe00000IVZfLIAX",
+      "01tPe00000IVZfJIAX",
+      "01tPe00000IVZfPIAX",
+      "01tPe00000IVZfGIAX",
+      "01tPe00000IVZfMIAX",
+      "01tPe00000IVZfHIAX",
+      "01tPe00000IVZfNIAX",
+      "01tPe00000IVZfIIAX",
+      "01tPe00000IVZfOIAX",
+      "01tPe00000IVZfKIAX",
+      "01tPe00000IVZfQIAX"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 12 new showtimes · 1 show\n\n🎬 Gazillion Bubble Show\n  Off Broadway · New World Stages — Sat, 8/15: 11:00am, 2:00pm · Sun, 8/16: 12:00pm, 3:00pm · Wed, 8/19: 11:00am, 2:00pm · Thu, 8/20: 11:00am, 2:00pm · Sat, 8/22: 11:00am, 2:00pm · Sun, 8/23: 12:00pm, 3:00pm"
   }
 ]

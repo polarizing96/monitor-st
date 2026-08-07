@@ -5997,5 +5997,89 @@
     "status": null,
     "movie": "Titanique",
     "first_seen": "2026-08-07T17:01:00.152Z"
+  },
+  "01tPe00000IVZfQIAX": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T19:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfPIAX": {
+    "date": "2026-08-16",
+    "dt": "2026-08-16T19:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfOIAX": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T18:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfNIAX": {
+    "date": "2026-08-20",
+    "dt": "2026-08-20T18:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfMIAX": {
+    "date": "2026-08-19",
+    "dt": "2026-08-19T18:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfLIAX": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T18:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfKIAX": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T16:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfJIAX": {
+    "date": "2026-08-16",
+    "dt": "2026-08-16T16:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfIIAX": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T15:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfHIAX": {
+    "date": "2026-08-20",
+    "dt": "2026-08-20T15:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfGIAX": {
+    "date": "2026-08-19",
+    "dt": "2026-08-19T15:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
+  },
+  "01tPe00000IVZfFIAX": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T15:00:00Z",
+    "status": null,
+    "movie": "Gazillion Bubble Show",
+    "first_seen": "2026-08-07T18:01:11.910Z"
   }
 }
