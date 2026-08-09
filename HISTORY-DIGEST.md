@@ -88,6 +88,94 @@
 ### WP Theater
 - **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
 
+## Sunday, August 9 · 46 showtimes · 28 venues
+
+### Al Hirschfeld Theatre
+- **Moulin Rouge! The Musical** — [5:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
+### Belasco Theatre
+- **Maybe Happy Ending** — [2:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ)
+
+### Carmine's Times Square
+- **Speakeasy, Die Softly** — [5:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB)
+
+### Duke on 42nd Street
+- **Label•Less** — [4:00pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [1:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB), [5:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83643), [3:45pm](https://purchase.filmlinc.org/83634/83644), [6:15pm](https://purchase.filmlinc.org/83634/83645), [8:45pm](https://purchase.filmlinc.org/83634/83646)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [3:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83904), [3:30pm](https://purchase.filmlinc.org/83310/83905), [6:00pm](https://purchase.filmlinc.org/83310/83906), [8:30pm](https://purchase.filmlinc.org/83310/83907)
+
+### Jazz at Lincoln Center
+- **Songbook Sundays: The Tony Bennett Centennial** — [5:00pm](https://ticketing.jazz.org/21199/21213), [7:30pm](https://ticketing.jazz.org/21199/21214)
+
+### Lena Horne Theatre
+- **Six** — [2:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF), [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF)
+
+### Lincoln Center Theater
+- **Ragtime** — [3:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [3:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [3:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Marquis Theatre
+- **Stranger Things: The First Shadow** — [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+### New World Stages
+- **Gazillion Bubble Show** — [12:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [3:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN)
+
+### Rudolf Nureyev Studio At Ballet Arts
+- **Ajkun Ballet Presents: A Midsummer Night’s Dream** — [7:30pm](https://members.tdf.org/store/product/ajkun-ballet-presents-a-midsummer-night-s-dream/01tPe00000H2pavIAB)
+
+### Soho Playhouse
+- **Hungry Women** — [5:00pm](https://members.tdf.org/store/product/hungry-women/01tPe00000HkMWnIAN)
+
+### St. Lukes Theatre
+- **Music City** — [2:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD), [7:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### Stephen Sondheim Theatre
+- **& Juliet** — [6:30pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+### Superfine
+- **The Circuit: An Immersive Silent Disco Ballet** — [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [2:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The Players Theatre
+- **Masticate** — [3:00pm](https://members.tdf.org/store/product/masticate/01tPe00000I00aLIAR)
+
+### The Ruby Theatre
+- **Drunk Romeo and Juliet** — [7:00pm](https://members.tdf.org/store/)
+
+### The Space at Irondale
+- **Brooklyn's Bridge** — [3:00pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT)
+
+### The Theater Center
+- **Perfect Crime** — [3:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3), [7:30pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+- **Singfeld: A Musical About Nothing!** — [1:00pm](https://members.tdf.org/store/product/singfeld-a-musical-about-nothing/01tPe00000H4Qq9IAF)
+
+### Theater 555
+- **That Math Show** — [3:00pm](https://members.tdf.org/store/product/that-math-show/01tPe00000Gc3dBIAR)
+
+### Theatre XIV
+- **Petite Rouge - by Company XIV** — [6:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83928), [3:00pm](https://purchase.filmlinc.org/83373/83929), [6:00pm](https://purchase.filmlinc.org/83373/83930), [9:00pm](https://purchase.filmlinc.org/83373/83931)
+
+### WP Theater
+- **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
+
 ## Saturday, August 8 · 68 showtimes · 33 venues
 
 ### 59E59 Theaters
