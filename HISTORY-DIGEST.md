@@ -51,6 +51,57 @@
 ### WP Theater
 - **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
 
+## Monday, August 10 · 27 showtimes · 16 venues
+
+### Actors Temple Theatre
+- **Marilyn Exposed** — [7:30pm](https://members.tdf.org/store/)
+
+### Atlantic Theater Company's Linda Gross Theater
+- **The Saviors** — [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83647), [3:45pm](https://purchase.filmlinc.org/83634/83648), [6:15pm](https://purchase.filmlinc.org/83634/83649), [8:45pm](https://purchase.filmlinc.org/83634/83650)
+
+### Howard Gilman
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83908), [3:30pm](https://purchase.filmlinc.org/83310/83909), [6:00pm](https://purchase.filmlinc.org/83310/83910), [8:30pm](https://purchase.filmlinc.org/83310/83911)
+
+### Jazz at Lincoln Center
+- **Jazz House Kids, hosted by Christian McBride** — [7:00pm](https://ticketing.jazz.org/21202/21203), [9:00pm](https://ticketing.jazz.org/21202/21204)
+
+### Lena Horne Theatre
+- **Six** — [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### New World Stages
+- **The Play That Goes Wrong** — [7:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR)
+
+### St. James Theatre
+- **Titanique** — [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+### St. Lukes Theatre
+- **Music City** — [7:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### The Cutting Room
+- **Monday Night Magic** — [7:00pm](https://members.tdf.org/store/product/monday-night-magic/01tPe00000H4OUzIAN)
+
+### The Theater Center
+- **Perfect Crime** — [8:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+- **Singfeld: A Musical About Nothing!** — [7:30pm](https://members.tdf.org/store/product/singfeld-a-musical-about-nothing/01tPe00000H4Qq9IAF)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83932), [3:00pm](https://purchase.filmlinc.org/83373/83933), [6:00pm](https://purchase.filmlinc.org/83373/83934), [9:00pm](https://purchase.filmlinc.org/83373/83935)
+
+### WP Theater
+- **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
+
 ## Sunday, August 9 · 46 showtimes · 28 venues
 
 ### Al Hirschfeld Theatre
