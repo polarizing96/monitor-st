@@ -1206,5 +1206,15 @@
       "01tPe00000IZJbhIAH"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 5 new showtimes · 2 shows\n\n🎬 & Juliet\n  Broadway · Stephen Sondheim Theatre — Tue, 8/11: 7:00pm · Wed, 8/12: 2:00pm · Sat, 8/15: 8:00pm · Tue, 8/18: 7:00pm\n🎬 Moulin Rouge! The Musical\n  Broadway · Al Hirschfeld Theatre — Sat, 8/15: 2:00pm"
+  },
+  {
+    "detected_at": "2026-08-10T21:00:57.928Z",
+    "count": 3,
+    "showtime_ids": [
+      "01tPe00000IZUgrIAH",
+      "01tPe00000IZUgsIAH",
+      "01tPe00000IZUgtIAH"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Amaze Magic\n  Off Broadway · New World Stages — Sat, 8/15: 2:00pm, 8:00pm · Sun, 8/16: 12:00pm"
   }
 ]
