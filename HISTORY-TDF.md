@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Mon, Aug 10, 1:01 PM ET · 7 new
+
+**TDF (Broadway/Off-Broadway)** — 7 new showtimes across 1 show
+
+**& Juliet**
+- **Broadway · Stephen Sondheim Theatre** — Wed, 8/12: [2:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Thu, 8/13: [7:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Fri, 8/14: [8:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Sun, 8/16: [1:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Tue, 8/18: [7:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Sun, 8/23: [6:30pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
 ## Mon, Aug 10, 11:01 AM ET · 5 new
 
 **TDF (Broadway/Off-Broadway)** — 5 new showtimes across 1 show

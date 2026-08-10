@@ -1180,5 +1180,19 @@
       "01tPe00000IYTN7IAP"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 5 new showtimes · 1 show\n\n🎬 Brooklyn's Bridge\n  Off Broadway · The Space at Irondale — Thu, 8/13: 7:30pm · Fri, 8/14: 7:30pm · Sat, 8/15: 2:00pm, 7:30pm · Sun, 8/16: 3:00pm"
+  },
+  {
+    "detected_at": "2026-08-10T17:01:20.110Z",
+    "count": 7,
+    "showtime_ids": [
+      "01tPe00000IYfhVIAT",
+      "01tPe00000IYebmIAD",
+      "01tPe00000IYfpZIAT",
+      "01tPe00000IYgSHIA1",
+      "01tPe00000IYgYjIAL",
+      "01tPe00000IYgk1IAD",
+      "01tPe00000IYh1lIAD"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 7 new showtimes · 1 show\n\n🎬 & Juliet\n  Broadway · Stephen Sondheim Theatre — Wed, 8/12: 2:00pm · Thu, 8/13: 7:00pm · Fri, 8/14: 8:00pm · Sun, 8/16: 1:00pm · Tue, 8/18: 7:00pm · Thu, 8/20: 7:00pm · Sun, 8/23: 6:30pm"
   }
 ]
