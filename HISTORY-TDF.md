@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Mon, Aug 10, 11:01 AM ET · 5 new
+
+**TDF (Broadway/Off-Broadway)** — 5 new showtimes across 1 show
+
+**Brooklyn's Bridge**
+- **Off Broadway · The Space at Irondale** — Thu, 8/13: [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Fri, 8/14: [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Sat, 8/15: [2:00pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT), [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Sun, 8/16: [3:00pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT)
+
 ## Mon, Aug 10, 9:01 AM ET · 49 new
 
 **TDF (Broadway/Off-Broadway)** — 49 new showtimes across 5 shows

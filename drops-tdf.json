@@ -1168,5 +1168,17 @@
       "01tPe00000IXYDwIAP"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 49 new showtimes · 5 shows\n\n🎬 The Circuit: An Immersive Silent Disco Ballet\n  Off Broadway · Superfine — Thu, 8/13: 7:30pm, 8:15pm, 9:30pm · Fri, 8/14: 7:30pm, 8:15pm, 9:30pm · Sat, 8/15: 7:30pm, 8:15pm, 9:30pm · Sun, 8/16: 7:30pm, 8:15pm\n🎬 Two Strangers (Carry a Cake Across New York)\n  Broadway · Longacre Theatre — Tue, 8/18: 7:30pm · Wed, 8/19: 2:00pm, 7:30pm · Thu, 8/20: 7:30pm · Fri, 8/21: 7:30pm · Sat, 8/22: 2:00pm, 8:00pm · Sun, 8/23: 3:00pm\n🎬 Red Bastard: Lie With Me\n  Off Broadway · Soho Playhouse — Fri, 9/11: 7:00pm · Sat, 9/12: 7:00pm\n🎬 KEVIN!!!!!\n  Off Broadway · Soho Playhouse — Sat, 12/5: 3:00pm, 5:00pm · Sun, 12/6: 1:00pm, 3:00pm · Mon, 12/7: 7:00pm · Sat, 12/12: 3:00pm, 5:00pm · Sun, 12/13: 1:00pm, 3:00pm · Sat, 12/19: 3:00pm · Sun, 12/20: 1:00pm, 3:00pm · Sat, 12/26: 1:00pm, 3:00pm · Sun, 12/27: 1:00pm, 3:00pm · Mon, 12/28: 7:00pm · Tue, 12/29: 7:00pm · Sat, 1/2: 1:00pm, 3:00pm · Sun, 1/3: 1:00pm, 3:00pm\n🎬 Fly, You Fools!\n  Off Broadway · Soho Playhouse — Sat, 12/19: 5:00pm · Sat, 12/26: 5:00pm · Sun, 12/27: 5:00pm · Mon, 12/28: 9:00pm · Tue, 12/29: 9:00pm · Sat, 1/2: 5:00pm"
+  },
+  {
+    "detected_at": "2026-08-10T15:01:21.402Z",
+    "count": 5,
+    "showtime_ids": [
+      "01tPe00000IYTN4IAP",
+      "01tPe00000IYTN5IAP",
+      "01tPe00000IYTN6IAP",
+      "01tPe00000IYTN8IAP",
+      "01tPe00000IYTN7IAP"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 5 new showtimes · 1 show\n\n🎬 Brooklyn's Bridge\n  Off Broadway · The Space at Irondale — Thu, 8/13: 7:30pm · Fri, 8/14: 7:30pm · Sat, 8/15: 2:00pm, 7:30pm · Sun, 8/16: 3:00pm"
   }
 ]
