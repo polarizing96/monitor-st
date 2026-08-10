@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 10, 3:40 PM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**Late Fame**
+- **Francesca Beale** — Wed, 8/19: [9:30pm](https://purchase.filmlinc.org/83634/83970)
+
 ## Mon, Aug 10, 3:10 PM ET · 28 new
 
 **Film at Lincoln Center** — 28 new showtimes across 2 movies
