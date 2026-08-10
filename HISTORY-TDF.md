@@ -1,5 +1,24 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Mon, Aug 10, 9:01 AM ET · 49 new
+
+**TDF (Broadway/Off-Broadway)** — 49 new showtimes across 5 shows
+
+**The Circuit: An Immersive Silent Disco Ballet**
+- **Off Broadway · Superfine** — Thu, 8/13: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB) · Fri, 8/14: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB) · Sat, 8/15: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB) · Sun, 8/16: [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB)
+
+**Two Strangers (Carry a Cake Across New York)**
+- **Broadway · Longacre Theatre** — Tue, 8/18: [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Wed, 8/19: [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Thu, 8/20: [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Fri, 8/21: [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Sat, 8/22: [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [8:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Sun, 8/23: [3:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+**Red Bastard: Lie With Me**
+- **Off Broadway · Soho Playhouse** — Fri, 9/11: [7:00pm](https://members.tdf.org/store/product/red-bastard-lie-with-me/01tPe00000IXaK5IAL) · Sat, 9/12: [7:00pm](https://members.tdf.org/store/product/red-bastard-lie-with-me/01tPe00000IXaK5IAL)
+
+**KEVIN!!!!!**
+- **Off Broadway · Soho Playhouse** — Sat, 12/5: [3:00pm](https://members.tdf.org/store/), [5:00pm](https://members.tdf.org/store/) · Sun, 12/6: [1:00pm](https://members.tdf.org/store/), [3:00pm](https://members.tdf.org/store/) · Mon, 12/7: [7:00pm](https://members.tdf.org/store/) · Sat, 12/12: [3:00pm](https://members.tdf.org/store/), [5:00pm](https://members.tdf.org/store/) · Sun, 12/13: [1:00pm](https://members.tdf.org/store/), [3:00pm](https://members.tdf.org/store/) · Sat, 12/19: [3:00pm](https://members.tdf.org/store/) · Sun, 12/20: [1:00pm](https://members.tdf.org/store/), [3:00pm](https://members.tdf.org/store/) · Sat, 12/26: [1:00pm](https://members.tdf.org/store/), [3:00pm](https://members.tdf.org/store/) · Sun, 12/27: [1:00pm](https://members.tdf.org/store/), [3:00pm](https://members.tdf.org/store/) · Mon, 12/28: [7:00pm](https://members.tdf.org/store/) · Tue, 12/29: [7:00pm](https://members.tdf.org/store/) · Sat, 1/2: [1:00pm](https://members.tdf.org/store/), [3:00pm](https://members.tdf.org/store/) · Sun, 1/3: [1:00pm](https://members.tdf.org/store/), [3:00pm](https://members.tdf.org/store/)
+
+**Fly, You Fools!**
+- **Off Broadway · Soho Playhouse** — Sat, 12/19: [5:00pm](https://members.tdf.org/store/product/fly-you-fools/01tPe00000IXYi5IAH) · Sat, 12/26: [5:00pm](https://members.tdf.org/store/product/fly-you-fools/01tPe00000IXYi5IAH) · Sun, 12/27: [5:00pm](https://members.tdf.org/store/product/fly-you-fools/01tPe00000IXYi5IAH) · Mon, 12/28: [9:00pm](https://members.tdf.org/store/product/fly-you-fools/01tPe00000IXYi5IAH) · Tue, 12/29: [9:00pm](https://members.tdf.org/store/product/fly-you-fools/01tPe00000IXYi5IAH) · Sat, 1/2: [5:00pm](https://members.tdf.org/store/product/fly-you-fools/01tPe00000IXYi5IAH)
+
 ## Fri, Aug 7, 2:01 PM ET · 12 new
 
 **TDF (Broadway/Off-Broadway)** — 12 new showtimes across 1 show
