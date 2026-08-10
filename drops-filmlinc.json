@@ -457,5 +457,44 @@
       "83978"
     ],
     "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 The Samurai and the Prisoner\n  Howard Gilman — Fri, 8/14: 12:00pm, 3:00pm, 6:00pm"
+  },
+  {
+    "detected_at": "2026-08-10T15:50:24.930Z",
+    "count": 32,
+    "showtime_ids": [
+      "84004",
+      "84005",
+      "83980",
+      "83981",
+      "83982",
+      "83983",
+      "83984",
+      "83985",
+      "83986",
+      "83987",
+      "83988",
+      "83989",
+      "84007",
+      "83990",
+      "84006",
+      "83991",
+      "83992",
+      "83993",
+      "83994",
+      "84008",
+      "83995",
+      "83996",
+      "83997",
+      "84009",
+      "83998",
+      "84010",
+      "83999",
+      "84000",
+      "84011",
+      "84001",
+      "84002",
+      "84003"
+    ],
+    "summary": "Film at Lincoln Center — 32 new showtimes · 2 movies\n\n🎬 The Piano\n  Walter Reade — Fri, 8/14: 1:00pm, 3:30pm · Mon, 8/17: 1:00pm, 3:30pm · Tue, 8/18: 3:30pm · Wed, 8/19: 1:00pm, 3:30pm · Thu, 8/20: 1:00pm\n🎬 The Samurai and the Prisoner\n  Howard Gilman — Fri, 8/14: 9:00pm · Sat, 8/15: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Sun, 8/16: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Mon, 8/17: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Tue, 8/18: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Wed, 8/19: 12:00pm, 3:00pm, 9:00pm · Thu, 8/20: 12:00pm, 3:00pm, 6:00pm, 9:00pm"
   }
 ]

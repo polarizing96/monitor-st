@@ -1,5 +1,15 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 10, 11:50 AM ET · 32 new
+
+**Film at Lincoln Center** — 32 new showtimes across 2 movies
+
+**The Piano**
+- **Walter Reade** — Fri, 8/14: [1:00pm](https://purchase.filmlinc.org/83310/84004), [3:30pm](https://purchase.filmlinc.org/83310/84005) · Mon, 8/17: [1:00pm](https://purchase.filmlinc.org/83310/84007), [3:30pm](https://purchase.filmlinc.org/83310/84006) · Tue, 8/18: [3:30pm](https://purchase.filmlinc.org/83310/84008) · Wed, 8/19: [1:00pm](https://purchase.filmlinc.org/83310/84009), [3:30pm](https://purchase.filmlinc.org/83310/84010) · Thu, 8/20: [1:00pm](https://purchase.filmlinc.org/83310/84011)
+
+**The Samurai and the Prisoner**
+- **Howard Gilman** — Fri, 8/14: [9:00pm](https://purchase.filmlinc.org/83373/83980) · Sat, 8/15: [12:00pm](https://purchase.filmlinc.org/83373/83981), [3:00pm](https://purchase.filmlinc.org/83373/83982), [6:00pm](https://purchase.filmlinc.org/83373/83983), [9:00pm](https://purchase.filmlinc.org/83373/83984) · Sun, 8/16: [12:00pm](https://purchase.filmlinc.org/83373/83985), [3:00pm](https://purchase.filmlinc.org/83373/83986), [6:00pm](https://purchase.filmlinc.org/83373/83987), [9:00pm](https://purchase.filmlinc.org/83373/83988) · Mon, 8/17: [12:00pm](https://purchase.filmlinc.org/83373/83989), [3:00pm](https://purchase.filmlinc.org/83373/83990), [6:00pm](https://purchase.filmlinc.org/83373/83991), [9:00pm](https://purchase.filmlinc.org/83373/83992) · Tue, 8/18: [12:00pm](https://purchase.filmlinc.org/83373/83993), [3:00pm](https://purchase.filmlinc.org/83373/83994), [6:00pm](https://purchase.filmlinc.org/83373/83995), [9:00pm](https://purchase.filmlinc.org/83373/83996) · Wed, 8/19: [12:00pm](https://purchase.filmlinc.org/83373/83997), [3:00pm](https://purchase.filmlinc.org/83373/83998), [9:00pm](https://purchase.filmlinc.org/83373/83999) · Thu, 8/20: [12:00pm](https://purchase.filmlinc.org/83373/84000), [3:00pm](https://purchase.filmlinc.org/83373/84001), [6:00pm](https://purchase.filmlinc.org/83373/84002), [9:00pm](https://purchase.filmlinc.org/83373/84003)
+
 ## Mon, Aug 10, 11:40 AM ET · 3 new
 
 **Film at Lincoln Center** — 3 new showtimes across 1 movie
