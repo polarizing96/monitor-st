@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Mon, Aug 10, 4:01 PM ET · 5 new
+
+**TDF (Broadway/Off-Broadway)** — 5 new showtimes across 2 shows
+
+**& Juliet**
+- **Broadway · Stephen Sondheim Theatre** — Tue, 8/11: [7:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Wed, 8/12: [2:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Sat, 8/15: [8:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Tue, 8/18: [7:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+**Moulin Rouge! The Musical**
+- **Broadway · Al Hirschfeld Theatre** — Sat, 8/15: [2:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
 ## Mon, Aug 10, 1:01 PM ET · 7 new
 
 **TDF (Broadway/Off-Broadway)** — 7 new showtimes across 1 show

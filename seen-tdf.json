@@ -6508,5 +6508,40 @@
     "status": null,
     "movie": "& Juliet",
     "first_seen": "2026-08-10T17:01:19.874Z"
+  },
+  "01tPe00000IZJbhIAH": {
+    "date": "2026-08-18",
+    "dt": "2026-08-18T23:00:00Z",
+    "status": null,
+    "movie": "& Juliet",
+    "first_seen": "2026-08-10T20:01:06.780Z"
+  },
+  "01tPe00000IZJS1IAP": {
+    "date": "2026-08-15",
+    "dt": "2026-08-16T00:00:00Z",
+    "status": null,
+    "movie": "& Juliet",
+    "first_seen": "2026-08-10T20:01:06.780Z"
+  },
+  "01tPe00000IZJLZIA5": {
+    "date": "2026-08-11",
+    "dt": "2026-08-11T23:00:00Z",
+    "status": null,
+    "movie": "& Juliet",
+    "first_seen": "2026-08-10T20:01:06.780Z"
+  },
+  "01tPe00000IZ8OYIA1": {
+    "date": "2026-08-12",
+    "dt": "2026-08-12T18:00:00Z",
+    "status": null,
+    "movie": "& Juliet",
+    "first_seen": "2026-08-10T20:01:06.780Z"
+  },
+  "01tPe00000IZKhRIAX": {
+    "date": "2026-08-15",
+    "dt": "2026-08-15T18:00:00Z",
+    "status": null,
+    "movie": "Moulin Rouge! The Musical",
+    "first_seen": "2026-08-10T20:01:06.781Z"
   }
 }
