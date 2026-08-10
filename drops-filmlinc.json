@@ -447,5 +447,15 @@
       "83896"
     ],
     "summary": "Film at Lincoln Center — 31 new showtimes · 4 movies\n\n🎬 FLC Book Fair\n  Furman Gallery — Sat, 8/29: 2:30pm\n🎬 Ball of Fire\n  Walter Reade — Sun, 8/30: 3:00pm\n🎬 The Name of the Rose\n  Walter Reade — Mon, 8/31: 3:15pm\n🎬 Chronovisor\n  Walter Reade — Fri, 9/4: 1:15pm, 3:45pm, 6:15pm, 9:00pm · Sat, 9/5: 1:15pm, 3:45pm, 6:15pm, 9:00pm · Sun, 9/6: 1:15pm, 3:45pm, 6:30pm, 8:45pm\n  Francesca Beale — Mon, 9/7: 1:15pm, 3:45pm, 6:15pm, 8:45pm\n  Howard Gilman — Tue, 9/8: 1:15pm, 3:45pm, 6:15pm, 8:45pm · Wed, 9/9: 1:15pm, 3:45pm, 6:15pm, 8:45pm · Thu, 9/10: 1:15pm, 3:45pm, 6:15pm, 8:45pm"
+  },
+  {
+    "detected_at": "2026-08-10T15:40:31.712Z",
+    "count": 3,
+    "showtime_ids": [
+      "83976",
+      "83977",
+      "83978"
+    ],
+    "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 The Samurai and the Prisoner\n  Howard Gilman — Fri, 8/14: 12:00pm, 3:00pm, 6:00pm"
   }
 ]

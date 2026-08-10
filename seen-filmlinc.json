@@ -2613,5 +2613,26 @@
     "status": "available",
     "movie": "The Samurai and the Prisoner",
     "first_seen": "2026-08-03T15:50:33.521Z"
+  },
+  "83976": {
+    "date": "2026-08-14",
+    "dt": "2026-08-14T16:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-08-10T15:40:31.523Z"
+  },
+  "83977": {
+    "date": "2026-08-14",
+    "dt": "2026-08-14T19:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-08-10T15:40:31.523Z"
+  },
+  "83978": {
+    "date": "2026-08-14",
+    "dt": "2026-08-14T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Samurai and the Prisoner",
+    "first_seen": "2026-08-10T15:40:31.523Z"
   }
 }
