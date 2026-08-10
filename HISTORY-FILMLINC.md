@@ -1,5 +1,16 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 10, 3:10 PM ET · 28 new
+
+**Film at Lincoln Center** — 28 new showtimes across 2 movies
+
+**Late Fame**
+- **Francesca Beale** — Fri, 8/14: [1:15pm](https://purchase.filmlinc.org/83634/83948), [3:45pm](https://purchase.filmlinc.org/83634/83949), [6:15pm](https://purchase.filmlinc.org/83634/83950), [8:45pm](https://purchase.filmlinc.org/83634/83951) · Sat, 8/15: [1:15pm](https://purchase.filmlinc.org/83634/83952), [3:45pm](https://purchase.filmlinc.org/83634/83953), [6:15pm](https://purchase.filmlinc.org/83634/83954), [8:45pm](https://purchase.filmlinc.org/83634/83955) · Sun, 8/16: [1:15pm](https://purchase.filmlinc.org/83634/83956), [3:45pm](https://purchase.filmlinc.org/83634/83957), [6:15pm](https://purchase.filmlinc.org/83634/83958), [8:45pm](https://purchase.filmlinc.org/83634/83959) · Mon, 8/17: [1:15pm](https://purchase.filmlinc.org/83634/83960), [3:45pm](https://purchase.filmlinc.org/83634/83961), [6:15pm](https://purchase.filmlinc.org/83634/83962), [8:45pm](https://purchase.filmlinc.org/83634/83963) · Tue, 8/18: [1:15pm](https://purchase.filmlinc.org/83634/83964), [3:45pm](https://purchase.filmlinc.org/83634/83965), [6:15pm](https://purchase.filmlinc.org/83634/83966), [8:45pm](https://purchase.filmlinc.org/83634/83967) · Wed, 8/19: [1:15pm](https://purchase.filmlinc.org/83634/83968), [3:45pm](https://purchase.filmlinc.org/83634/83969) · Thu, 8/20: [1:15pm](https://purchase.filmlinc.org/83634/83972), [3:45pm](https://purchase.filmlinc.org/83634/83973), [6:15pm](https://purchase.filmlinc.org/83634/83974), [8:45pm](https://purchase.filmlinc.org/83634/83975)
+- **Howard Gilman** — Wed, 8/19: [6:15pm](https://purchase.filmlinc.org/83634/83971)
+
+**The Piano**
+- **Walter Reade (Open Captions)** — Thu, 8/20: [3:30pm](https://purchase.filmlinc.org/83310/84012)
+
 ## Mon, Aug 10, 11:50 AM ET · 32 new
 
 **Film at Lincoln Center** — 32 new showtimes across 2 movies
