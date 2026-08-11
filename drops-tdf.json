@@ -1216,5 +1216,18 @@
       "01tPe00000IZUgtIAH"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Amaze Magic\n  Off Broadway · New World Stages — Sat, 8/15: 2:00pm, 8:00pm · Sun, 8/16: 12:00pm"
+  },
+  {
+    "detected_at": "2026-08-11T04:00:59.712Z",
+    "count": 6,
+    "showtime_ids": [
+      "01tPe00000IZug5IAD",
+      "01tPe00000IZujJIAT",
+      "01tPe00000IZumXIAT",
+      "01tPe00000IZuplIAD",
+      "01tPe00000IZuszIAD",
+      "01tPe00000IZuwDIAT"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 1 show\n\n🎬 Titanique\n  Broadway · St. James Theatre — Fri, 8/14: 7:30pm · Sat, 8/15: 3:00pm · Mon, 8/17: 7:30pm · Tue, 8/18: 7:30pm · Wed, 8/19: 7:30pm · Thu, 8/20: 7:30pm"
   }
 ]
