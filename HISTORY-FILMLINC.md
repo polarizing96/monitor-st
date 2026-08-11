@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Tue, Aug 11, 11:40 AM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**Test Screening Ignore**
+- **Alice Tully Hall** — Wed, 9/30: [8:00pm](https://purchase.filmlinc.org/84015/84016)
+
 ## Mon, Aug 10, 3:40 PM ET · 1 new
 
 **Film at Lincoln Center** — 1 new showtime across 1 movie

@@ -539,5 +539,13 @@
       "83970"
     ],
     "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 Late Fame\n  Francesca Beale — Wed, 8/19: 9:30pm"
+  },
+  {
+    "detected_at": "2026-08-11T15:40:22.015Z",
+    "count": 1,
+    "showtime_ids": [
+      "84016"
+    ],
+    "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 Test Screening Ignore\n  Alice Tully Hall — Wed, 9/30: 8:00pm"
   }
 ]
