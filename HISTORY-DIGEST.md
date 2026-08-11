@@ -1,5 +1,47 @@
 # Daily showtimes digest
 
+## Tuesday, August 11 · 24 showtimes · 13 venues
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83651), [3:45pm](https://purchase.filmlinc.org/83634/83652), [6:15pm](https://purchase.filmlinc.org/83634/83653), [8:45pm](https://purchase.filmlinc.org/83634/83654)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83912), [3:30pm](https://purchase.filmlinc.org/83310/83913), [6:00pm](https://purchase.filmlinc.org/83310/83914), [8:30pm](https://purchase.filmlinc.org/83310/83915)
+
+### Jazz at Lincoln Center
+- **Steve Nelson: The Art of the Vibraphone** — [7:00pm](https://ticketing.jazz.org/21205/21206), [9:00pm](https://ticketing.jazz.org/21205/21207)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Russian Samovar Restaurant
+- **Russian Samovar Presents Maya Shaw "Dinner & Show"** — [6:30pm](https://members.tdf.org/store/product/russian-samovar-presents-maya-shaw-dinner-show/01tPe00000IBadhIAD)
+
+### Stephen Sondheim Theatre
+- **& Juliet** — [7:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [6:30pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The Theater Center
+- **Perfect Crime** — [8:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+
+### Walter Reade
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83936), [3:00pm](https://purchase.filmlinc.org/83373/83938), [6:00pm](https://purchase.filmlinc.org/83373/83939), [9:00pm](https://purchase.filmlinc.org/83373/83940)
+
 ## Monday, August 10 · 27 showtimes · 16 venues
 
 ### Actors Temple Theatre
