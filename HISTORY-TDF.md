@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Aug 11, 1:01 PM ET · 19 new
+
+**TDF (Broadway/Off-Broadway)** — 19 new showtimes across 2 shows
+
+**Cat Cohen: Broad Strokes**
+- **Off Broadway · Lucille Lortel Theatre** — Mon, 8/17: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Tue, 8/18: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Wed, 8/19: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Fri, 8/21: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Sat, 8/22: [5:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL), [8:30pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Mon, 8/24: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Tue, 8/25: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Wed, 8/26: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Thu, 8/27: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Sat, 8/29: [5:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL), [8:30pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+**Buena Vista Social Club**
+- **Broadway · Gerald Schoenfeld Theatre** — Tue, 8/18: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Wed, 8/19: [2:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ), [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Fri, 8/21: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Wed, 8/26: [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
 ## Tue, Aug 11, 12:01 PM ET · 4 new
 
 **TDF (Broadway/Off-Broadway)** — 4 new showtimes across 1 show
