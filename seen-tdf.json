@@ -7012,5 +7012,26 @@
     "status": null,
     "movie": "Truly, Howard Hughes",
     "first_seen": "2026-08-11T19:00:58.420Z"
+  },
+  "01tPe00000Ig5SQIAZ": {
+    "date": "2026-08-21",
+    "dt": "2026-08-21T23:00:00Z",
+    "status": null,
+    "movie": "Speakeasy, Die Softly",
+    "first_seen": "2026-08-12T17:01:16.879Z"
+  },
+  "01tPe00000Ig5SPIAZ": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T21:00:00Z",
+    "status": null,
+    "movie": "Speakeasy, Die Softly",
+    "first_seen": "2026-08-12T17:01:16.879Z"
+  },
+  "01tPe00000Ig5SOIAZ": {
+    "date": "2026-08-16",
+    "dt": "2026-08-16T21:00:00Z",
+    "status": null,
+    "movie": "Speakeasy, Die Softly",
+    "first_seen": "2026-08-12T17:01:16.879Z"
   }
 }

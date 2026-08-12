@@ -1315,5 +1315,15 @@
       "01tPe00000IbSiwIAF"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Truly, Howard Hughes\n  Off Broadway · The York Theatre at The Theatre at St Jean's — Sat, 9/19: 7:30pm"
+  },
+  {
+    "detected_at": "2026-08-12T17:01:17.290Z",
+    "count": 3,
+    "showtime_ids": [
+      "01tPe00000Ig5SOIAZ",
+      "01tPe00000Ig5SQIAZ",
+      "01tPe00000Ig5SPIAZ"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Speakeasy, Die Softly\n  Off Broadway · Carmine's Times Square — Sun, 8/16: 5:00pm · Fri, 8/21: 7:00pm · Sun, 8/23: 5:00pm"
   }
 ]
