@@ -75,6 +75,81 @@
 ### WP Theater
 - **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
 
+## Wednesday, August 12 · 43 showtimes · 23 venues
+
+### Al Hirschfeld Theatre
+- **Moulin Rouge! The Musical** — [2:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ), [8:00pm](https://members.tdf.org/store/product/moulin-rouge-the-musical/01tPe00000H2kTBIAZ)
+
+### Atlantic Theater Company's Linda Gross Theater
+- **The Saviors** — [2:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5), [7:00pm](https://members.tdf.org/store/product/the-saviors/01tPe00000HVSMPIA5)
+
+### Belasco Theatre
+- **Maybe Happy Ending** — [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ)
+
+### Duke on 42nd Street
+- **Label•Less** — [3:00pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN), [7:30pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Francesca Beale
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/83916), [3:30pm](https://purchase.filmlinc.org/83310/83917)
+- **The Samurai and the Prisoner** — [6:00pm](https://purchase.filmlinc.org/83373/83944), [9:00pm](https://purchase.filmlinc.org/83373/83945)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [2:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ), [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83655), [3:45pm](https://purchase.filmlinc.org/83634/83656), [6:15pm](https://purchase.filmlinc.org/83634/83657), [8:45pm](https://purchase.filmlinc.org/83634/83658)
+
+### Jazz at Lincoln Center
+- **Ehud Asherie Trio** — [7:00pm](https://ticketing.jazz.org/21208/21209), [9:00pm](https://ticketing.jazz.org/21208/21210)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **Ragtime** — [2:00pm](https://lct.org/shows/ragtime/), [8:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [2:00pm](https://lct.org/shows/the-whoopi-monologues/), [8:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### New World Stages
+- **Gazillion Bubble Show** — [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN)
+- **The Play That Goes Wrong** — [7:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR)
+
+### Palace Theatre
+- **The Lost Boys** — [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ), [7:30pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+### St. James Theatre
+- **Titanique** — [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+### St. Lukes Theatre
+- **Music City** — [7:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### Stephen Sondheim Theatre
+- **& Juliet** — [2:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+### The Juilliard School
+- **Lunch Hour Performance | Two Sides of the 20s: Bartók, Prokofiev** — [1:00pm](https://www.juilliard.edu/event/186846/lunch-hour-performance-two-sides-20s-bartok-prokofiev)
+
+### The Space at Irondale
+- **Brooklyn's Bridge** — [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT)
+
+### Walter Reade
+- **Buddy** — [7:00pm](https://purchase.filmlinc.org/83543/83544)
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83937), [3:00pm](https://purchase.filmlinc.org/83373/83941)
+
+### WP Theater
+- **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
+
 ## Tuesday, August 11 · 24 showtimes · 13 venues
 
 ### Francesca Beale
