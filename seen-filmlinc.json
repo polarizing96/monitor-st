@@ -626,10 +626,10 @@
   "83579": {
     "date": "2026-08-20",
     "dt": "2026-08-21T03:59:00.000Z",
-    "status": "limited",
+    "status": "standby",
     "movie": "2026 Scary Movies Pass",
     "first_seen": "2026-07-25T12:05:27.485Z",
-    "status_changed": "2026-08-11T15:50:25.394Z"
+    "status_changed": "2026-08-12T09:00:31.016Z"
   },
   "83635": {
     "date": "2026-08-07",
