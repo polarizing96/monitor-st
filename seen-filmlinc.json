@@ -3071,5 +3071,12 @@
     "status": "available",
     "movie": "Test Screening Ignore",
     "first_seen": "2026-08-11T15:40:21.675Z"
+  },
+  "84021": {
+    "date": "2026-10-12",
+    "dt": "2026-10-13T03:59:00.000Z",
+    "status": "available",
+    "movie": "2026 NYFF Volunteer Vouchers",
+    "first_seen": "2026-08-12T16:30:23.712Z"
   }
 }

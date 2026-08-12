@@ -547,5 +547,13 @@
       "84016"
     ],
     "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 Test Screening Ignore\n  Alice Tully Hall — Wed, 9/30: 8:00pm"
+  },
+  {
+    "detected_at": "2026-08-12T16:30:23.847Z",
+    "count": 1,
+    "showtime_ids": [
+      "84021"
+    ],
+    "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 2026 NYFF Volunteer Vouchers\n  Pass — Mon, 10/12: 11:59pm"
   }
 ]
