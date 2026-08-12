@@ -1325,5 +1325,15 @@
       "01tPe00000Ig5SPIAZ"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Speakeasy, Die Softly\n  Off Broadway · Carmine's Times Square — Sun, 8/16: 5:00pm · Fri, 8/21: 7:00pm · Sun, 8/23: 5:00pm"
+  },
+  {
+    "detected_at": "2026-08-12T18:00:57.888Z",
+    "count": 3,
+    "showtime_ids": [
+      "01tPe00000IhBdnIAF",
+      "01tPe00000IhBdoIAF",
+      "01tPe00000IhBdpIAF"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Paranormal Activity\n  Broadway · August Wilson Theatre — Thu, 8/20: 8:00pm · Sun, 8/23: 2:00pm, 7:30pm"
   }
 ]

@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Aug 12, 2:00 PM ET · 3 new
+
+**TDF (Broadway/Off-Broadway)** — 3 new showtimes across 1 show
+
+**Paranormal Activity**
+- **Broadway · August Wilson Theatre** — Thu, 8/20: [8:00pm](https://members.tdf.org/store/) · Sun, 8/23: [2:00pm](https://members.tdf.org/store/), [7:30pm](https://members.tdf.org/store/)
+
 ## Wed, Aug 12, 1:01 PM ET · 3 new
 
 **TDF (Broadway/Off-Broadway)** — 3 new showtimes across 1 show
