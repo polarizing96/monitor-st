@@ -1345,5 +1345,13 @@
       "01tPe00000Ii4bsIAB"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 2 shows\n\n🎬 Truly, Howard Hughes\n  Off Broadway · The York Theatre at The Theatre at St Jean's — Tue, 9/22: 7:30pm\n🎬 Kilgallen\n  Off Broadway · The York Theatre at The Theatre at St Jean's — Tue, 12/8: 7:30pm · Wed, 12/9: 7:30pm"
+  },
+  {
+    "detected_at": "2026-08-12T22:01:01.209Z",
+    "count": 1,
+    "showtime_ids": [
+      "01tPe00000IkVxiIAF"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Buena Vista Social Club\n  Broadway · Gerald Schoenfeld Theatre — Thu, 8/20: 7:00pm"
   }
 ]

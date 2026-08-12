@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Aug 12, 6:01 PM ET · 1 new
+
+**TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
+
+**Buena Vista Social Club**
+- **Broadway · Gerald Schoenfeld Theatre** — Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
 ## Wed, Aug 12, 3:01 PM ET · 3 new
 
 **TDF (Broadway/Off-Broadway)** — 3 new showtimes across 2 shows
