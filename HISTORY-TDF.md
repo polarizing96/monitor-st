@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Aug 12, 3:01 PM ET · 3 new
+
+**TDF (Broadway/Off-Broadway)** — 3 new showtimes across 2 shows
+
+**Truly, Howard Hughes**
+- **Off Broadway · The York Theatre at The Theatre at St Jean's** — Tue, 9/22: [7:30pm](https://members.tdf.org/store/product/truly-howard-hughes/01tPe00000IE4pNIAT)
+
+**Kilgallen**
+- **Off Broadway · The York Theatre at The Theatre at St Jean's** — Tue, 12/8: [7:30pm](https://members.tdf.org/store/product/kilgallen/01tPe00000IE5wjIAD) · Wed, 12/9: [7:30pm](https://members.tdf.org/store/product/kilgallen/01tPe00000IE5wjIAD)
+
 ## Wed, Aug 12, 2:00 PM ET · 3 new
 
 **TDF (Broadway/Off-Broadway)** — 3 new showtimes across 1 show

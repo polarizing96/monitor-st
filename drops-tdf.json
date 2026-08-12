@@ -1335,5 +1335,15 @@
       "01tPe00000IhBdpIAF"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Paranormal Activity\n  Broadway · August Wilson Theatre — Thu, 8/20: 8:00pm · Sun, 8/23: 2:00pm, 7:30pm"
+  },
+  {
+    "detected_at": "2026-08-12T19:01:08.384Z",
+    "count": 3,
+    "showtime_ids": [
+      "01tPe00000Iht5KIAR",
+      "01tPe00000Ii4brIAB",
+      "01tPe00000Ii4bsIAB"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 2 shows\n\n🎬 Truly, Howard Hughes\n  Off Broadway · The York Theatre at The Theatre at St Jean's — Tue, 9/22: 7:30pm\n🎬 Kilgallen\n  Off Broadway · The York Theatre at The Theatre at St Jean's — Tue, 12/8: 7:30pm · Wed, 12/9: 7:30pm"
   }
 ]
