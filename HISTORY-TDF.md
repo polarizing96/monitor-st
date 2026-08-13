@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Thu, Aug 13, 9:00 AM ET · 1 new
+
+**TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
+
+**Hadestown**
+- **Broadway · Walter Kerr Theatre** — Thu, 8/13: [7:00pm](https://members.tdf.org/store/product/hadestown/01tPe00000H2icfIAB)
+
 ## Wed, Aug 12, 6:01 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
