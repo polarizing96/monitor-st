@@ -1361,5 +1361,24 @@
       "01tPe00000ImEW9IAN"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Hadestown\n  Broadway · Walter Kerr Theatre — Thu, 8/13: 7:00pm"
+  },
+  {
+    "detected_at": "2026-08-13T20:01:09.926Z",
+    "count": 12,
+    "showtime_ids": [
+      "01tPe00000ImoMvIAJ",
+      "01tPe00000ImoN6IAJ",
+      "01tPe00000ImoMwIAJ",
+      "01tPe00000ImoN5IAJ",
+      "01tPe00000ImoMxIAJ",
+      "01tPe00000ImoN4IAJ",
+      "01tPe00000ImoMyIAJ",
+      "01tPe00000ImoN3IAJ",
+      "01tPe00000ImoMzIAJ",
+      "01tPe00000ImoN2IAJ",
+      "01tPe00000ImoN0IAJ",
+      "01tPe00000ImoN1IAJ"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 12 new showtimes · 1 show\n\n🎬 Peribáñez y el Comendador de Ocaña\n  Off Broadway · Teatro Circulo — Fri, 9/18: 7:00pm · Sat, 9/19: 2:00pm, 7:00pm · Sun, 9/20: 2:00pm · Fri, 9/25: 7:00pm · Sat, 9/26: 2:00pm, 7:00pm · Sun, 9/27: 2:00pm · Fri, 10/2: 7:00pm · Sat, 10/3: 2:00pm, 7:00pm · Sun, 10/4: 2:00pm"
   }
 ]

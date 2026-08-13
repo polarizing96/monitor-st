@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Thu, Aug 13, 4:01 PM ET · 12 new
+
+**TDF (Broadway/Off-Broadway)** — 12 new showtimes across 1 show
+
+**Peribáñez y el Comendador de Ocaña**
+- **Off Broadway · Teatro Circulo** — Fri, 9/18: [7:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Sat, 9/19: [2:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ), [7:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Sun, 9/20: [2:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Fri, 9/25: [7:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Sat, 9/26: [2:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ), [7:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Sun, 9/27: [2:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Fri, 10/2: [7:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Sat, 10/3: [2:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ), [7:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ) · Sun, 10/4: [2:00pm](https://members.tdf.org/store/product/perib-ez-y-el-comendador-de-oca-a/01tPe00000ImnTtIAJ)
+
 ## Thu, Aug 13, 9:00 AM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
