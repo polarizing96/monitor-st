@@ -1380,5 +1380,13 @@
       "01tPe00000ImoN1IAJ"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 12 new showtimes · 1 show\n\n🎬 Peribáñez y el Comendador de Ocaña\n  Off Broadway · Teatro Circulo — Fri, 9/18: 7:00pm · Sat, 9/19: 2:00pm, 7:00pm · Sun, 9/20: 2:00pm · Fri, 9/25: 7:00pm · Sat, 9/26: 2:00pm, 7:00pm · Sun, 9/27: 2:00pm · Fri, 10/2: 7:00pm · Sat, 10/3: 2:00pm, 7:00pm · Sun, 10/4: 2:00pm"
+  },
+  {
+    "detected_at": "2026-08-13T22:00:59.433Z",
+    "count": 1,
+    "showtime_ids": [
+      "01tPe00000Incg5IAB"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Titanique\n  Broadway · St. James Theatre — Sat, 8/15: 8:00pm"
   }
 ]

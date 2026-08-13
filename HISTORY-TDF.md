@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Thu, Aug 13, 6:00 PM ET · 1 new
+
+**TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
+
+**Titanique**
+- **Broadway · St. James Theatre** — Sat, 8/15: [8:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
 ## Thu, Aug 13, 4:01 PM ET · 12 new
 
 **TDF (Broadway/Off-Broadway)** — 12 new showtimes across 1 show
