@@ -1,5 +1,28 @@
 # Daily showtimes digest
 
+## Friday, August 14 · 17 showtimes · 6 venues
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83948), [3:45pm](https://purchase.filmlinc.org/83634/83949), [6:15pm](https://purchase.filmlinc.org/83634/83950), [8:45pm](https://purchase.filmlinc.org/83634/83951)
+
+### Howard Gilman
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83976), [3:00pm](https://purchase.filmlinc.org/83373/83977), [6:00pm](https://purchase.filmlinc.org/83373/83978), [9:00pm](https://purchase.filmlinc.org/83373/83980)
+
+### Jazz at Lincoln Center
+- **Warren Wolf with Alex Brown and Strings perform Chick Corea's Lyric Suite for Sextet** — [7:00pm](https://ticketing.jazz.org/21211/21216), [9:00pm](https://ticketing.jazz.org/21211/21217)
+
+### Lincoln Center Theater
+- **Ragtime** — [7:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Walter Reade
+- **Goody Goody** — [6:45pm](https://purchase.filmlinc.org/83549/83550)
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/84004), [3:30pm](https://purchase.filmlinc.org/83310/84005)
+- **The Weed Eaters** — [9:00pm](https://purchase.filmlinc.org/83573/83574)
+
 ## Thursday, August 13 · 53 showtimes · 32 venues
 
 ### 59E59 Theaters
