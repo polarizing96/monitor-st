@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 14, 3:01 PM ET · 1 new
+
+**TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
+
+**America, Who Hurt You?**
+- **Off Broadway · Polonsky Shakespeare Center** — Sat, 9/12: [7:30pm](https://members.tdf.org/store/product/america-who-hurt-you/01tPe00000IUN85IAH)
+
 ## Fri, Aug 14, 12:00 PM ET · 12 new
 
 **TDF (Broadway/Off-Broadway)** — 12 new showtimes across 2 shows
