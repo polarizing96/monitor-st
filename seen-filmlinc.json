@@ -512,10 +512,10 @@
   "83548": {
     "date": "2026-08-19",
     "dt": "2026-08-19T22:30:00.000Z",
-    "status": "standby",
+    "status": "limited",
     "movie": "Family Movie",
     "first_seen": "2026-07-25T12:05:27.485Z",
-    "status_changed": "2026-08-12T23:10:21.712Z"
+    "status_changed": "2026-08-14T21:30:22.921Z"
   },
   "83550": {
     "date": "2026-08-14",
