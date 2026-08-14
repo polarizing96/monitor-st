@@ -1398,5 +1398,13 @@
       "01tPe00000IpeQvIAJ"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 Isla\n  Off Broadway · WP Theater — Sat, 8/15: 7:00pm · Sun, 8/16: 2:00pm · Mon, 8/17: 7:00pm"
+  },
+  {
+    "detected_at": "2026-08-14T14:01:01.731Z",
+    "count": 1,
+    "showtime_ids": [
+      "01tPe00000IpdRbIAJ"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Hershey Felder: The Piano and Me\n  Off Broadway · 59E59 Theaters — Sat, 8/15: 2:00pm"
   }
 ]
