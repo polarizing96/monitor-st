@@ -7208,5 +7208,89 @@
     "status": null,
     "movie": "Hershey Felder: The Piano and Me",
     "first_seen": "2026-08-14T14:01:01.405Z"
+  },
+  "01tPe00000IqHlkIAF": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T17:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-14T16:00:57.958Z"
+  },
+  "01tPe00000IqHljIAF": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T17:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-14T16:00:57.958Z"
+  },
+  "01tPe00000IqHliIAF": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T23:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-14T16:00:57.958Z"
+  },
+  "01tPe00000IqHlhIAF": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T23:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-14T16:00:57.958Z"
+  },
+  "01tPe00000IqHlgIAF": {
+    "date": "2026-08-21",
+    "dt": "2026-08-21T23:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-14T16:00:57.958Z"
+  },
+  "01tPe00000IqHlfIAF": {
+    "date": "2026-08-19",
+    "dt": "2026-08-19T23:00:00Z",
+    "status": null,
+    "movie": "Stranger Things: The First Shadow",
+    "first_seen": "2026-08-14T16:00:57.958Z"
+  },
+  "01tPe00000IqJHIIA3": {
+    "date": "2026-08-29",
+    "dt": "2026-08-30T00:00:00Z",
+    "status": null,
+    "movie": "The Real Ivanov",
+    "first_seen": "2026-08-14T16:00:57.959Z"
+  },
+  "01tPe00000IqJHHIA3": {
+    "date": "2026-08-29",
+    "dt": "2026-08-29T18:00:00Z",
+    "status": null,
+    "movie": "The Real Ivanov",
+    "first_seen": "2026-08-14T16:00:57.959Z"
+  },
+  "01tPe00000IqJHGIA3": {
+    "date": "2026-08-28",
+    "dt": "2026-08-28T23:00:00Z",
+    "status": null,
+    "movie": "The Real Ivanov",
+    "first_seen": "2026-08-14T16:00:57.959Z"
+  },
+  "01tPe00000IqJHFIA3": {
+    "date": "2026-08-27",
+    "dt": "2026-08-27T23:00:00Z",
+    "status": null,
+    "movie": "The Real Ivanov",
+    "first_seen": "2026-08-14T16:00:57.959Z"
+  },
+  "01tPe00000IqJHEIA3": {
+    "date": "2026-08-26",
+    "dt": "2026-08-26T23:00:00Z",
+    "status": null,
+    "movie": "The Real Ivanov",
+    "first_seen": "2026-08-14T16:00:57.959Z"
+  },
+  "01tPe00000IqJHDIA3": {
+    "date": "2026-08-25",
+    "dt": "2026-08-25T23:00:00Z",
+    "status": null,
+    "movie": "The Real Ivanov",
+    "first_seen": "2026-08-14T16:00:57.959Z"
   }
 }

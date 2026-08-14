@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 14, 12:00 PM ET · 12 new
+
+**TDF (Broadway/Off-Broadway)** — 12 new showtimes across 2 shows
+
+**Stranger Things: The First Shadow**
+- **Broadway · Marquis Theatre** — Wed, 8/19: [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Fri, 8/21: [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Sat, 8/22: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB), [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Sun, 8/23: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB), [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+**The Real Ivanov**
+- **Off Broadway · Lynn F. Angelson Theater** — Tue, 8/25: [7:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB) · Wed, 8/26: [7:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB) · Thu, 8/27: [7:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB) · Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB) · Sat, 8/29: [2:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB), [8:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB)
+
 ## Fri, Aug 14, 10:01 AM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
