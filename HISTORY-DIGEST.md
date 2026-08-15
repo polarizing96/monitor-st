@@ -1,5 +1,26 @@
 # Daily showtimes digest
 
+## Saturday, August 15 · 18 showtimes · 5 venues
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83952), [3:45pm](https://purchase.filmlinc.org/83634/83953), [6:15pm](https://purchase.filmlinc.org/83634/83954), [8:45pm](https://purchase.filmlinc.org/83634/83955)
+
+### Howard Gilman
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83981), [3:00pm](https://purchase.filmlinc.org/83373/83982), [6:00pm](https://purchase.filmlinc.org/83373/83983), [9:00pm](https://purchase.filmlinc.org/83373/83984)
+
+### Jazz at Lincoln Center
+- **Warren Wolf with Alex Brown and Strings perform Chick Corea's Lyric Suite for Sextet** — [7:00pm](https://ticketing.jazz.org/21211/21218), [9:00pm](https://ticketing.jazz.org/21211/21219)
+
+### Lincoln Center Theater
+- **Ragtime** — [2:00pm](https://lct.org/shows/ragtime/), [8:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [2:00pm](https://lct.org/shows/the-whoopi-monologues/), [8:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Walter Reade
+- **Never After Dark** — [6:30pm](https://purchase.filmlinc.org/83554/83555)
+- **Sudden Fury** — [9:15pm](https://purchase.filmlinc.org/83561/83562)
+- **The Weed Eaters** — [2:00pm](https://purchase.filmlinc.org/83573/83575)
+- **Veins** — [4:00pm](https://purchase.filmlinc.org/83571/83572)
+
 ## Saturday, August 15 · 20 showtimes · 6 venues
 
 ### Atlantic Theater Company's Linda Gross Theater
