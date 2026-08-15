@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Sat, Aug 15, 1:00 PM ET · 10 new
+
+**TDF (Broadway/Off-Broadway)** — 10 new showtimes across 1 show
+
+**Six**
+- **Broadway · Lena Horne Theatre** — Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF) · Sat, 8/22: [8:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF) · Sun, 8/23: [2:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF), [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF) · Mon, 8/24: [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF) · Thu, 8/27: [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF) · Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF) · Sat, 8/29: [3:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF), [8:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF) · Sun, 8/30: [7:00pm](https://members.tdf.org/store/product/six/01tPe00000H4B4jIAF)
+
 ## Fri, Aug 14, 4:00 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
