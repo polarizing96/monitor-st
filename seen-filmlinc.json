@@ -2851,9 +2851,10 @@
   "83982": {
     "date": "2026-08-15",
     "dt": "2026-08-15T19:00:00.000Z",
-    "status": "available",
+    "status": "limited",
     "movie": "The Samurai and the Prisoner",
-    "first_seen": "2026-08-10T15:50:24.710Z"
+    "first_seen": "2026-08-10T15:50:24.710Z",
+    "status_changed": "2026-08-15T19:00:26.200Z"
   },
   "83983": {
     "date": "2026-08-15",
