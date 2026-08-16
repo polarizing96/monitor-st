@@ -591,9 +591,10 @@
   "83570": {
     "date": "2026-08-16",
     "dt": "2026-08-16T19:45:00.000Z",
-    "status": "available",
+    "status": "limited",
     "movie": "The Trek",
-    "first_seen": "2026-07-25T12:05:27.487Z"
+    "first_seen": "2026-07-25T12:05:27.487Z",
+    "status_changed": "2026-08-16T03:00:26.907Z"
   },
   "83572": {
     "date": "2026-08-15",
