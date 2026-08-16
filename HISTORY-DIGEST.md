@@ -1,5 +1,25 @@
 # Daily showtimes digest
 
+## Sunday, August 16 · 15 showtimes · 5 venues
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83956), [3:45pm](https://purchase.filmlinc.org/83634/83957), [6:15pm](https://purchase.filmlinc.org/83634/83958), [8:45pm](https://purchase.filmlinc.org/83634/83959)
+
+### Howard Gilman
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83985), [3:00pm](https://purchase.filmlinc.org/83373/83986), [6:00pm](https://purchase.filmlinc.org/83373/83987), [9:00pm](https://purchase.filmlinc.org/83373/83988)
+
+### Jazz at Lincoln Center
+- **Warren Wolf with Alex Brown and Strings perform Chick Corea's Lyric Suite for Sextet** — [5:00pm](https://ticketing.jazz.org/21211/21221), [7:30pm](https://ticketing.jazz.org/21211/21222)
+
+### Lincoln Center Theater
+- **Ragtime** — [3:00pm](https://lct.org/shows/ragtime/)
+- **The Whoopi Monologues** — [3:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Walter Reade
+- **Henry: Portrait Serial Killer** — [6:30pm](https://purchase.filmlinc.org/83552/83553)
+- **Superbuhei** — [8:45pm](https://purchase.filmlinc.org/83563/83564)
+- **The Trek** — [3:45pm](https://purchase.filmlinc.org/83569/83570)
+
 ## Saturday, August 15 · 18 showtimes · 5 venues
 
 ### Francesca Beale
