@@ -1458,5 +1458,23 @@
       "01tPe00000IyIG4IAN"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 10 new showtimes · 1 show\n\n🎬 Six\n  Broadway · Lena Horne Theatre — Thu, 8/20: 7:00pm · Sat, 8/22: 8:00pm · Sun, 8/23: 2:00pm, 7:00pm · Mon, 8/24: 7:00pm · Thu, 8/27: 7:00pm · Fri, 8/28: 7:00pm · Sat, 8/29: 3:00pm, 8:00pm · Sun, 8/30: 7:00pm"
+  },
+  {
+    "detected_at": "2026-08-16T21:00:54.477Z",
+    "count": 11,
+    "showtime_ids": [
+      "01tPe00000IzL0WIAV",
+      "01tPe00000IzL0aIAF",
+      "01tPe00000IzL0eIAF",
+      "01tPe00000IzL0XIAV",
+      "01tPe00000IzL0bIAF",
+      "01tPe00000IzL0fIAF",
+      "01tPe00000IzL0YIAV",
+      "01tPe00000IzL0cIAF",
+      "01tPe00000IzL0gIAF",
+      "01tPe00000IzL0ZIAV",
+      "01tPe00000IzL0dIAF"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 11 new showtimes · 1 show\n\n🎬 The Circuit: An Immersive Silent Disco Ballet\n  Off Broadway · Superfine — Thu, 8/20: 7:30pm, 8:15pm, 9:30pm · Fri, 8/21: 7:30pm, 8:15pm, 9:30pm · Sat, 8/22: 7:30pm, 8:15pm, 9:30pm · Sun, 8/23: 7:30pm, 8:15pm"
   }
 ]
