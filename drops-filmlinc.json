@@ -588,5 +588,13 @@
       "84047"
     ],
     "summary": "Film at Lincoln Center — 26 new showtimes · 1 movie\n\n🎬 The Samurai and the Prisoner\n  Howard Gilman — Fri, 8/21: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Sat, 8/22: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Sun, 8/23: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Mon, 8/24: 12:00pm, 3:00pm, 8:30pm · Tue, 8/25: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Wed, 8/26: 12:00pm, 3:00pm, 6:00pm, 9:00pm · Thu, 8/27: 12:00pm, 3:00pm, 6:00pm"
+  },
+  {
+    "detected_at": "2026-08-17T14:30:24.610Z",
+    "count": 1,
+    "showtime_ids": [
+      "84048"
+    ],
+    "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 The Samurai and the Prisoner\n  Howard Gilman — Thu, 8/27: 9:00pm"
   }
 ]

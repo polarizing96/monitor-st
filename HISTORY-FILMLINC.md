@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 17, 10:30 AM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**The Samurai and the Prisoner**
+- **Howard Gilman** — Thu, 8/27: [9:00pm](https://purchase.filmlinc.org/83373/84048)
+
 ## Mon, Aug 17, 10:20 AM ET · 26 new
 
 **Film at Lincoln Center** — 26 new showtimes across 1 movie
