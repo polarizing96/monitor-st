@@ -1,5 +1,14 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 17, 2:30 PM ET · 27 new
+
+**Film at Lincoln Center** — 27 new showtimes across 1 movie
+
+**Late Fame**
+- **Francesca Beale** — Fri, 8/21: [1:15pm](https://purchase.filmlinc.org/83634/84049), [3:45pm](https://purchase.filmlinc.org/83634/84050), [6:15pm](https://purchase.filmlinc.org/83634/84051), [8:45pm](https://purchase.filmlinc.org/83634/84052) · Sat, 8/22: [1:15pm](https://purchase.filmlinc.org/83634/84054), [3:45pm](https://purchase.filmlinc.org/83634/84053), [6:15pm](https://purchase.filmlinc.org/83634/84055), [8:45pm](https://purchase.filmlinc.org/83634/84056) · Sun, 8/23: [1:15pm](https://purchase.filmlinc.org/83634/84057), [3:45pm](https://purchase.filmlinc.org/83634/84058), [6:15pm](https://purchase.filmlinc.org/83634/84059), [8:45pm](https://purchase.filmlinc.org/83634/84060) · Tue, 8/25: [1:15pm](https://purchase.filmlinc.org/83634/84065), [3:45pm](https://purchase.filmlinc.org/83634/84066), [6:15pm](https://purchase.filmlinc.org/83634/84067), [8:45pm](https://purchase.filmlinc.org/83634/84068) · Wed, 8/26: [1:15pm](https://purchase.filmlinc.org/83634/84069), [3:45pm](https://purchase.filmlinc.org/83634/84070), [6:15pm](https://purchase.filmlinc.org/83634/84071), [8:45pm](https://purchase.filmlinc.org/83634/84072) · Thu, 8/27: [1:15pm](https://purchase.filmlinc.org/83634/84073), [3:45pm](https://purchase.filmlinc.org/83634/84074), [6:15pm](https://purchase.filmlinc.org/83634/84075), [8:45pm](https://purchase.filmlinc.org/83634/84076)
+- **Walter Reade** — Mon, 8/24: [12:15pm](https://purchase.filmlinc.org/83634/84061), [2:45pm](https://purchase.filmlinc.org/83634/84062)
+- **Howard Gilman** — Mon, 8/24: [6:15pm](https://purchase.filmlinc.org/83634/84063)
+
 ## Mon, Aug 17, 10:30 AM ET · 1 new
 
 **Film at Lincoln Center** — 1 new showtime across 1 movie
