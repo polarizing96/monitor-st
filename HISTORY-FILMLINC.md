@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Mon, Aug 17, 10:20 AM ET · 26 new
+
+**Film at Lincoln Center** — 26 new showtimes across 1 movie
+
+**The Samurai and the Prisoner**
+- **Howard Gilman** — Fri, 8/21: [12:00pm](https://purchase.filmlinc.org/83373/84022), [3:00pm](https://purchase.filmlinc.org/83373/84023), [6:00pm](https://purchase.filmlinc.org/83373/84024), [9:00pm](https://purchase.filmlinc.org/83373/84025) · Sat, 8/22: [12:00pm](https://purchase.filmlinc.org/83373/84026), [3:00pm](https://purchase.filmlinc.org/83373/84028), [6:00pm](https://purchase.filmlinc.org/83373/84029), [9:00pm](https://purchase.filmlinc.org/83373/84030) · Sun, 8/23: [12:00pm](https://purchase.filmlinc.org/83373/84027), [3:00pm](https://purchase.filmlinc.org/83373/84031), [6:00pm](https://purchase.filmlinc.org/83373/84032), [9:00pm](https://purchase.filmlinc.org/83373/84033) · Mon, 8/24: [12:00pm](https://purchase.filmlinc.org/83373/84034), [3:00pm](https://purchase.filmlinc.org/83373/84035), [8:30pm](https://purchase.filmlinc.org/83373/84036) · Tue, 8/25: [12:00pm](https://purchase.filmlinc.org/83373/84037), [3:00pm](https://purchase.filmlinc.org/83373/84038), [6:00pm](https://purchase.filmlinc.org/83373/84039), [9:00pm](https://purchase.filmlinc.org/83373/84040) · Wed, 8/26: [12:00pm](https://purchase.filmlinc.org/83373/84041), [3:00pm](https://purchase.filmlinc.org/83373/84042), [6:00pm](https://purchase.filmlinc.org/83373/84043), [9:00pm](https://purchase.filmlinc.org/83373/84044) · Thu, 8/27: [12:00pm](https://purchase.filmlinc.org/83373/84045), [3:00pm](https://purchase.filmlinc.org/83373/84046), [6:00pm](https://purchase.filmlinc.org/83373/84047)
+
 ## Wed, Aug 12, 12:30 PM ET · 1 new
 
 **Film at Lincoln Center** — 1 new showtime across 1 movie
