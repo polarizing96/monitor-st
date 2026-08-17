@@ -20,6 +20,26 @@
 - **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/84007), [3:30pm](https://purchase.filmlinc.org/83310/84006)
 - **Wendigo** — [6:30pm](https://purchase.filmlinc.org/83576/83577)
 
+## Monday, August 17 · 17 showtimes · 5 venues
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83960), [3:45pm](https://purchase.filmlinc.org/83634/83961), [6:15pm](https://purchase.filmlinc.org/83634/83962), [8:45pm](https://purchase.filmlinc.org/83634/83963)
+
+### Howard Gilman
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83989), [3:00pm](https://purchase.filmlinc.org/83373/83990), [6:00pm](https://purchase.filmlinc.org/83373/83991), [9:00pm](https://purchase.filmlinc.org/83373/83992)
+
+### Jazz at Lincoln Center
+- **Jason Marshall Big Band** — [7:00pm](https://ticketing.jazz.org/21223/21224), [9:00pm](https://ticketing.jazz.org/21223/21225)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+- **Relaxed Campus Tours** — [10:15am](https://lincolncenter.org/i/about/lincoln-center-tours-1-900), [12:00pm](https://lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Walter Reade
+- **Goody Goody** — [9:00pm](https://purchase.filmlinc.org/83549/83551)
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/84007), [3:30pm](https://purchase.filmlinc.org/83310/84006)
+- **Wendigo** — [6:30pm](https://purchase.filmlinc.org/83576/83577)
+
 ## Sunday, August 16 · 15 showtimes · 5 venues
 
 ### Francesca Beale
