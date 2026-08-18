@@ -1,5 +1,57 @@
 # Daily showtimes digest
 
+## Tuesday, August 18 · 25 showtimes · 16 venues
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83964), [3:45pm](https://purchase.filmlinc.org/83634/83965), [6:15pm](https://purchase.filmlinc.org/83634/83966), [8:45pm](https://purchase.filmlinc.org/83634/83967)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83993), [3:00pm](https://purchase.filmlinc.org/83373/83994), [6:00pm](https://purchase.filmlinc.org/83373/83995), [9:00pm](https://purchase.filmlinc.org/83373/83996)
+
+### Jazz at Lincoln Center
+- **Marius Van Den Brink Sextet** — [7:00pm](https://ticketing.jazz.org/21226/21227), [9:00pm](https://ticketing.jazz.org/21226/21228)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### Lynn F. Angelson Theater
+- **The Real Ivanov** — [8:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB)
+
+### Palace Theatre
+- **The Lost Boys** — [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+### St. James Theatre
+- **Titanique** — [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+### Stephen Sondheim Theatre
+- **& Juliet** — [7:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [7:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The Theater Center
+- **Perfect Crime** — [8:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+
+### Walter Reade
+- **Bodyhackers** — [9:15pm](https://purchase.filmlinc.org/83541/83542)
+- **Something Real** — [6:15pm](https://purchase.filmlinc.org/83559/83560)
+- **The Piano** — [3:30pm](https://purchase.filmlinc.org/83310/84008)
+
 ## Monday, August 17 · 17 showtimes · 5 venues
 
 ### Francesca Beale
