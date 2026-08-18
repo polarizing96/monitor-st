@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Aug 18, 3:00 PM ET · 8 new
+
+**TDF (Broadway/Off-Broadway)** — 8 new showtimes across 1 show
+
+**Two Strangers (Carry a Cake Across New York)**
+- **Broadway · Longacre Theatre** — Tue, 8/25: [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Wed, 8/26: [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Thu, 8/27: [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Fri, 8/28: [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Sat, 8/29: [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [8:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB) · Sun, 8/30: [3:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
 ## Tue, Aug 18, 2:00 PM ET · 6 new
 
 **TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows
