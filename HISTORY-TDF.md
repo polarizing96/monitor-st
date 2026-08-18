@@ -1,5 +1,30 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Aug 18, 3:01 AM ET · 51 new
+
+**TDF (Broadway/Off-Broadway)** — 51 new showtimes across 7 shows
+
+**The Pass**
+- **Off Broadway · Ellen Stewart Theatre at La MaMa** — Wed, 8/19: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Fri, 8/21: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Sat, 8/22: [2:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB), [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Sun, 8/23: [1:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB), [5:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB) · Mon, 8/24: [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+**The Vessel**
+- **Off Broadway · 59E59 Theaters** — Thu, 8/20: [2:30pm](https://members.tdf.org/store/product/the-vessel/01tPe00000J0RrhIAF)
+
+**Titanique**
+- **Broadway · St. James Theatre** — Thu, 8/20: [3:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Mon, 8/24: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Wed, 8/26: [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ) · Thu, 8/27: [3:00pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ), [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+**Amaze Magic**
+- **Off Broadway · New World Stages** — Thu, 8/20: [5:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB), [8:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB) · Sun, 8/23: [12:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB) · Sat, 8/29: [5:00pm](https://members.tdf.org/store/product/amaze-magic/01tPe00000H2pvtIAB)
+
+**The Book of Mormon**
+- **Broadway · Eugene O'Neill Theatre** — Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/the-book-of-mormon/01tPe00000Hazb3IAB) · Fri, 8/21: [7:00pm](https://members.tdf.org/store/product/the-book-of-mormon/01tPe00000Hazb3IAB) · Sat, 8/22: [2:00pm](https://members.tdf.org/store/product/the-book-of-mormon/01tPe00000Hazb3IAB) · Sun, 8/23: [2:00pm](https://members.tdf.org/store/product/the-book-of-mormon/01tPe00000Hazb3IAB)
+
+**The Lost Boys**
+- **Broadway · Palace Theatre** — Thu, 8/20: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Fri, 8/21: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Wed, 8/26: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Thu, 8/27: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Sun, 8/30: [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+**Petite Rouge - by Company XIV**
+- **Off Broadway · Theatre XIV** — Fri, 9/11: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sat, 9/12: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sun, 9/13: [6:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Thu, 9/17: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Fri, 9/18: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sat, 9/19: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sun, 9/20: [6:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Thu, 9/24: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Fri, 9/25: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sat, 9/26: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sun, 9/27: [6:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Thu, 10/1: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Fri, 10/2: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sat, 10/3: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sun, 10/4: [6:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Thu, 10/8: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Fri, 10/9: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sat, 10/10: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sun, 10/11: [6:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Thu, 10/15: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Fri, 10/16: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sat, 10/17: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Sun, 10/18: [6:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV) · Thu, 10/22: [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV)
+
 ## Sun, Aug 16, 5:00 PM ET · 11 new
 
 **TDF (Broadway/Off-Broadway)** — 11 new showtimes across 1 show
