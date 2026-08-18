@@ -3458,5 +3458,19 @@
     "status": "available",
     "movie": "Late Fame",
     "first_seen": "2026-08-17T18:30:21.567Z"
+  },
+  "84106": {
+    "date": "2026-09-03",
+    "dt": "2026-09-04T00:00:00.000Z",
+    "status": "available",
+    "movie": "ATH SeatMap Tests",
+    "first_seen": "2026-08-18T20:30:21.353Z"
+  },
+  "84107": {
+    "date": "2026-09-03",
+    "dt": "2026-09-04T00:00:00.000Z",
+    "status": "available",
+    "movie": "ATH SeatMap Tests",
+    "first_seen": "2026-08-18T20:30:21.353Z"
   }
 }

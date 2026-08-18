@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Tue, Aug 18, 4:30 PM ET · 2 new
+
+**Film at Lincoln Center** — 2 new showtimes across 1 movie
+
+**ATH SeatMap Tests**
+- **Alice Tully Hall** — Thu, 9/3: [8:00pm](https://purchase.filmlinc.org/84101/84106), [8:00pm](https://purchase.filmlinc.org/84101/84107)
+
 ## Mon, Aug 17, 2:30 PM ET · 27 new
 
 **Film at Lincoln Center** — 27 new showtimes across 1 movie
