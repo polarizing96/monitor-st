@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Aug 18, 5:00 PM ET · 6 new
+
+**TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows
+
+**& Juliet**
+- **Broadway · Stephen Sondheim Theatre** — Fri, 8/21: [8:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB) · Sat, 8/22: [2:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB), [8:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+**Maybe Happy Ending**
+- **Broadway · Belasco Theatre** — Wed, 8/26: [2:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ), [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ) · Wed, 9/2: [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ)
+
 ## Tue, Aug 18, 3:00 PM ET · 8 new
 
 **TDF (Broadway/Off-Broadway)** — 8 new showtimes across 1 show

@@ -1578,5 +1578,18 @@
       "01tPe00000J26pZIAR"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 8 new showtimes · 1 show\n\n🎬 Two Strangers (Carry a Cake Across New York)\n  Broadway · Longacre Theatre — Tue, 8/25: 7:30pm · Wed, 8/26: 2:00pm, 7:30pm · Thu, 8/27: 7:30pm · Fri, 8/28: 7:30pm · Sat, 8/29: 2:00pm, 8:00pm · Sun, 8/30: 3:00pm"
+  },
+  {
+    "detected_at": "2026-08-18T21:00:58.676Z",
+    "count": 6,
+    "showtime_ids": [
+      "01tPe00000J0IrdIAF",
+      "01tPe00000J0IurIAF",
+      "01tPe00000J0IwTIAV",
+      "01tPe00000J2FWHIA3",
+      "01tPe00000J2FT3IAN",
+      "01tPe00000J2FknIAF"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 2 shows\n\n🎬 & Juliet\n  Broadway · Stephen Sondheim Theatre — Fri, 8/21: 8:00pm · Sat, 8/22: 2:00pm, 8:00pm\n🎬 Maybe Happy Ending\n  Broadway · Belasco Theatre — Wed, 8/26: 2:00pm, 7:00pm · Wed, 9/2: 7:00pm"
   }
 ]
