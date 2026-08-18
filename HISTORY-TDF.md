@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Tue, Aug 18, 2:00 PM ET · 6 new
+
+**TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows
+
+**Speakeasy, Die Softly**
+- **Off Broadway · Carmine's Times Square** — Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB) · Sat, 8/29: [4:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB), [8:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB) · Sun, 8/30: [5:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB)
+
+**The Great Gatsby**
+- **Broadway · Broadway Theatre** — Sat, 8/29: [2:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ) · Thu, 9/3: [7:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ)
+
 ## Tue, Aug 18, 12:00 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show

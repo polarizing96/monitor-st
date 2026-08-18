@@ -1550,5 +1550,18 @@
       "01tPe00000J1ubVIAR"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 Hadestown\n  Broadway · Walter Kerr Theatre — Wed, 8/19: 2:00pm"
+  },
+  {
+    "detected_at": "2026-08-18T18:00:58.149Z",
+    "count": 6,
+    "showtime_ids": [
+      "01tPe00000J21UzIAJ",
+      "01tPe00000J20QnIAJ",
+      "01tPe00000J21V0IAJ",
+      "01tPe00000J21V1IAJ",
+      "01tPe00000J21V2IAJ",
+      "01tPe00000J20aTIAR"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 2 shows\n\n🎬 Speakeasy, Die Softly\n  Off Broadway · Carmine's Times Square — Fri, 8/28: 7:00pm · Sat, 8/29: 4:00pm, 8:00pm · Sun, 8/30: 5:00pm\n🎬 The Great Gatsby\n  Broadway · Broadway Theatre — Sat, 8/29: 2:00pm · Thu, 9/3: 7:00pm"
   }
 ]
