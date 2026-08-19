@@ -490,9 +490,10 @@
   "83542": {
     "date": "2026-08-18",
     "dt": "2026-08-19T01:15:00.000Z",
-    "status": "available",
+    "status": "limited",
     "movie": "Bodyhackers",
-    "first_seen": "2026-07-25T12:05:27.485Z"
+    "first_seen": "2026-07-25T12:05:27.485Z",
+    "status_changed": "2026-08-19T01:10:20.581Z"
   },
   "83544": {
     "date": "2026-08-12",
