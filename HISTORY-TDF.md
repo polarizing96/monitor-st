@@ -1,5 +1,33 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Wed, Aug 19, 6:00 PM ET · 30 new
+
+**TDF (Broadway/Off-Broadway)** — 30 new showtimes across 8 shows
+
+**Brooklyn's Bridge**
+- **Off Broadway · The Space at Irondale** — Wed, 8/19: [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Thu, 8/20: [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT) · Fri, 8/21: [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT)
+
+**Isla**
+- **Off Broadway · WP Theater** — Fri, 8/21: [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5) · Sun, 8/23: [2:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5), [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5) · Mon, 8/24: [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
+
+**Buena Vista Social Club**
+- **Broadway · Gerald Schoenfeld Theatre** — Tue, 8/25: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Wed, 8/26: [2:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Thu, 8/27: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ) · Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+**Cat Cohen: Broad Strokes**
+- **Off Broadway · Lucille Lortel Theatre** — Mon, 8/31: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Tue, 9/1: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Wed, 9/2: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Thu, 9/3: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Fri, 9/4: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Sat, 9/5: [5:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL), [8:30pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Sun, 9/6: [5:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Tue, 9/8: [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL) · Sat, 9/12: [8:30pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+**Maybe Happy Ending**
+- **Broadway · Belasco Theatre** — Tue, 9/1: [7:00pm](https://members.tdf.org/store/product/maybe-happy-ending/01tPe00000H7kPKIAZ)
+
+**The Lost Boys**
+- **Broadway · Palace Theatre** — Tue, 9/1: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Wed, 9/2: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Wed, 9/23: [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Wed, 9/30: [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+**Truly, Howard Hughes**
+- **Off Broadway · The York Theatre at The Theatre at St Jean's** — Wed, 9/23: [7:30pm](https://members.tdf.org/store/product/truly-howard-hughes/01tPe00000IE4pNIAT) · Thu, 9/24: [7:30pm](https://members.tdf.org/store/product/truly-howard-hughes/01tPe00000IE4pNIAT) · Fri, 9/25: [7:30pm](https://members.tdf.org/store/product/truly-howard-hughes/01tPe00000IE4pNIAT)
+
+**Kilgallen**
+- **Off Broadway · The York Theatre at The Theatre at St Jean's** — Fri, 12/11: [7:30pm](https://members.tdf.org/store/product/kilgallen/01tPe00000IE5wjIAD)
+
 ## Tue, Aug 18, 6:01 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
