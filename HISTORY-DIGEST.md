@@ -1,5 +1,78 @@
 # Daily showtimes digest
 
+## Wednesday, August 19 · 38 showtimes · 22 venues
+
+### Duke on 42nd Street
+- **Label•Less** — [3:00pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN), [7:30pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/83968), [3:45pm](https://purchase.filmlinc.org/83634/83969), [9:30pm](https://purchase.filmlinc.org/83634/83970)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [2:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ), [7:30pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **Late Fame** — [6:15pm](https://purchase.filmlinc.org/83634/83971)
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/83997), [3:00pm](https://purchase.filmlinc.org/83373/83998), [9:00pm](https://purchase.filmlinc.org/83373/83999)
+
+### Jazz at Lincoln Center
+- **Dida Pelled: I Wish You Would** — [9:00pm](https://ticketing.jazz.org/21231/21232)
+- **Lolivone de la Rosa: Jewels Album Release** — [7:00pm](https://ticketing.jazz.org/21229/21230)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **The Whoopi Monologues** — [2:00pm](https://lct.org/shows/the-whoopi-monologues/), [8:00pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [2:00pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB), [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### Lynn F. Angelson Theater
+- **The Real Ivanov** — [8:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB)
+
+### Marquis Theatre
+- **Stranger Things: The First Shadow** — [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+### New World Stages
+- **Gazillion Bubble Show** — [11:00am](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN), [2:00pm](https://members.tdf.org/store/product/gazillion-bubble-show/01tPe00000H4GZ3IAN)
+- **The Play That Goes Wrong** — [7:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR)
+
+### Palace Theatre
+- **The Lost Boys** — [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ), [7:30pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+### St. James Theatre
+- **Titanique** — [7:30pm](https://members.tdf.org/store/product/titanique/01tPe00000GbwGyIAJ)
+
+### St. Lukes Theatre
+- **Music City** — [7:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [7:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The Juilliard School
+- **Lunch Hour Performance | Lineage of Rhythm: Bach, Brahms, Mazzoli** — [1:00pm](https://www.juilliard.edu/event/186856/lunch-hour-performance-lineage-rhythm-bach-brahms-mazzoli)
+
+### The New York Public Library for the Performing Arts
+- **Floor to Ceiling Dance and Learn: Graham Technique** — [11:00am](https://www.nypl.org/https://qa-www.nypl.org/events/programs/2026/08/06/floor-ceiling-dance-and-learn-graham-technique)
+
+### Walter Kerr Theatre
+- **Hadestown** — [2:00pm](https://members.tdf.org/store/product/hadestown/01tPe00000H2icfIAB)
+
+### Walter Reade
+- **Family Movie** — [6:30pm](https://purchase.filmlinc.org/83547/83548)
+- **Never After Dark** — [9:00pm](https://purchase.filmlinc.org/83554/83556)
+- **The Piano** — [1:00pm](https://purchase.filmlinc.org/83310/84009), [3:30pm](https://purchase.filmlinc.org/83310/84010)
+
 ## Tuesday, August 18 · 26 showtimes · 17 venues
 
 ### Francesca Beale
