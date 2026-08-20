@@ -1,5 +1,15 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 12:20 PM ET · 2 new
+
+**Film at Lincoln Center** — 2 new showtimes across 2 movies
+
+**Double Freedom**
+- **Francesca Beale** — Tue, 10/6: [6:15pm](https://purchase.filmlinc.org/84118/84173)
+
+**The Diary of a Chambermaid**
+- **Howard Gilman** — Sat, 10/10: [6:00pm](https://purchase.filmlinc.org/84117/84172)
+
 ## Thu, Aug 20, 12:10 PM ET · 9 new
 
 **Film at Lincoln Center** — 9 new showtimes across 4 movies

@@ -701,5 +701,14 @@
       "84164"
     ],
     "summary": "Film at Lincoln Center — 9 new showtimes · 4 movies\n\n🎬 I Deserve a Lover Whose Every\n  Walter Reade — Wed, 9/30: 6:15pm\n  Francesca Beale — Thu, 10/1: 9:00pm\n  Howard Gilman — Fri, 10/2: 11:30am\n🎬 Dao\n  Walter Reade — Sun, 10/4: 12:00pm\n  Francesca Beale — Sun, 10/11: 2:45pm\n🎬 The Day She Returns\n  Walter Reade — Tue, 10/6: 9:00pm\n  Howard Gilman — Thu, 10/8: 6:15pm\n🎬 The Diary of a Chambermaid\n  Walter Reade — Thu, 10/8: 4:00pm\n  Francesca Beale — Fri, 10/9: 9:00pm"
+  },
+  {
+    "detected_at": "2026-08-20T16:20:18.448Z",
+    "count": 2,
+    "showtime_ids": [
+      "84173",
+      "84172"
+    ],
+    "summary": "Film at Lincoln Center — 2 new showtimes · 2 movies\n\n🎬 Double Freedom\n  Francesca Beale — Tue, 10/6: 6:15pm\n🎬 The Diary of a Chambermaid\n  Howard Gilman — Sat, 10/10: 6:00pm"
   }
 ]

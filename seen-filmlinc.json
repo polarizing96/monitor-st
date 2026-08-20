@@ -3712,5 +3712,19 @@
     "status": "available",
     "movie": "The Diary of a Chambermaid",
     "first_seen": "2026-08-20T16:10:20.728Z"
+  },
+  "84172": {
+    "date": "2026-10-10",
+    "dt": "2026-10-10T22:00:00.000Z",
+    "status": "available",
+    "movie": "The Diary of a Chambermaid",
+    "first_seen": "2026-08-20T16:20:18.315Z"
+  },
+  "84173": {
+    "date": "2026-10-06",
+    "dt": "2026-10-06T22:15:00.000Z",
+    "status": "available",
+    "movie": "Double Freedom",
+    "first_seen": "2026-08-20T16:20:18.315Z"
   }
 }
