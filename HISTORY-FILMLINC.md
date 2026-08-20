@@ -1,5 +1,26 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 12:10 PM ET · 9 new
+
+**Film at Lincoln Center** — 9 new showtimes across 4 movies
+
+**I Deserve a Lover Whose Every**
+- **Walter Reade** — Wed, 9/30: [6:15pm](https://purchase.filmlinc.org/84116/84167)
+- **Francesca Beale** — Thu, 10/1: [9:00pm](https://purchase.filmlinc.org/84116/84168)
+- **Howard Gilman** — Fri, 10/2: [11:30am](https://purchase.filmlinc.org/84116/84169)
+
+**Dao**
+- **Walter Reade** — Sun, 10/4: [12:00pm](https://purchase.filmlinc.org/84114/84163)
+- **Francesca Beale** — Sun, 10/11: [2:45pm](https://purchase.filmlinc.org/84114/84164)
+
+**The Day She Returns**
+- **Walter Reade** — Tue, 10/6: [9:00pm](https://purchase.filmlinc.org/84115/84165)
+- **Howard Gilman** — Thu, 10/8: [6:15pm](https://purchase.filmlinc.org/84115/84166)
+
+**The Diary of a Chambermaid**
+- **Walter Reade** — Thu, 10/8: [4:00pm](https://purchase.filmlinc.org/84117/84170)
+- **Francesca Beale** — Fri, 10/9: [9:00pm](https://purchase.filmlinc.org/84117/84171)
+
 ## Thu, Aug 20, 12:00 PM ET · 5 new
 
 **Film at Lincoln Center** — 5 new showtimes across 3 movies
