@@ -3593,5 +3593,26 @@
     "status": "available",
     "movie": "ATH SeatMap Tests",
     "first_seen": "2026-08-18T20:30:21.353Z"
+  },
+  "84155": {
+    "date": "2026-10-07",
+    "dt": "2026-10-08T01:00:00.000Z",
+    "status": "available",
+    "movie": "9 Temples to Heaven",
+    "first_seen": "2026-08-20T15:50:20.053Z"
+  },
+  "84156": {
+    "date": "2026-10-08",
+    "dt": "2026-10-08T19:15:00.000Z",
+    "status": "available",
+    "movie": "9 Temples to Heaven",
+    "first_seen": "2026-08-20T15:50:20.053Z"
+  },
+  "84157": {
+    "date": "2026-10-12",
+    "dt": "2026-10-12T20:15:00.000Z",
+    "status": "available",
+    "movie": "9 Temples to Heaven",
+    "first_seen": "2026-08-20T15:50:20.053Z"
   }
 }

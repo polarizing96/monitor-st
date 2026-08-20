@@ -1,5 +1,14 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 11:50 AM ET · 3 new
+
+**Film at Lincoln Center** — 3 new showtimes across 1 movie
+
+**9 Temples to Heaven**
+- **Walter Reade** — Wed, 10/7: [9:00pm](https://purchase.filmlinc.org/84108/84155)
+- **Francesca Beale** — Thu, 10/8: [3:15pm](https://purchase.filmlinc.org/84108/84156)
+- **Howard Gilman** — Mon, 10/12: [4:15pm](https://purchase.filmlinc.org/84108/84157)
+
 ## Thu, Aug 20, 11:10 AM ET · 17 new
 
 **Film at Lincoln Center** — 17 new showtimes across 1 movie

@@ -663,5 +663,15 @@
       "84100"
     ],
     "summary": "Film at Lincoln Center — 17 new showtimes · 1 movie\n\n🎬 Marketa Lazarova\n  Francesca Beale — Fri, 9/4: 12:15pm, 3:30pm, 7:00pm · Sat, 9/5: 12:15pm, 3:30pm, 7:00pm · Sun, 9/6: 12:15pm, 3:30pm, 7:00pm\n  Walter Reade — Mon, 9/7: 12:15pm, 3:30pm, 7:00pm · Tue, 9/8: 12:15pm, 3:30pm, 7:00pm · Wed, 9/9: 6:00pm · Thu, 9/10: 6:00pm"
+  },
+  {
+    "detected_at": "2026-08-20T15:50:20.297Z",
+    "count": 3,
+    "showtime_ids": [
+      "84155",
+      "84156",
+      "84157"
+    ],
+    "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 9 Temples to Heaven\n  Walter Reade — Wed, 10/7: 9:00pm\n  Francesca Beale — Thu, 10/8: 3:15pm\n  Howard Gilman — Mon, 10/12: 4:15pm"
   }
 ]
