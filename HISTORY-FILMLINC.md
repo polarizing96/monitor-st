@@ -1,5 +1,19 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 12:00 PM ET · 5 new
+
+**Film at Lincoln Center** — 5 new showtimes across 3 movies
+
+**All of a Sudden**
+- **Francesca Beale** — Sun, 10/4: [7:30pm](https://purchase.filmlinc.org/84110/84158)
+- **Walter Reade** — Fri, 10/9: [12:30pm](https://purchase.filmlinc.org/84110/84159)
+
+**Clarissa**
+- **Francesca Beale** — Sat, 10/10: [3:00pm](https://purchase.filmlinc.org/84113/84162)
+
+**Bitter Christmas**
+- **Francesca Beale** — Sat, 10/10: [9:15pm](https://purchase.filmlinc.org/84112/84160) · Mon, 10/12: [9:15pm](https://purchase.filmlinc.org/84112/84161)
+
 ## Thu, Aug 20, 11:50 AM ET · 3 new
 
 **Film at Lincoln Center** — 3 new showtimes across 1 movie

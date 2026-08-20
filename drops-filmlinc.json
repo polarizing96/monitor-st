@@ -673,5 +673,17 @@
       "84157"
     ],
     "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 9 Temples to Heaven\n  Walter Reade — Wed, 10/7: 9:00pm\n  Francesca Beale — Thu, 10/8: 3:15pm\n  Howard Gilman — Mon, 10/12: 4:15pm"
+  },
+  {
+    "detected_at": "2026-08-20T16:00:30.074Z",
+    "count": 5,
+    "showtime_ids": [
+      "84158",
+      "84159",
+      "84162",
+      "84160",
+      "84161"
+    ],
+    "summary": "Film at Lincoln Center — 5 new showtimes · 3 movies\n\n🎬 All of a Sudden\n  Francesca Beale — Sun, 10/4: 7:30pm\n  Walter Reade — Fri, 10/9: 12:30pm\n🎬 Clarissa\n  Francesca Beale — Sat, 10/10: 3:00pm\n🎬 Bitter Christmas\n  Francesca Beale — Sat, 10/10: 9:15pm · Mon, 10/12: 9:15pm"
   }
 ]
