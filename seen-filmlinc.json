@@ -3929,5 +3929,12 @@
     "status": "available",
     "movie": "All of a Sudden",
     "first_seen": "2026-08-20T20:40:20.391Z"
+  },
+  "84286": {
+    "date": "2026-10-02",
+    "dt": "2026-10-02T22:15:00.000Z",
+    "status": "available",
+    "movie": "Behemoth!",
+    "first_seen": "2026-08-20T20:50:22.029Z"
   }
 }

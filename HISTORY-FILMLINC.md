@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 4:50 PM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**Behemoth!**
+- **Alice Tully Hall** — Fri, 10/2: [6:15pm](https://purchase.filmlinc.org/84111/84286)
+
 ## Thu, Aug 20, 4:40 PM ET · 2 new
 
 **Film at Lincoln Center** — 2 new showtimes across 2 movies

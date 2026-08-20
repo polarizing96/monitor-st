@@ -795,5 +795,13 @@
       "84279"
     ],
     "summary": "Film at Lincoln Center — 2 new showtimes · 2 movies\n\n🎬 All of a Sudden\n  Alice Tully Hall — Fri, 10/2: 2:00pm\n🎬 14th\n  Alice Tully Hall — Fri, 10/9: 8:45pm"
+  },
+  {
+    "detected_at": "2026-08-20T20:50:22.294Z",
+    "count": 1,
+    "showtime_ids": [
+      "84286"
+    ],
+    "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 Behemoth!\n  Alice Tully Hall — Fri, 10/2: 6:15pm"
   }
 ]
