@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Thu, Aug 20, 7:00 PM ET · 11 new
+
+**TDF (Broadway/Off-Broadway)** — 11 new showtimes across 1 show
+
+**The Rocky Horror Show**
+- **Broadway · Studio 54** — Tue, 8/25: [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Wed, 8/26: [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Thu, 8/27: [3:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF), [8:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Sat, 8/29: [3:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF), [8:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Sun, 8/30: [3:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Tue, 9/1: [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Wed, 9/2: [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Thu, 9/3: [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF)
+
 ## Thu, Aug 20, 5:00 PM ET · 1 new
 
 **TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show

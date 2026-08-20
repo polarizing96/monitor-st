@@ -8209,5 +8209,82 @@
     "status": null,
     "movie": "Truly, Howard Hughes",
     "first_seen": "2026-08-20T21:00:56.899Z"
+  },
+  "01tPe00000J5XDeIAN": {
+    "date": "2026-08-30",
+    "dt": "2026-08-30T19:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDdIAN": {
+    "date": "2026-08-29",
+    "dt": "2026-08-29T19:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDcIAN": {
+    "date": "2026-08-27",
+    "dt": "2026-08-27T19:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDbIAN": {
+    "date": "2026-08-27",
+    "dt": "2026-08-28T00:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDaIAN": {
+    "date": "2026-08-29",
+    "dt": "2026-08-30T00:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDZIA3": {
+    "date": "2026-09-03",
+    "dt": "2026-09-03T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDYIA3": {
+    "date": "2026-09-02",
+    "dt": "2026-09-02T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDXIA3": {
+    "date": "2026-09-01",
+    "dt": "2026-09-01T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDWIA3": {
+    "date": "2026-08-28",
+    "dt": "2026-08-28T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDVIA3": {
+    "date": "2026-08-26",
+    "dt": "2026-08-26T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J5XDUIA3": {
+    "date": "2026-08-25",
+    "dt": "2026-08-25T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-20T23:00:57.625Z"
   }
 }
