@@ -778,5 +778,13 @@
       "84267"
     ],
     "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 14th\n  Alice Tully Hall — Fri, 10/9: 6:00pm"
+  },
+  {
+    "detected_at": "2026-08-20T20:30:20.159Z",
+    "count": 1,
+    "showtime_ids": [
+      "84274"
+    ],
+    "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 All of a Sudden\n  Alice Tully Hall — Thu, 10/1: 5:00pm"
   }
 ]
