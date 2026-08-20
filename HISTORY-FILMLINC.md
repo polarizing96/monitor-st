@@ -1,5 +1,21 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 1:00 PM ET · 8 new
+
+**Film at Lincoln Center** — 8 new showtimes across 3 movies
+
+**A Long Winter**
+- **Walter Reade** — Thu, 10/1: [3:15pm](https://purchase.filmlinc.org/84126/84195) · Sat, 10/10: [3:30pm](https://purchase.filmlinc.org/84126/84196)
+
+**The Loneliest Man in Town**
+- **Walter Reade** — Thu, 10/1: [9:15pm](https://purchase.filmlinc.org/84125/84192)
+- **Francesca Beale** — Fri, 10/2: [12:30pm](https://purchase.filmlinc.org/84125/84193)
+- **Howard Gilman** — Sun, 10/11: [12:00pm](https://purchase.filmlinc.org/84125/84194)
+
+**I Rarely Wake Up Dreaming**
+- **Walter Reade** — Tue, 10/6: [6:15pm](https://purchase.filmlinc.org/84124/84189)
+- **Howard Gilman** — Wed, 10/7: [1:15pm](https://purchase.filmlinc.org/84124/84190) · Sat, 10/10: [3:30pm](https://purchase.filmlinc.org/84124/84191)
+
 ## Thu, Aug 20, 12:50 PM ET · 6 new
 
 **Film at Lincoln Center** — 6 new showtimes across 3 movies
