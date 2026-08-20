@@ -584,10 +584,10 @@
   "83568": {
     "date": "2026-08-20",
     "dt": "2026-08-20T22:30:00.000Z",
-    "status": "standby",
+    "status": "limited",
     "movie": "The Threshing",
     "first_seen": "2026-07-25T12:05:27.487Z",
-    "status_changed": "2026-08-19T22:50:17.721Z"
+    "status_changed": "2026-08-20T17:10:17.152Z"
   },
   "83570": {
     "date": "2026-08-16",
@@ -3887,5 +3887,19 @@
     "status": "available",
     "movie": "A Long Winter",
     "first_seen": "2026-08-20T17:00:24.810Z"
+  },
+  "84197": {
+    "date": "2026-10-07",
+    "dt": "2026-10-07T18:30:00.000Z",
+    "status": "available",
+    "movie": "A Man of His Time",
+    "first_seen": "2026-08-20T17:10:17.152Z"
+  },
+  "84198": {
+    "date": "2026-10-10",
+    "dt": "2026-10-10T15:30:00.000Z",
+    "status": "available",
+    "movie": "A Man of His Time",
+    "first_seen": "2026-08-20T17:10:17.152Z"
   }
 }

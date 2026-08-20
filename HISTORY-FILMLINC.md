@@ -1,5 +1,13 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 1:10 PM ET · 2 new
+
+**Film at Lincoln Center** — 2 new showtimes across 1 movie
+
+**A Man of His Time**
+- **Walter Reade** — Wed, 10/7: [2:30pm](https://purchase.filmlinc.org/84127/84197)
+- **Francesca Beale** — Sat, 10/10: [11:30am](https://purchase.filmlinc.org/84127/84198)
+
 ## Thu, Aug 20, 1:00 PM ET · 8 new
 
 **Film at Lincoln Center** — 8 new showtimes across 3 movies
