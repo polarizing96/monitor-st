@@ -639,5 +639,29 @@
       "84107"
     ],
     "summary": "Film at Lincoln Center — 2 new showtimes · 1 movie\n\n🎬 ATH SeatMap Tests\n  Alice Tully Hall — Thu, 9/3: 8:00pm, 8:00pm"
+  },
+  {
+    "detected_at": "2026-08-20T15:10:19.103Z",
+    "count": 17,
+    "showtime_ids": [
+      "84084",
+      "84085",
+      "84086",
+      "84087",
+      "84088",
+      "84089",
+      "84090",
+      "84091",
+      "84092",
+      "84093",
+      "84094",
+      "84095",
+      "84096",
+      "84097",
+      "84098",
+      "84099",
+      "84100"
+    ],
+    "summary": "Film at Lincoln Center — 17 new showtimes · 1 movie\n\n🎬 Marketa Lazarova\n  Francesca Beale — Fri, 9/4: 12:15pm, 3:30pm, 7:00pm · Sat, 9/5: 12:15pm, 3:30pm, 7:00pm · Sun, 9/6: 12:15pm, 3:30pm, 7:00pm\n  Walter Reade — Mon, 9/7: 12:15pm, 3:30pm, 7:00pm · Tue, 9/8: 12:15pm, 3:30pm, 7:00pm · Wed, 9/9: 6:00pm · Thu, 9/10: 6:00pm"
   }
 ]

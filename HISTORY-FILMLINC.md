@@ -1,5 +1,13 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 11:10 AM ET · 17 new
+
+**Film at Lincoln Center** — 17 new showtimes across 1 movie
+
+**Marketa Lazarova**
+- **Francesca Beale** — Fri, 9/4: [12:15pm](https://purchase.filmlinc.org/84083/84084), [3:30pm](https://purchase.filmlinc.org/84083/84085), [7:00pm](https://purchase.filmlinc.org/84083/84086) · Sat, 9/5: [12:15pm](https://purchase.filmlinc.org/84083/84087), [3:30pm](https://purchase.filmlinc.org/84083/84088), [7:00pm](https://purchase.filmlinc.org/84083/84089) · Sun, 9/6: [12:15pm](https://purchase.filmlinc.org/84083/84090), [3:30pm](https://purchase.filmlinc.org/84083/84091), [7:00pm](https://purchase.filmlinc.org/84083/84092)
+- **Walter Reade** — Mon, 9/7: [12:15pm](https://purchase.filmlinc.org/84083/84093), [3:30pm](https://purchase.filmlinc.org/84083/84094), [7:00pm](https://purchase.filmlinc.org/84083/84095) · Tue, 9/8: [12:15pm](https://purchase.filmlinc.org/84083/84096), [3:30pm](https://purchase.filmlinc.org/84083/84097), [7:00pm](https://purchase.filmlinc.org/84083/84098) · Wed, 9/9: [6:00pm](https://purchase.filmlinc.org/84083/84099) · Thu, 9/10: [6:00pm](https://purchase.filmlinc.org/84083/84100)
+
 ## Tue, Aug 18, 4:30 PM ET · 2 new
 
 **Film at Lincoln Center** — 2 new showtimes across 1 movie
