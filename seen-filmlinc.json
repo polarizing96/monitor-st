@@ -3789,5 +3789,47 @@
     "status": "available",
     "movie": "Everytime",
     "first_seen": "2026-08-20T16:40:17.198Z"
+  },
+  "84183": {
+    "date": "2026-10-11",
+    "dt": "2026-10-11T19:45:00.000Z",
+    "status": "available",
+    "movie": "Everytime",
+    "first_seen": "2026-08-20T16:50:20.164Z"
+  },
+  "84184": {
+    "date": "2026-10-07",
+    "dt": "2026-10-07T20:00:00.000Z",
+    "status": "available",
+    "movie": "Fatherland",
+    "first_seen": "2026-08-20T16:50:20.164Z"
+  },
+  "84185": {
+    "date": "2026-09-27",
+    "dt": "2026-09-27T21:45:00.000Z",
+    "status": "available",
+    "movie": "La Gradiva",
+    "first_seen": "2026-08-20T16:50:20.164Z"
+  },
+  "84186": {
+    "date": "2026-09-28",
+    "dt": "2026-09-28T18:30:00.000Z",
+    "status": "available",
+    "movie": "La Gradiva",
+    "first_seen": "2026-08-20T16:50:20.164Z"
+  },
+  "84187": {
+    "date": "2026-09-29",
+    "dt": "2026-09-30T00:15:00.000Z",
+    "status": "available",
+    "movie": "La Gradiva",
+    "first_seen": "2026-08-20T16:50:20.164Z"
+  },
+  "84188": {
+    "date": "2026-10-12",
+    "dt": "2026-10-12T21:45:00.000Z",
+    "status": "available",
+    "movie": "La Gradiva",
+    "first_seen": "2026-08-20T16:50:20.164Z"
   }
 }

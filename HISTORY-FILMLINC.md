@@ -1,5 +1,20 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 12:50 PM ET · 6 new
+
+**Film at Lincoln Center** — 6 new showtimes across 3 movies
+
+**La Gradiva**
+- **Walter Reade** — Sun, 9/27: [5:45pm](https://purchase.filmlinc.org/84123/84185) · Mon, 9/28: [2:30pm](https://purchase.filmlinc.org/84123/84186)
+- **Howard Gilman** — Tue, 9/29: [8:15pm](https://purchase.filmlinc.org/84123/84187)
+- **Francesca Beale** — Mon, 10/12: [5:45pm](https://purchase.filmlinc.org/84123/84188)
+
+**Fatherland**
+- **Howard Gilman** — Wed, 10/7: [4:00pm](https://purchase.filmlinc.org/84122/84184)
+
+**Everytime**
+- **Walter Reade** — Sun, 10/11: [3:45pm](https://purchase.filmlinc.org/84121/84183)
+
 ## Thu, Aug 20, 12:40 PM ET · 3 new
 
 **Film at Lincoln Center** — 3 new showtimes across 1 movie

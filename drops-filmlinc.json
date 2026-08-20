@@ -733,5 +733,18 @@
       "84182"
     ],
     "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 Everytime\n  Walter Reade — Tue, 9/29: 9:00pm · Wed, 9/30: 12:45pm\n  Francesca Beale — Tue, 10/6: 3:30pm"
+  },
+  {
+    "detected_at": "2026-08-20T16:50:20.503Z",
+    "count": 6,
+    "showtime_ids": [
+      "84185",
+      "84186",
+      "84187",
+      "84184",
+      "84183",
+      "84188"
+    ],
+    "summary": "Film at Lincoln Center — 6 new showtimes · 3 movies\n\n🎬 La Gradiva\n  Walter Reade — Sun, 9/27: 5:45pm · Mon, 9/28: 2:30pm\n  Howard Gilman — Tue, 9/29: 8:15pm\n  Francesca Beale — Mon, 10/12: 5:45pm\n🎬 Fatherland\n  Howard Gilman — Wed, 10/7: 4:00pm\n🎬 Everytime\n  Walter Reade — Sun, 10/11: 3:45pm"
   }
 ]
