@@ -1,5 +1,15 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 4:40 PM ET · 2 new
+
+**Film at Lincoln Center** — 2 new showtimes across 2 movies
+
+**All of a Sudden**
+- **Alice Tully Hall** — Fri, 10/2: [2:00pm](https://purchase.filmlinc.org/84110/84281)
+
+**14th**
+- **Alice Tully Hall** — Fri, 10/9: [8:45pm](https://purchase.filmlinc.org/84109/84279)
+
 ## Thu, Aug 20, 4:30 PM ET · 1 new
 
 **Film at Lincoln Center** — 1 new showtime across 1 movie
