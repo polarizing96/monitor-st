@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 6:20 PM ET · 2 new
+
+**Film at Lincoln Center** — 2 new showtimes across 1 movie
+
+**Program 1 The Hidden Dimension**
+- **Howard Gilman** — Sat, 9/26: [12:15pm](https://purchase.filmlinc.org/84268/84319) · Sun, 9/27: [2:15pm](https://purchase.filmlinc.org/84268/84320)
+
 ## Thu, Aug 20, 4:50 PM ET · 1 new
 
 **Film at Lincoln Center** — 1 new showtime across 1 movie

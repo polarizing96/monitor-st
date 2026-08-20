@@ -3936,5 +3936,19 @@
     "status": "available",
     "movie": "Behemoth!",
     "first_seen": "2026-08-20T20:50:22.029Z"
+  },
+  "84319": {
+    "date": "2026-09-26",
+    "dt": "2026-09-26T16:15:00.000Z",
+    "status": "available",
+    "movie": "Program 1 The Hidden Dimension",
+    "first_seen": "2026-08-20T22:20:20.292Z"
+  },
+  "84320": {
+    "date": "2026-09-27",
+    "dt": "2026-09-27T18:15:00.000Z",
+    "status": "available",
+    "movie": "Program 1 The Hidden Dimension",
+    "first_seen": "2026-08-20T22:20:20.292Z"
   }
 }

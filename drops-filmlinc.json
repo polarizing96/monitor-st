@@ -803,5 +803,14 @@
       "84286"
     ],
     "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 Behemoth!\n  Alice Tully Hall — Fri, 10/2: 6:15pm"
+  },
+  {
+    "detected_at": "2026-08-20T22:20:20.452Z",
+    "count": 2,
+    "showtime_ids": [
+      "84319",
+      "84320"
+    ],
+    "summary": "Film at Lincoln Center — 2 new showtimes · 1 movie\n\n🎬 Program 1 The Hidden Dimension\n  Howard Gilman — Sat, 9/26: 12:15pm · Sun, 9/27: 2:15pm"
   }
 ]
