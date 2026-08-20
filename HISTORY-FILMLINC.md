@@ -1,5 +1,12 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 4:20 PM ET · 1 new
+
+**Film at Lincoln Center** — 1 new showtime across 1 movie
+
+**14th**
+- **Alice Tully Hall** — Fri, 10/9: [6:00pm](https://purchase.filmlinc.org/84109/84267)
+
 ## Thu, Aug 20, 1:10 PM ET · 2 new
 
 **Film at Lincoln Center** — 2 new showtimes across 1 movie

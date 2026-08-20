@@ -3901,5 +3901,12 @@
     "status": "available",
     "movie": "A Man of His Time",
     "first_seen": "2026-08-20T17:10:17.152Z"
+  },
+  "84267": {
+    "date": "2026-10-09",
+    "dt": "2026-10-09T22:00:00.000Z",
+    "status": "available",
+    "movie": "14th",
+    "first_seen": "2026-08-20T20:20:18.718Z"
   }
 }
