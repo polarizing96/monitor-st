@@ -2083,10 +2083,10 @@
   "83871": {
     "date": "2026-09-04",
     "dt": "2026-09-04T22:15:00.000Z",
-    "status": "limited",
+    "status": "available",
     "movie": "Chronovisor",
     "first_seen": "2026-08-04T16:10:31.258Z",
-    "status_changed": "2026-08-20T04:00:23.979Z"
+    "status_changed": "2026-08-20T05:00:23.418Z"
   },
   "83872": {
     "date": "2026-09-04",
