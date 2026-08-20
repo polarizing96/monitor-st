@@ -1,5 +1,19 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 12:30 PM ET · 6 new
+
+**Film at Lincoln Center** — 6 new showtimes across 3 movies
+
+**Everything Else Is Noise**
+- **Walter Reade** — Sat, 9/26: [4:30pm](https://purchase.filmlinc.org/84120/84177)
+- **Francesca Beale** — Sun, 9/27: [9:30pm](https://purchase.filmlinc.org/84120/84178) · Mon, 10/5: [1:00pm](https://purchase.filmlinc.org/84120/84179)
+
+**The Dreamed Adventure**
+- **Francesca Beale** — Wed, 10/7: [5:30pm](https://purchase.filmlinc.org/84119/84175) · Sat, 10/10: [5:45pm](https://purchase.filmlinc.org/84119/84176)
+
+**Double Freedom**
+- **Howard Gilman** — Mon, 10/12: [1:45pm](https://purchase.filmlinc.org/84118/84174)
+
 ## Thu, Aug 20, 12:20 PM ET · 2 new
 
 **Film at Lincoln Center** — 2 new showtimes across 2 movies

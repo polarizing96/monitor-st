@@ -710,5 +710,18 @@
       "84172"
     ],
     "summary": "Film at Lincoln Center — 2 new showtimes · 2 movies\n\n🎬 Double Freedom\n  Francesca Beale — Tue, 10/6: 6:15pm\n🎬 The Diary of a Chambermaid\n  Howard Gilman — Sat, 10/10: 6:00pm"
+  },
+  {
+    "detected_at": "2026-08-20T16:30:27.507Z",
+    "count": 6,
+    "showtime_ids": [
+      "84177",
+      "84178",
+      "84179",
+      "84175",
+      "84176",
+      "84174"
+    ],
+    "summary": "Film at Lincoln Center — 6 new showtimes · 3 movies\n\n🎬 Everything Else Is Noise\n  Walter Reade — Sat, 9/26: 4:30pm\n  Francesca Beale — Sun, 9/27: 9:30pm · Mon, 10/5: 1:00pm\n🎬 The Dreamed Adventure\n  Francesca Beale — Wed, 10/7: 5:30pm · Sat, 10/10: 5:45pm\n🎬 Double Freedom\n  Howard Gilman — Mon, 10/12: 1:45pm"
   }
 ]
