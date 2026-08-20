@@ -723,5 +723,15 @@
       "84174"
     ],
     "summary": "Film at Lincoln Center — 6 new showtimes · 3 movies\n\n🎬 Everything Else Is Noise\n  Walter Reade — Sat, 9/26: 4:30pm\n  Francesca Beale — Sun, 9/27: 9:30pm · Mon, 10/5: 1:00pm\n🎬 The Dreamed Adventure\n  Francesca Beale — Wed, 10/7: 5:30pm · Sat, 10/10: 5:45pm\n🎬 Double Freedom\n  Howard Gilman — Mon, 10/12: 1:45pm"
+  },
+  {
+    "detected_at": "2026-08-20T16:40:17.302Z",
+    "count": 3,
+    "showtime_ids": [
+      "84180",
+      "84181",
+      "84182"
+    ],
+    "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 Everytime\n  Walter Reade — Tue, 9/29: 9:00pm · Wed, 9/30: 12:45pm\n  Francesca Beale — Tue, 10/6: 3:30pm"
   }
 ]

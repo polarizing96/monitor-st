@@ -1,5 +1,13 @@
 # Film at Lincoln Center — drop history
 
+## Thu, Aug 20, 12:40 PM ET · 3 new
+
+**Film at Lincoln Center** — 3 new showtimes across 1 movie
+
+**Everytime**
+- **Walter Reade** — Tue, 9/29: [9:00pm](https://purchase.filmlinc.org/84121/84180) · Wed, 9/30: [12:45pm](https://purchase.filmlinc.org/84121/84181)
+- **Francesca Beale** — Tue, 10/6: [3:30pm](https://purchase.filmlinc.org/84121/84182)
+
 ## Thu, Aug 20, 12:30 PM ET · 6 new
 
 **Film at Lincoln Center** — 6 new showtimes across 3 movies
