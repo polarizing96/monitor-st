@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 21, 3:01 PM ET · 1 new
+
+**TDF (Broadway/Off-Broadway)** — 1 new showtime across 1 show
+
+**L'Événement / The Event**
+- **Off Broadway · Cultural Center - Lycée Français de New York** — Thu, 9/24: [7:30pm](https://members.tdf.org/store/product/l-v-nement-the-event/01tPe00000J6LLNIA3)
+
 ## Fri, Aug 21, 2:01 PM ET · 6 new
 
 **TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows

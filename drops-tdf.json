@@ -1746,5 +1746,13 @@
       "01tPe00000J6XkjIAF"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 6 new showtimes · 2 shows\n\n🎬 The 25th Annual Putnam County Spelling Bee\n  Off Broadway · New World Stages — Sat, 8/22: 7:30pm\n🎬 The Rocky Horror Show\n  Broadway · Studio 54 — Fri, 9/4: 7:00pm · Sat, 9/5: 3:00pm, 8:00pm · Sun, 9/6: 2:00pm, 7:00pm"
+  },
+  {
+    "detected_at": "2026-08-21T19:01:10.033Z",
+    "count": 1,
+    "showtime_ids": [
+      "01tPe00000J6dQMIAZ"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 1 new showtime · 1 show\n\n🎬 L'Événement / The Event\n  Off Broadway · Cultural Center - Lycée Français de New York — Thu, 9/24: 7:30pm"
   }
 ]
