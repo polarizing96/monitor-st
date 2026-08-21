@@ -822,5 +822,13 @@
       "84388"
     ],
     "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 ATH SeatMap Tests\n  Alice Tully Hall — Fri, 9/4: 8:00pm, 8:00pm · Sat, 9/5: 8:00pm"
+  },
+  {
+    "detected_at": "2026-08-21T16:20:21.660Z",
+    "count": 1,
+    "showtime_ids": [
+      "84389"
+    ],
+    "summary": "Film at Lincoln Center — 1 new showtime · 1 movie\n\n🎬 ATH SeatMap Tests\n  Alice Tully Hall — Sat, 9/5: 8:00pm"
   }
 ]

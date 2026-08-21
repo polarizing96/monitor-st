@@ -3971,5 +3971,12 @@
     "status": "available",
     "movie": "ATH SeatMap Tests",
     "first_seen": "2026-08-21T16:10:20.030Z"
+  },
+  "84389": {
+    "date": "2026-09-05",
+    "dt": "2026-09-06T00:00:00.000Z",
+    "status": "available",
+    "movie": "ATH SeatMap Tests",
+    "first_seen": "2026-08-21T16:20:21.354Z"
   }
 }
