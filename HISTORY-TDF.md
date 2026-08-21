@@ -1,5 +1,18 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 21, 10:01 AM ET · 19 new
+
+**TDF (Broadway/Off-Broadway)** — 19 new showtimes across 3 shows
+
+**Hadestown**
+- **Broadway · Walter Kerr Theatre** — Wed, 9/2: [7:00pm](https://members.tdf.org/store/product/hadestown/01tPe00000H2icfIAB) · Wed, 9/9: [2:00pm](https://members.tdf.org/store/product/hadestown/01tPe00000H2icfIAB) · Tue, 9/22: [7:00pm](https://members.tdf.org/store/product/hadestown/01tPe00000H2icfIAB) · Wed, 9/23: [2:00pm](https://members.tdf.org/store/product/hadestown/01tPe00000H2icfIAB), [7:30pm](https://members.tdf.org/store/product/hadestown/01tPe00000H2icfIAB)
+
+**PHYL**
+- **Off Broadway · Theatre Row Stage 4** — Sat, 10/3: [7:00pm](https://members.tdf.org/store/product/phyl/01tPe00000J6J8HIAV) · Sun, 10/4: [2:00pm](https://members.tdf.org/store/product/phyl/01tPe00000J6J8HIAV)
+
+**Night of January 16**
+- **Off Broadway · Theatre Row Studios** — Wed, 10/7: [7:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Thu, 10/8: [7:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Fri, 10/9: [8:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Sat, 10/10: [2:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV), [8:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Sun, 10/11: [3:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Wed, 10/14: [7:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Thu, 10/15: [7:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Fri, 10/16: [8:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Sat, 10/17: [2:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV), [8:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV) · Sun, 10/18: [3:00pm](https://members.tdf.org/store/product/night-of-january-16/01tPe00000J6GtZIAV)
+
 ## Thu, Aug 20, 7:00 PM ET · 11 new
 
 **TDF (Broadway/Off-Broadway)** — 11 new showtimes across 1 show

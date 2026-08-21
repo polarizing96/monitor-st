@@ -8286,5 +8286,138 @@
     "status": null,
     "movie": "The Rocky Horror Show",
     "first_seen": "2026-08-20T23:00:57.625Z"
+  },
+  "01tPe00000J6KPJIA3": {
+    "date": "2026-09-09",
+    "dt": "2026-09-09T18:00:00Z",
+    "status": null,
+    "movie": "Hadestown",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6KKTIA3": {
+    "date": "2026-09-23",
+    "dt": "2026-09-23T18:00:00Z",
+    "status": null,
+    "movie": "Hadestown",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6KHFIA3": {
+    "date": "2026-09-22",
+    "dt": "2026-09-22T23:00:00Z",
+    "status": null,
+    "movie": "Hadestown",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6KFeIAN": {
+    "date": "2026-09-23",
+    "dt": "2026-09-23T23:30:00Z",
+    "status": null,
+    "movie": "Hadestown",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6JrRIAV": {
+    "date": "2026-09-02",
+    "dt": "2026-09-02T23:00:00Z",
+    "status": null,
+    "movie": "Hadestown",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmmIAF": {
+    "date": "2026-10-18",
+    "dt": "2026-10-18T19:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmlIAF": {
+    "date": "2026-10-11",
+    "dt": "2026-10-11T19:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmkIAF": {
+    "date": "2026-10-17",
+    "dt": "2026-10-17T18:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmjIAF": {
+    "date": "2026-10-10",
+    "dt": "2026-10-10T18:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmiIAF": {
+    "date": "2026-10-17",
+    "dt": "2026-10-18T00:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmhIAF": {
+    "date": "2026-10-16",
+    "dt": "2026-10-17T00:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmgIAF": {
+    "date": "2026-10-10",
+    "dt": "2026-10-11T00:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmfIAF": {
+    "date": "2026-10-09",
+    "dt": "2026-10-10T00:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmeIAF": {
+    "date": "2026-10-15",
+    "dt": "2026-10-15T23:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmdIAF": {
+    "date": "2026-10-14",
+    "dt": "2026-10-14T23:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmcIAF": {
+    "date": "2026-10-08",
+    "dt": "2026-10-08T23:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6HmbIAF": {
+    "date": "2026-10-07",
+    "dt": "2026-10-07T23:00:00Z",
+    "status": null,
+    "movie": "Night of January 16",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6Jl2IAF": {
+    "date": "2026-10-04",
+    "dt": "2026-10-04T18:00:00Z",
+    "status": null,
+    "movie": "PHYL",
+    "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6Jl1IAF": {
+    "date": "2026-10-03",
+    "dt": "2026-10-03T23:00:00Z",
+    "status": null,
+    "movie": "PHYL",
+    "first_seen": "2026-08-21T14:01:02.469Z"
   }
 }
