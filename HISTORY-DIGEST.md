@@ -96,6 +96,102 @@
 ### WP Theater
 - **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
 
+## Friday, August 21 · 46 showtimes · 31 venues
+
+### 59E59 Theaters
+- **Hershey Felder: The Piano and Me** — [7:00pm](https://members.tdf.org/store/product/hershey-felder-the-piano-and-me/01tPe00000HmPITIA3)
+
+### Carmine's Times Square
+- **Speakeasy, Die Softly** — [7:00pm](https://members.tdf.org/store/product/speakeasy-die-softly/01tPe00000H7q1hIAB)
+
+### Duke on 42nd Street
+- **Label•Less** — [5:00pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN), [8:30pm](https://members.tdf.org/store/product/label-less/01tPe00000H4LIbIAN)
+
+### Ellen Stewart Theatre at La MaMa
+- **The Pass** — [7:00pm](https://members.tdf.org/store/product/the-pass/01tPe00000I1ir5IAB)
+
+### Eugene O'Neill Theatre
+- **The Book of Mormon** — [7:00pm](https://members.tdf.org/store/product/the-book-of-mormon/01tPe00000Hazb3IAB)
+
+### Francesca Beale
+- **Late Fame** — [1:15pm](https://purchase.filmlinc.org/83634/84049), [3:45pm](https://purchase.filmlinc.org/83634/84050), [6:15pm](https://purchase.filmlinc.org/83634/84051), [8:45pm](https://purchase.filmlinc.org/83634/84052)
+
+### Gerald Schoenfeld Theatre
+- **Buena Vista Social Club** — [7:00pm](https://members.tdf.org/store/product/buena-vista-social-club/01tPe00000H2jP3IAJ)
+
+### Howard Gilman
+- **The Samurai and the Prisoner** — [12:00pm](https://purchase.filmlinc.org/83373/84022), [3:00pm](https://purchase.filmlinc.org/83373/84023), [6:00pm](https://purchase.filmlinc.org/83373/84024), [9:00pm](https://purchase.filmlinc.org/83373/84025)
+
+### Jazz at Lincoln Center
+- **Marilyn Maye** — [7:00pm](https://ticketing.jazz.org/21236/21237), [9:00pm](https://ticketing.jazz.org/21236/21238)
+
+### Laura Pels Theatre
+- **A Walk on the Moon** — [7:30pm](https://members.tdf.org/store/product/a-walk-on-the-moon/01tPe00000GbwBtIAJ)
+
+### Lincoln Center Theater
+- **The Whoopi Monologues** — [7:30pm](https://lct.org/shows/the-whoopi-monologues/)
+
+### Lincoln Center
+- **Lincoln Center Tours** — [Multiple Times](https://www.lincolncenter.org/i/about/lincoln-center-tours-1-900)
+
+### Longacre Theatre
+- **Two Strangers (Carry a Cake Across New York)** — [7:30pm](https://members.tdf.org/store/product/two-strangers-carry-a-cake-across-new-york/01tPe00000H2l13IAB)
+
+### Lucille Lortel Theatre
+- **Cat Cohen: Broad Strokes** — [7:00pm](https://members.tdf.org/store/product/cat-cohen-broad-strokes/01tPe00000HUoC5IAL)
+
+### Lynn F. Angelson Theater
+- **The Real Ivanov** — [8:00pm](https://members.tdf.org/store/product/the-real-ivanov/01tPe00000I5ctdIAB)
+
+### Marquis Theatre
+- **Stranger Things: The First Shadow** — [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+### New World Stages
+- **The Play That Goes Wrong** — [7:00pm](https://members.tdf.org/store/product/the-play-that-goes-wrong/01tPe00000Hi6mHIAR)
+
+### Palace Theatre
+- **The Lost Boys** — [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
+### Soho Playhouse
+- **Hungry Women** — [7:00pm](https://members.tdf.org/store/product/hungry-women/01tPe00000HkMWnIAN)
+
+### St. Lukes Theatre
+- **Music City** — [7:00pm](https://members.tdf.org/store/product/music-city/01tPe00000HAlblIAD)
+
+### Stephen Sondheim Theatre
+- **& Juliet** — [8:00pm](https://members.tdf.org/store/product/juliet/01tPe00000H2j0rIAB)
+
+### Superfine
+- **The Circuit: An Immersive Silent Disco Ballet** — [7:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [8:15pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB), [9:30pm](https://members.tdf.org/store/product/the-circuit-an-immersive-silent-disco-ballet/01tPe00000H9f29IAB)
+
+### The Irene Diamond Stage at The Pershing Square Signatur
+- **An American Daughter** — [7:00pm](https://members.tdf.org/store/product/an-american-daughter/01tPe00000HayOrIAJ)
+
+### The New York Public Library for the Performing Arts
+- **Floor to Ceiling Dance and Learn: Graham Technique** — [11:00am](https://www.nypl.org/https://qa-www.nypl.org/events/programs/2026/08/06/floor-ceiling-dance-and-learn-graham-technique)
+
+### The Players Theatre
+- **Marlise** — [7:00pm](https://members.tdf.org/store/product/marlise/01tPe00000HzxMLIAZ)
+- **Masticate** — [7:00pm](https://members.tdf.org/store/product/masticate/01tPe00000I00aLIAR)
+
+### The Ruby Theatre
+- **Drunk Romeo and Juliet** — [7:00pm](https://members.tdf.org/store/), [9:00pm](https://members.tdf.org/store/)
+
+### The Space at Irondale
+- **Brooklyn's Bridge** — [7:30pm](https://members.tdf.org/store/product/brooklyn-s-bridge/01tPe00000ILuuTIAT)
+
+### The Theater Center
+- **Perfect Crime** — [8:00pm](https://members.tdf.org/store/product/perfect-crime/01tPe00000H4PPRIA3)
+
+### Theatre XIV
+- **Petite Rouge - by Company XIV** — [8:00pm](https://members.tdf.org/store/product/petite-rouge-by-company-xiv/01tPe00000H4PxJIAV)
+
+### Walter Reade
+- **Franz** — [12:30pm](https://purchase.filmlinc.org/83703/83704), [3:15pm](https://purchase.filmlinc.org/83703/83705), [6:00pm](https://purchase.filmlinc.org/83703/83706), [8:45pm](https://purchase.filmlinc.org/83703/83707)
+
+### WP Theater
+- **Isla** — [7:00pm](https://members.tdf.org/store/product/isla/01tPe00000IQYTVIA5)
+
 ## Thursday, August 20 · 53 showtimes · 34 venues
 
 ### 59E59 Theaters
