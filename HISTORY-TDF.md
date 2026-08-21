@@ -1,5 +1,15 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 21, 2:01 PM ET · 6 new
+
+**TDF (Broadway/Off-Broadway)** — 6 new showtimes across 2 shows
+
+**The 25th Annual Putnam County Spelling Bee**
+- **Off Broadway · New World Stages** — Sat, 8/22: [7:30pm](https://members.tdf.org/store/product/the-25th-annual-putnam-county-spelling-bee/01tPe00000H4R33IAF)
+
+**The Rocky Horror Show**
+- **Broadway · Studio 54** — Fri, 9/4: [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Sat, 9/5: [3:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF), [8:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF) · Sun, 9/6: [2:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF), [7:00pm](https://members.tdf.org/store/product/the-rocky-horror-show/01tPe00000J5VcvIAF)
+
 ## Fri, Aug 21, 12:01 PM ET · 11 new
 
 **TDF (Broadway/Off-Broadway)** — 11 new showtimes across 4 shows

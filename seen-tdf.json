@@ -8517,5 +8517,47 @@
     "status": null,
     "movie": "The Lost Boys",
     "first_seen": "2026-08-21T16:00:59.907Z"
+  },
+  "01tPe00000J6PX3IAN": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T23:30:00Z",
+    "status": null,
+    "movie": "The 25th Annual Putnam County Spelling Bee",
+    "first_seen": "2026-08-21T18:01:03.627Z"
+  },
+  "01tPe00000J6XrBIAV": {
+    "date": "2026-09-05",
+    "dt": "2026-09-05T19:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-21T18:01:03.627Z"
+  },
+  "01tPe00000J6XkjIAF": {
+    "date": "2026-09-06",
+    "dt": "2026-09-06T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-21T18:01:03.627Z"
+  },
+  "01tPe00000J6XhVIAV": {
+    "date": "2026-09-05",
+    "dt": "2026-09-06T00:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-21T18:01:03.627Z"
+  },
+  "01tPe00000J6Xb3IAF": {
+    "date": "2026-09-06",
+    "dt": "2026-09-06T18:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-21T18:01:03.627Z"
+  },
+  "01tPe00000J6XWDIA3": {
+    "date": "2026-09-04",
+    "dt": "2026-09-04T23:00:00Z",
+    "status": null,
+    "movie": "The Rocky Horror Show",
+    "first_seen": "2026-08-21T18:01:03.627Z"
   }
 }
