@@ -1,5 +1,12 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 21, 11:01 AM ET · 3 new
+
+**TDF (Broadway/Off-Broadway)** — 3 new showtimes across 1 show
+
+**The Lost Boys**
+- **Broadway · Palace Theatre** — Sat, 8/22: [2:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Sun, 8/23: [3:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ) · Sun, 8/30: [7:30pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
 ## Fri, Aug 21, 10:01 AM ET · 19 new
 
 **TDF (Broadway/Off-Broadway)** — 19 new showtimes across 3 shows

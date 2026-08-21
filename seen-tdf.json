@@ -8419,5 +8419,26 @@
     "status": null,
     "movie": "PHYL",
     "first_seen": "2026-08-21T14:01:02.469Z"
+  },
+  "01tPe00000J6N73IAF": {
+    "date": "2026-08-30",
+    "dt": "2026-08-30T23:30:00Z",
+    "status": null,
+    "movie": "The Lost Boys",
+    "first_seen": "2026-08-21T15:01:01.545Z"
+  },
+  "01tPe00000J6MxNIAV": {
+    "date": "2026-08-23",
+    "dt": "2026-08-23T19:00:00Z",
+    "status": null,
+    "movie": "The Lost Boys",
+    "first_seen": "2026-08-21T15:01:01.545Z"
+  },
+  "01tPe00000J6Mu9IAF": {
+    "date": "2026-08-22",
+    "dt": "2026-08-22T18:00:00Z",
+    "status": null,
+    "movie": "The Lost Boys",
+    "first_seen": "2026-08-21T15:01:01.545Z"
   }
 }

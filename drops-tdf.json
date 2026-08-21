@@ -1705,5 +1705,15 @@
       "01tPe00000J6HmmIAF"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 19 new showtimes · 3 shows\n\n🎬 Hadestown\n  Broadway · Walter Kerr Theatre — Wed, 9/2: 7:00pm · Wed, 9/9: 2:00pm · Tue, 9/22: 7:00pm · Wed, 9/23: 2:00pm, 7:30pm\n🎬 PHYL\n  Off Broadway · Theatre Row Stage 4 — Sat, 10/3: 7:00pm · Sun, 10/4: 2:00pm\n🎬 Night of January 16\n  Off Broadway · Theatre Row Studios — Wed, 10/7: 7:00pm · Thu, 10/8: 7:00pm · Fri, 10/9: 8:00pm · Sat, 10/10: 2:00pm, 8:00pm · Sun, 10/11: 3:00pm · Wed, 10/14: 7:00pm · Thu, 10/15: 7:00pm · Fri, 10/16: 8:00pm · Sat, 10/17: 2:00pm, 8:00pm · Sun, 10/18: 3:00pm"
+  },
+  {
+    "detected_at": "2026-08-21T15:01:01.936Z",
+    "count": 3,
+    "showtime_ids": [
+      "01tPe00000J6Mu9IAF",
+      "01tPe00000J6MxNIAV",
+      "01tPe00000J6N73IAF"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 The Lost Boys\n  Broadway · Palace Theatre — Sat, 8/22: 2:00pm · Sun, 8/23: 3:00pm · Sun, 8/30: 7:30pm"
   }
 ]
