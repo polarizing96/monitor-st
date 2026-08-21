@@ -812,5 +812,15 @@
       "84320"
     ],
     "summary": "Film at Lincoln Center — 2 new showtimes · 1 movie\n\n🎬 Program 1 The Hidden Dimension\n  Howard Gilman — Sat, 9/26: 12:15pm · Sun, 9/27: 2:15pm"
+  },
+  {
+    "detected_at": "2026-08-21T16:10:22.233Z",
+    "count": 3,
+    "showtime_ids": [
+      "84386",
+      "84387",
+      "84388"
+    ],
+    "summary": "Film at Lincoln Center — 3 new showtimes · 1 movie\n\n🎬 ATH SeatMap Tests\n  Alice Tully Hall — Fri, 9/4: 8:00pm, 8:00pm · Sat, 9/5: 8:00pm"
   }
 ]

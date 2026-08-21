@@ -3950,5 +3950,26 @@
     "status": "available",
     "movie": "Program 1 The Hidden Dimension",
     "first_seen": "2026-08-20T22:20:20.292Z"
+  },
+  "84386": {
+    "date": "2026-09-04",
+    "dt": "2026-09-05T00:00:00.000Z",
+    "status": "available",
+    "movie": "ATH SeatMap Tests",
+    "first_seen": "2026-08-21T16:10:20.030Z"
+  },
+  "84387": {
+    "date": "2026-09-04",
+    "dt": "2026-09-05T00:00:00.000Z",
+    "status": "available",
+    "movie": "ATH SeatMap Tests",
+    "first_seen": "2026-08-21T16:10:20.030Z"
+  },
+  "84388": {
+    "date": "2026-09-05",
+    "dt": "2026-09-06T00:00:00.000Z",
+    "status": "available",
+    "movie": "ATH SeatMap Tests",
+    "first_seen": "2026-08-21T16:10:20.030Z"
   }
 }
