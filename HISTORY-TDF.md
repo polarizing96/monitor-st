@@ -1,5 +1,21 @@
 # TDF Broadway / Off-Broadway showtimes — drop history
 
+## Fri, Aug 21, 12:01 PM ET · 11 new
+
+**TDF (Broadway/Off-Broadway)** — 11 new showtimes across 4 shows
+
+**The 25th Annual Putnam County Spelling Bee**
+- **Off Broadway · New World Stages** — Sun, 8/23: [7:00pm](https://members.tdf.org/store/product/the-25th-annual-putnam-county-spelling-bee/01tPe00000H4R33IAF)
+
+**Stranger Things: The First Shadow**
+- **Broadway · Marquis Theatre** — Wed, 8/26: [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Sat, 8/29: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB), [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Sun, 8/30: [1:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB), [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Tue, 9/1: [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB) · Wed, 9/2: [7:00pm](https://members.tdf.org/store/product/stranger-things-the-first-shadow/01tPe00000H2l97IAB)
+
+**The Great Gatsby**
+- **Broadway · Broadway Theatre** — Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/the-great-gatsby/01tPe00000H2lFZIAZ)
+
+**The Lost Boys**
+- **Broadway · Palace Theatre** — Fri, 8/28: [7:00pm](https://members.tdf.org/store/product/the-lost-boys/01tPe00000GbwH0IAJ)
+
 ## Fri, Aug 21, 11:01 AM ET · 3 new
 
 **TDF (Broadway/Off-Broadway)** — 3 new showtimes across 1 show

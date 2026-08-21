@@ -1715,5 +1715,23 @@
       "01tPe00000J6N73IAF"
     ],
     "summary": "TDF (Broadway/Off-Broadway) — 3 new showtimes · 1 show\n\n🎬 The Lost Boys\n  Broadway · Palace Theatre — Sat, 8/22: 2:00pm · Sun, 8/23: 3:00pm · Sun, 8/30: 7:30pm"
+  },
+  {
+    "detected_at": "2026-08-21T16:01:00.329Z",
+    "count": 11,
+    "showtime_ids": [
+      "01tPe00000J6PX4IAN",
+      "01tPe00000J6SI1IAN",
+      "01tPe00000J6SLFIA3",
+      "01tPe00000J6T61IAF",
+      "01tPe00000J3WhxIAF",
+      "01tPe00000J6SebIAF",
+      "01tPe00000J6SOTIA3",
+      "01tPe00000J6ShpIAF",
+      "01tPe00000J6SRhIAN",
+      "01tPe00000J6STJIA3",
+      "01tPe00000J6SWXIA3"
+    ],
+    "summary": "TDF (Broadway/Off-Broadway) — 11 new showtimes · 4 shows\n\n🎬 The 25th Annual Putnam County Spelling Bee\n  Off Broadway · New World Stages — Sun, 8/23: 7:00pm\n🎬 Stranger Things: The First Shadow\n  Broadway · Marquis Theatre — Wed, 8/26: 7:00pm · Fri, 8/28: 7:00pm · Sat, 8/29: 1:00pm, 7:00pm · Sun, 8/30: 1:00pm, 7:00pm · Tue, 9/1: 7:00pm · Wed, 9/2: 7:00pm\n🎬 The Great Gatsby\n  Broadway · Broadway Theatre — Fri, 8/28: 7:00pm\n🎬 The Lost Boys\n  Broadway · Palace Theatre — Fri, 8/28: 7:00pm"
   }
 ]
